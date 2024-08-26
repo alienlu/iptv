@@ -2998,8 +2998,6 @@ http://tenfarr.com:4000/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://tenfarr.com:4000/udp/239.77.1.40:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
-http://14.112.86.108:8008/udp/239.77.0.48:5146
-#EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://113.94.31.25:4022/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://113.94.31.25:4022/udp/239.77.1.40:5146
@@ -3897,6 +3895,8 @@ http://113.93.51.232:2000/udp/239.77.1.162:5146
 http://113.93.51.232:2000/udp/239.77.1.210:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
 http://113.93.51.232:2000/udp/239.77.0.182:5146
+#EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
+http://113.94.31.25:4022/udp/239.77.1.162:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
 http://14.112.86.108:8008/udp/239.77.0.64:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
