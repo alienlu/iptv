@@ -487,6 +487,8 @@ http://121.32.205.227:9999/udp/239.77.0.87:5146
 http://121.32.205.227:9999/udp/239.77.1.31:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://121.32.205.227:9999/udp/239.77.1.147:5146
+#EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
+http://14.19.179.158:4022/udp/239.77.1.31:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://113.74.172.147:4000/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
@@ -655,8 +657,6 @@ http://125.89.163.44:8888/udp/239.77.1.169:5146
 http://121.32.205.227:9999/udp/239.77.1.113:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://121.32.205.227:9999/udp/239.77.1.169:5146
-#EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
-http://14.19.179.158:4022/udp/239.77.1.113:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
 http://113.74.172.147:4000/udp/239.77.0.134:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
@@ -2491,8 +2491,6 @@ http://125.89.163.44:8888/udp/239.77.1.232:5146
 http://121.32.205.227:9999/udp/239.77.1.232:5146
 #EXTINF:-1,tvg-name="HZTV-1高清" group-title="其他", HZTV-1高清
 http://113.117.106.192:8800/udp/239.77.1.232:5146
-#EXTINF:-1,tvg-name="HZTV-1高清" group-title="其他", HZTV-1高清
-http://14.19.179.158:4022/udp/239.77.1.232:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://113.74.172.147:4000/udp/239.77.0.248:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
@@ -3277,6 +3275,8 @@ http://125.89.163.44:8888/udp/239.253.43.63:5146
 http://113.117.106.192:8800/udp/239.253.43.63:5146
 #EXTINF:-1,tvg-name="香山文化高清" group-title="其他", 香山文化高清
 http://121.32.205.227:9999/udp/239.253.43.63:5146
+#EXTINF:-1,tvg-name="香山文化高清" group-title="其他", 香山文化高清
+http://14.19.179.158:4022/udp/239.253.43.63:5146
 #EXTINF:-1,tvg-name="中山教育" group-title="其他", 中山教育
 http://113.74.172.147:4000/udp/239.253.43.61:5146
 #EXTINF:-1,tvg-name="中山教育" group-title="其他", 中山教育
