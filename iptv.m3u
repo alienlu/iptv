@@ -1538,8 +1538,6 @@ http://113.117.106.192:8800/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://113.65.7.242:8888/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
-http://125.89.163.44:8888/udp/239.253.43.201:5146
-#EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://121.32.205.227:9999/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://58.62.234.251:10000/udp/239.253.43.201:5146
@@ -3807,8 +3805,6 @@ http://125.89.163.44:8888/udp/239.77.0.197:5146
 http://121.32.205.227:9999/udp/239.77.0.197:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
 http://58.62.234.251:10000/udp/239.77.0.197:5146
-#EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
-http://l2tp.yeedah.xyz:8000/udp/239.77.0.197:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
 http://113.93.55.247:5555/udp/239.77.0.197:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
