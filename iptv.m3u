@@ -227,8 +227,6 @@ http://113.94.58.116:10010/udp/239.77.0.85:5146
 http://113.93.51.38:2000/udp/239.77.0.85:5146
 #EXTINF:-1,tvg-name="经济科教高清" group-title="其他", 经济科教高清
 http://116.22.147.124:6868/udp/239.77.0.85:5146
-#EXTINF:-1,tvg-name="经济科教高清" group-title="其他", 经济科教高清
-http://14.19.179.158:4022/udp/239.77.0.85:5146
 #EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
 http://113.74.172.147:4000/udp/239.77.0.167:5146
 #EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
@@ -249,8 +247,6 @@ http://116.22.147.124:6868/udp/239.77.0.167:5146
 http://113.94.58.116:10010/udp/239.77.0.167:5146
 #EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
 http://113.93.55.247:5555/udp/239.77.0.167:5146
-#EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
-http://14.19.179.158:4022/udp/239.77.0.167:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
 http://113.74.172.147:4000/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
@@ -307,8 +303,6 @@ http://113.94.58.116:10010/udp/239.253.43.99:5146
 http://113.93.51.38:2000/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
 http://116.22.147.124:6868/udp/239.253.43.99:5146
-#EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
-http://14.19.179.158:4022/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
 http://113.74.172.147:4000/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
@@ -465,8 +459,6 @@ http://116.22.147.124:6868/udp/239.77.1.158:5146
 http://116.22.147.124:6868/udp/239.253.43.17:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
 http://113.93.55.247:5555/udp/239.77.1.158:5146
-#EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
-http://14.19.179.158:4022/udp/239.77.1.158:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://113.74.172.147:4000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
@@ -581,8 +573,6 @@ http://113.94.58.116:10010/udp/239.77.0.78:5146
 http://113.93.55.247:5555/udp/239.77.1.163:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://113.93.55.247:5555/udp/239.77.0.78:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://14.19.179.158:4022/udp/239.77.1.163:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
 http://113.74.172.147:4000/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
