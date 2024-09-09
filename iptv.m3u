@@ -68,13 +68,17 @@ http://116.22.254.38:9999/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://116.22.254.38:9999/udp/239.77.0.84:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://113.83.248.53:4200/udp/239.77.0.84:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://125.89.163.44:8888/udp/239.77.1.19:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://125.89.163.44:8888/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://125.89.163.44:8888/udp/239.77.0.84:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://14.19.179.71:4022/udp/239.77.1.19:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://14.19.179.71:4022/udp/239.77.1.152:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://14.19.179.71:4022/udp/239.77.0.84:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://tenfarr.com:4000/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
@@ -93,6 +97,8 @@ http://116.18.36.100:4000/udp/239.77.0.166:5146
 http://116.22.254.38:9999/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://125.89.163.44:8888/udp/239.77.0.166:5146
+#EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
+http://14.19.179.71:4022/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东珠江高清" group-title="广东", 广东珠江高清
 http://tenfarr.com:4000/udp/239.77.0.1:5146
 #EXTINF:-1,tvg-name="广东珠江高清" group-title="广东", 广东珠江高清
@@ -425,6 +431,8 @@ http://125.89.163.44:8888/udp/239.77.1.17:5146
 http://125.89.163.44:8888/udp/239.77.1.144:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://125.89.163.44:8888/udp/239.77.0.86:5146
+#EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
+http://14.19.179.71:4022/udp/239.77.1.144:5146
 #EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
 http://tenfarr.com:4000/udp/239.77.0.129:5146
 #EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
@@ -443,6 +451,8 @@ http://116.18.36.100:4000/udp/239.77.0.129:5146
 http://116.22.254.38:9999/udp/239.77.0.129:5146
 #EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
 http://125.89.163.44:8888/udp/239.77.0.129:5146
+#EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
+http://14.19.179.71:4022/udp/239.77.0.129:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
 http://tenfarr.com:4000/udp/239.77.1.158:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
@@ -1603,8 +1613,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.0.4:5146
 http://113.94.58.116:10010/udp/239.77.0.4:5146
 #EXTINF:-1,tvg-name="广东新闻" group-title="广东", 广东新闻
 http://113.93.55.208:5555/udp/239.77.0.4:5146
-#EXTINF:-1,tvg-name="广东新闻" group-title="广东", 广东新闻
-http://14.145.234.231:8888/udp/239.77.0.4:5146
 #EXTINF:-1,tvg-name="广东新闻" group-title="广东", 广东新闻
 http://116.18.36.100:4000/udp/239.77.0.4:5146
 #EXTINF:-1,tvg-name="广东新闻" group-title="广东", 广东新闻
@@ -3214,8 +3222,6 @@ http://113.94.58.116:10010/udp/239.77.1.224:5146
 #EXTINF:-1,tvg-name="深圳东部频道高清" group-title="其他", 深圳东部频道高清
 http://113.93.55.208:5555/udp/239.77.1.224:5146
 #EXTINF:-1,tvg-name="深圳东部频道高清" group-title="其他", 深圳东部频道高清
-http://14.145.234.231:8888/udp/239.77.1.224:5146
-#EXTINF:-1,tvg-name="深圳东部频道高清" group-title="其他", 深圳东部频道高清
 http://116.18.36.100:4000/udp/239.77.1.224:5146
 #EXTINF:-1,tvg-name="深圳东部频道高清" group-title="其他", 深圳东部频道高清
 http://119.134.111.92:8888/udp/239.77.1.224:5146
@@ -3463,8 +3469,6 @@ http://113.65.7.242:8888/udp/239.77.0.121:5146
 http://113.94.58.116:10010/udp/239.77.0.121:5146
 #EXTINF:-1,tvg-name="湛江公共" group-title="其他", 湛江公共
 http://113.93.55.208:5555/udp/239.77.0.121:5146
-#EXTINF:-1,tvg-name="湛江公共" group-title="其他", 湛江公共
-http://14.145.234.231:8888/udp/239.77.0.121:5146
 #EXTINF:-1,tvg-name="湛江公共" group-title="其他", 湛江公共
 http://116.18.36.100:4000/udp/239.77.0.121:5146
 #EXTINF:-1,tvg-name="湛江公共" group-title="其他", 湛江公共
