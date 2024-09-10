@@ -109,12 +109,6 @@ http://113.100.72.213:8899/udp/239.77.1.19:5146
 http://113.100.72.213:8899/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://113.100.72.213:8899/udp/239.77.0.84:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://113.83.248.53:4200/udp/239.77.1.19:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://113.83.248.53:4200/udp/239.77.1.152:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://113.83.248.53:4200/udp/239.77.0.84:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://tenfarr.com:4000/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
@@ -287,8 +281,6 @@ http://116.28.99.75:10001/udp/239.77.0.225:5146
 http://125.89.163.44:8888/udp/239.77.0.225:5146
 #EXTINF:-1,tvg-name="广东民生高清" group-title="广东", 广东民生高清
 http://113.100.72.213:8899/udp/239.77.0.225:5146
-#EXTINF:-1,tvg-name="广东民生高清" group-title="广东", 广东民生高清
-http://113.83.248.53:4200/udp/239.77.0.225:5146
 #EXTINF:-1,tvg-name="广东体育高清" group-title="广东", 广东体育高清
 http://tenfarr.com:4000/udp/239.77.0.112:5146
 #EXTINF:-1,tvg-name="广东体育高清" group-title="广东", 广东体育高清
@@ -321,8 +313,6 @@ http://116.28.99.75:10001/udp/239.77.0.112:5146
 http://125.89.163.44:8888/udp/239.77.0.112:5146
 #EXTINF:-1,tvg-name="广东体育高清" group-title="广东", 广东体育高清
 http://113.100.72.213:8899/udp/239.77.0.112:5146
-#EXTINF:-1,tvg-name="广东体育高清" group-title="广东", 广东体育高清
-http://113.83.248.53:4200/udp/239.77.0.112:5146
 #EXTINF:-1,tvg-name="广东体育超清" group-title="广东", 广东体育超清
 http://tenfarr.com:4000/udp/239.77.0.168:5146
 #EXTINF:-1,tvg-name="广东体育超清" group-title="广东", 广东体育超清
@@ -355,8 +345,6 @@ http://116.28.99.75:10001/udp/239.77.0.168:5146
 http://125.89.163.44:8888/udp/239.77.0.168:5146
 #EXTINF:-1,tvg-name="广东体育超清" group-title="广东", 广东体育超清
 http://113.100.72.213:8899/udp/239.77.0.168:5146
-#EXTINF:-1,tvg-name="广东体育超清" group-title="广东", 广东体育超清
-http://113.83.248.53:4200/udp/239.77.0.168:5146
 #EXTINF:-1,tvg-name="经济科教高清" group-title="其他", 经济科教高清
 http://tenfarr.com:4000/udp/239.77.0.85:5146
 #EXTINF:-1,tvg-name="经济科教高清" group-title="其他", 经济科教高清
@@ -2297,6 +2285,8 @@ http://116.28.99.75:10001/udp/239.77.0.199:5146
 http://125.89.163.44:8888/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
 http://113.100.72.213:8899/udp/239.77.0.199:5146
+#EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
+http://183.33.58.214:8686/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://113.74.172.147:4000/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
@@ -2329,6 +2319,10 @@ http://119.134.111.101:8888/udp/239.77.0.221:5146
 http://116.28.99.75:10001/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://113.100.72.213:8899/udp/239.77.0.221:5146
+#EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
+http://183.33.58.214:8686/udp/239.77.0.221:5146
+#EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
+http://125.89.163.44:8888/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
 http://113.74.172.147:4000/udp/239.77.0.228:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
@@ -2497,6 +2491,8 @@ http://125.89.163.44:8888/udp/239.77.1.2:5146
 http://113.100.72.213:8899/udp/239.77.0.2:5146
 #EXTINF:-1,tvg-name="广东卫视" group-title="广东", 广东卫视
 http://113.100.72.213:8899/udp/239.77.1.2:5146
+#EXTINF:-1,tvg-name="广东卫视" group-title="广东", 广东卫视
+http://14.145.234.231:8888/udp/239.77.1.2:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
 http://113.74.172.147:4000/udp/239.77.0.3:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
@@ -2919,6 +2915,8 @@ http://116.28.99.75:10001/udp/239.77.0.12:5146
 http://125.89.163.44:8888/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
 http://113.100.72.213:8899/udp/239.77.0.12:5146
+#EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
+http://14.145.234.231:8888/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://113.74.172.147:4000/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
@@ -3661,6 +3659,8 @@ http://116.28.99.75:10001/udp/239.253.43.74:5146
 http://125.89.163.44:8888/udp/239.253.43.74:5146
 #EXTINF:-1,tvg-name="广州法治高清" group-title="其他", 广州法治高清
 http://113.100.72.213:8899/udp/239.253.43.74:5146
+#EXTINF:-1,tvg-name="广州法治高清" group-title="其他", 广州法治高清
+http://14.145.234.231:8888/udp/239.253.43.74:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
 http://113.74.172.147:4000/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
@@ -9569,6 +9569,8 @@ http://125.89.163.44:8888/udp/239.77.1.73:5146
 http://113.100.72.213:8899/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://113.100.72.213:8899/udp/239.77.1.73:5146
+#EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://14.145.234.231:8888/udp/239.77.1.73:5146
 #EXTINF:-1,tvg-name="江西卫视高清" group-title="卫视", 江西卫视高清
 http://tenfarr.com:4000/udp/239.77.1.219:5146
 #EXTINF:-1,tvg-name="江西卫视高清" group-title="卫视", 江西卫视高清
