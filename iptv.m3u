@@ -1314,8 +1314,6 @@ http://113.100.72.213:8899/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://113.93.51.233:2000/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
-http://116.5.239.0:8000/udp/239.77.0.181:5146
-#EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://121.13.55.66:4022/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://113.93.54.144:5555/udp/239.77.0.181:5146
@@ -1329,6 +1327,8 @@ http://msa.mxsa.cc:4000/udp/239.77.0.181:5146
 http://116.23.97.247:50000/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://113.118.207.173:4022/udp/239.77.0.181:5146
+#EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
+http://116.5.239.0:8000/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://113.74.172.147:4000/udp/239.77.1.160:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
