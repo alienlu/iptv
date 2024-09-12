@@ -564,8 +564,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
 http://14.145.234.231:8888/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
-http://116.22.147.62:6868/udp/239.77.0.179:5146
-#EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
 http://119.129.239.238:10000/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
 http://125.89.163.44:8888/udp/239.77.0.179:5146
@@ -611,12 +609,6 @@ http://14.145.234.231:8888/udp/239.77.1.17:5146
 http://14.145.234.231:8888/udp/239.77.1.144:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://14.145.234.231:8888/udp/239.77.0.86:5146
-#EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
-http://116.22.147.62:6868/udp/239.77.1.17:5146
-#EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
-http://116.22.147.62:6868/udp/239.77.1.144:5146
-#EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
-http://116.22.147.62:6868/udp/239.77.0.86:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://119.129.239.238:10000/udp/239.77.1.17:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
@@ -694,8 +686,6 @@ http://tenfarr.com:4000/udp/239.77.0.129:5146
 #EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
 http://113.65.7.242:8888/udp/239.77.0.129:5146
 #EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
-http://116.22.147.62:6868/udp/239.77.0.129:5146
-#EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
 http://119.129.239.238:10000/udp/239.77.0.129:5146
 #EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
 http://14.145.234.231:8888/udp/239.77.0.129:5146
@@ -735,10 +725,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.158:5146
 http://l2tp.yeedah.xyz:8000/udp/239.253.43.17:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
 http://14.145.234.231:8888/udp/239.253.43.17:5146
-#EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
-http://116.22.147.62:6868/udp/239.77.1.158:5146
-#EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
-http://116.22.147.62:6868/udp/239.253.43.17:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
 http://119.129.239.238:10000/udp/239.77.1.158:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
@@ -794,8 +780,6 @@ http://tenfarr.com:4000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://113.65.7.242:8888/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
-http://116.22.147.62:6868/udp/239.77.0.137:5146
-#EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://119.129.239.238:10000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://125.89.163.44:8888/udp/239.77.0.137:5146
@@ -828,8 +812,6 @@ http://113.65.7.242:8888/udp/239.77.0.169:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.169:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
-http://116.22.147.62:6868/udp/239.77.0.169:5146
-#EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://119.129.239.238:10000/udp/239.77.0.169:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://125.89.163.44:8888/udp/239.77.0.169:5146
@@ -861,8 +843,6 @@ http://tenfarr.com:4000/udp/239.77.0.175:5146
 http://113.65.7.242:8888/udp/239.77.0.175:5146
 #EXTINF:-1,tvg-name="CCTV-3超清" group-title="央视", CCTV-3超清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.175:5146
-#EXTINF:-1,tvg-name="CCTV-3超清" group-title="央视", CCTV-3超清
-http://116.22.147.62:6868/udp/239.77.0.175:5146
 #EXTINF:-1,tvg-name="CCTV-3超清" group-title="央视", CCTV-3超清
 http://119.129.239.238:10000/udp/239.77.0.175:5146
 #EXTINF:-1,tvg-name="CCTV-3超清" group-title="央视", CCTV-3超清
@@ -907,12 +887,6 @@ http://113.65.7.242:8888/udp/239.77.1.166:5146
 http://tenfarr.com:4000/udp/239.77.1.166:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://tenfarr.com:4000/udp/239.77.0.78:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://116.22.147.62:6868/udp/239.77.1.163:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://116.22.147.62:6868/udp/239.77.1.166:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://116.22.147.62:6868/udp/239.77.0.78:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://119.129.239.238:10000/udp/239.77.1.163:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
@@ -998,8 +972,6 @@ http://113.65.7.242:8888/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
-http://116.22.147.62:6868/udp/239.77.0.170:5146
-#EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
 http://119.129.239.238:10000/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
 http://125.89.163.44:8888/udp/239.77.0.170:5146
@@ -1031,8 +1003,6 @@ http://113.74.172.147:4000/udp/239.77.0.177:5146
 http://113.65.7.242:8888/udp/239.77.0.177:5146
 #EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
 http://tenfarr.com:4000/udp/239.77.0.177:5146
-#EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
-http://116.22.147.62:6868/udp/239.77.0.177:5146
 #EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
 http://119.129.239.238:10000/udp/239.77.0.177:5146
 #EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
@@ -1079,12 +1049,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.31:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://113.65.7.242:8888/udp/239.77.1.147:5146
-#EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
-http://116.22.147.62:6868/udp/239.77.0.87:5146
-#EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
-http://116.22.147.62:6868/udp/239.77.1.31:5146
-#EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
-http://116.22.147.62:6868/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://119.129.239.238:10000/udp/239.77.0.87:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
@@ -1172,8 +1136,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://tenfarr.com:4000/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
-http://116.22.147.62:6868/udp/239.77.0.171:5146
-#EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://119.129.239.238:10000/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://125.89.163.44:8888/udp/239.77.0.171:5146
@@ -1207,8 +1169,6 @@ http://tenfarr.com:4000/udp/239.77.0.178:5146
 http://113.65.7.242:8888/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.178:5146
-#EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
-http://116.22.147.62:6868/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://119.129.239.238:10000/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
@@ -1247,10 +1207,6 @@ http://113.65.7.242:8888/udp/239.77.1.159:5146
 http://113.65.7.242:8888/udp/239.77.1.167:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.159:5146
-#EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
-http://116.22.147.62:6868/udp/239.77.1.159:5146
-#EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
-http://116.22.147.62:6868/udp/239.77.1.167:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
 http://119.129.239.238:10000/udp/239.77.1.159:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
@@ -1312,8 +1268,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.0.138:5146
 #EXTINF:-1,tvg-name="CCTV-7高清测试" group-title="央视", CCTV-7高清测试
 http://113.65.7.242:8888/udp/239.77.0.138:5146
 #EXTINF:-1,tvg-name="CCTV-7高清测试" group-title="央视", CCTV-7高清测试
-http://116.22.147.62:6868/udp/239.77.0.138:5146
-#EXTINF:-1,tvg-name="CCTV-7高清测试" group-title="央视", CCTV-7高清测试
 http://119.129.239.238:10000/udp/239.77.0.138:5146
 #EXTINF:-1,tvg-name="CCTV-7高清测试" group-title="央视", CCTV-7高清测试
 http://125.89.163.44:8888/udp/239.77.0.138:5146
@@ -1348,8 +1302,6 @@ http://113.65.7.242:8888/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
-http://116.22.147.62:6868/udp/239.77.0.172:5146
-#EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://119.129.239.238:10000/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://125.89.163.44:8888/udp/239.77.0.172:5146
@@ -1383,8 +1335,6 @@ http://113.65.7.242:8888/udp/239.77.0.181:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://tenfarr.com:4000/udp/239.77.0.181:5146
-#EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
-http://116.22.147.62:6868/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://119.129.239.238:10000/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
@@ -1425,10 +1375,6 @@ http://113.65.7.242:8888/udp/239.77.1.168:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.160:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.168:5146
-#EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
-http://116.22.147.62:6868/udp/239.77.1.160:5146
-#EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
-http://116.22.147.62:6868/udp/239.77.1.168:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://119.129.239.238:10000/udp/239.77.1.160:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
@@ -1488,8 +1434,6 @@ http://tenfarr.com:4000/udp/239.77.0.135:5146
 #EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
 http://113.65.7.242:8888/udp/239.77.0.135:5146
 #EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
-http://116.22.147.62:6868/udp/239.77.0.135:5146
-#EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
 http://119.129.239.238:10000/udp/239.77.0.135:5146
 #EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
 http://125.89.163.44:8888/udp/239.77.0.135:5146
@@ -1531,10 +1475,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.113:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://tenfarr.com:4000/udp/239.77.1.113:5146
-#EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
-http://116.22.147.62:6868/udp/239.77.1.113:5146
-#EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
-http://116.22.147.62:6868/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://119.129.239.238:10000/udp/239.77.1.113:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
@@ -1596,8 +1536,6 @@ http://113.65.7.242:8888/udp/239.77.0.134:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.134:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
-http://116.22.147.62:6868/udp/239.77.0.134:5146
-#EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
 http://119.129.239.238:10000/udp/239.77.0.134:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
 http://125.89.163.44:8888/udp/239.77.0.134:5146
@@ -1633,8 +1571,6 @@ http://113.65.7.242:8888/udp/239.77.1.238:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.238:5146
 #EXTINF:-1,tvg-name="CCTV-11高清" group-title="央视", CCTV-11高清
 http://14.145.234.231:8888/udp/239.77.1.238:5146
-#EXTINF:-1,tvg-name="CCTV-11高清" group-title="央视", CCTV-11高清
-http://116.22.147.62:6868/udp/239.77.1.238:5146
 #EXTINF:-1,tvg-name="CCTV-11高清" group-title="央视", CCTV-11高清
 http://119.129.239.238:10000/udp/239.77.1.238:5146
 #EXTINF:-1,tvg-name="CCTV-11高清" group-title="央视", CCTV-11高清
@@ -1675,10 +1611,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.109:5146
 http://14.145.234.231:8888/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://14.145.234.231:8888/udp/239.77.1.170:5146
-#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
-http://116.22.147.62:6868/udp/239.77.1.109:5146
-#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
-http://116.22.147.62:6868/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://119.129.239.238:10000/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
@@ -1735,8 +1667,6 @@ http://tenfarr.com:4000/udp/239.77.0.136:5146
 http://113.65.7.242:8888/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.136:5146
-#EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
-http://116.22.147.62:6868/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://119.129.239.238:10000/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
@@ -2751,6 +2681,8 @@ http://121.13.55.66:4022/udp/239.77.0.8:5146
 http://113.118.207.173:4022/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
 http://119.131.240.71:8000/udp/239.77.0.8:5146
+#EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
+http://121.8.24.60:8899/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
 http://113.74.172.147:4000/udp/239.77.0.9:5146
 #EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
@@ -2883,6 +2815,8 @@ http://116.23.97.247:50000/udp/239.77.0.12:5146
 http://113.118.207.173:4022/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
 http://119.131.240.71:8000/udp/239.77.0.12:5146
+#EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
+http://121.8.24.60:8899/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://113.74.172.147:4000/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
@@ -5257,8 +5191,6 @@ http://116.23.97.247:50000/udp/239.77.1.39:5146
 http://113.118.207.173:4022/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
 http://119.131.240.71:8000/udp/239.77.1.39:5146
-#EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
-http://14.145.234.231:8888/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物高清" group-title="其他", 深圳宜和购物高清
 http://113.74.172.147:4000/udp/239.77.1.87:5146
 #EXTINF:-1,tvg-name="深圳宜和购物高清" group-title="其他", 深圳宜和购物高清
@@ -5749,8 +5681,6 @@ http://116.23.97.247:50000/udp/239.77.0.251:5146
 http://113.118.207.173:4022/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-name="揭阳生活高清" group-title="其他", 揭阳生活高清
 http://119.131.240.71:8000/udp/239.77.0.251:5146
-#EXTINF:-1,tvg-name="揭阳生活高清" group-title="其他", 揭阳生活高清
-http://14.145.234.231:8888/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://113.74.172.147:4000/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
@@ -5787,8 +5717,6 @@ http://116.23.97.247:50000/udp/239.77.1.189:5146
 http://113.118.207.173:4022/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://119.131.240.71:8000/udp/239.77.1.189:5146
-#EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
-http://14.145.234.231:8888/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合高清" group-title="其他", 汕尾新闻综合高清
 http://113.74.172.147:4000/udp/239.77.0.25:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合高清" group-title="其他", 汕尾新闻综合高清
@@ -7049,8 +6977,6 @@ http://116.23.97.247:50000/udp/239.77.0.253:5146
 http://113.118.207.173:4022/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
 http://119.131.240.71:8000/udp/239.77.0.253:5146
-#EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
-http://14.145.234.231:8888/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
 http://113.74.172.147:4000/udp/239.253.43.194:5146
 #EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
@@ -8115,8 +8041,6 @@ http://125.89.163.44:8888/udp/239.253.43.103:5146
 http://113.100.72.213:8899/udp/239.253.43.103:5146
 #EXTINF:-1,tvg-name="东莞生活资讯" group-title="其他", 东莞生活资讯
 http://113.93.51.233:2000/udp/239.253.43.103:5146
-#EXTINF:-1,tvg-name="东莞生活资讯" group-title="其他", 东莞生活资讯
-http://14.145.234.231:8888/udp/239.253.43.103:5146
 #EXTINF:-1,tvg-name="东莞生活资讯" group-title="其他", 东莞生活资讯
 http://116.5.239.0:8000/udp/239.253.43.103:5146
 #EXTINF:-1,tvg-name="东莞生活资讯" group-title="其他", 东莞生活资讯
