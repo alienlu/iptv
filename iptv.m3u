@@ -2168,8 +2168,6 @@ http://113.100.72.213:8899/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://113.93.51.233:2000/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
-http://14.145.234.231:8888/udp/239.77.0.174:5146
-#EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://116.5.239.0:8000/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://121.13.55.66:4022/udp/239.77.0.174:5146
@@ -2215,8 +2213,6 @@ http://113.100.72.213:8899/udp/239.77.1.27:5146
 http://113.93.51.233:2000/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://113.93.51.233:2000/udp/239.77.1.27:5146
-#EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
-http://14.145.234.231:8888/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://116.5.239.0:8000/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
@@ -2333,8 +2329,6 @@ http://125.89.163.44:8888/udp/239.77.0.228:5146
 http://113.100.72.213:8899/udp/239.77.0.228:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
 http://113.93.51.233:2000/udp/239.77.0.228:5146
-#EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
-http://14.145.234.231:8888/udp/239.77.0.228:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
 http://116.5.239.0:8000/udp/239.77.0.228:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
@@ -5262,8 +5256,6 @@ http://116.5.239.0:8000/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
 http://121.13.55.66:4022/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
-http://14.145.234.231:8888/udp/239.77.1.39:5146
-#EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
 http://113.93.54.144:5555/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
 http://14.154.193.176:4022/udp/239.77.1.39:5146
@@ -5754,8 +5746,6 @@ http://116.5.239.0:8000/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-name="揭阳生活高清" group-title="其他", 揭阳生活高清
 http://121.13.55.66:4022/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-name="揭阳生活高清" group-title="其他", 揭阳生活高清
-http://14.145.234.231:8888/udp/239.77.0.251:5146
-#EXTINF:-1,tvg-name="揭阳生活高清" group-title="其他", 揭阳生活高清
 http://113.93.54.144:5555/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-name="揭阳生活高清" group-title="其他", 揭阳生活高清
 http://14.154.193.176:4022/udp/239.77.0.251:5146
@@ -5792,8 +5782,6 @@ http://116.5.239.0:8000/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://121.13.55.66:4022/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
-http://14.145.234.231:8888/udp/239.77.1.189:5146
-#EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://113.93.54.144:5555/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://14.154.193.176:4022/udp/239.77.1.189:5146
@@ -5829,8 +5817,6 @@ http://113.93.51.233:2000/udp/239.77.0.25:5146
 http://116.5.239.0:8000/udp/239.77.0.25:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合高清" group-title="其他", 汕尾新闻综合高清
 http://121.13.55.66:4022/udp/239.77.0.25:5146
-#EXTINF:-1,tvg-name="汕尾新闻综合高清" group-title="其他", 汕尾新闻综合高清
-http://14.145.234.231:8888/udp/239.77.0.25:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合高清" group-title="其他", 汕尾新闻综合高清
 http://113.93.54.144:5555/udp/239.77.0.25:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合高清" group-title="其他", 汕尾新闻综合高清
@@ -6298,8 +6284,6 @@ http://121.13.55.66:4022/udp/239.77.0.248:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://121.13.55.66:4022/udp/239.77.1.173:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
-http://14.145.234.231:8888/udp/239.77.0.248:5146
-#EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://113.93.54.144:5555/udp/239.77.0.248:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://113.93.54.144:5555/udp/239.77.1.173:5146
@@ -6347,8 +6331,6 @@ http://113.93.51.233:2000/udp/239.77.1.233:5146
 http://116.5.239.0:8000/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://121.13.55.66:4022/udp/239.77.1.233:5146
-#EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
-http://14.145.234.231:8888/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://113.93.54.144:5555/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
@@ -6461,8 +6443,6 @@ http://113.93.51.233:2000/udp/239.77.1.231:5146
 http://116.5.239.0:8000/udp/239.77.1.231:5146
 #EXTINF:-1,tvg-name="珠海-2" group-title="其他", 珠海-2
 http://121.13.55.66:4022/udp/239.77.1.231:5146
-#EXTINF:-1,tvg-name="珠海-2" group-title="其他", 珠海-2
-http://14.145.234.231:8888/udp/239.77.1.231:5146
 #EXTINF:-1,tvg-name="珠海-2" group-title="其他", 珠海-2
 http://113.93.54.144:5555/udp/239.77.1.231:5146
 #EXTINF:-1,tvg-name="珠海-2" group-title="其他", 珠海-2
@@ -7055,8 +7035,6 @@ http://113.93.51.233:2000/udp/239.77.0.253:5146
 http://116.5.239.0:8000/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
 http://121.13.55.66:4022/udp/239.77.0.253:5146
-#EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
-http://14.145.234.231:8888/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
 http://113.93.54.144:5555/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
