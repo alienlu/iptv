@@ -813,8 +813,6 @@ http://113.94.31.216:4022/udp/239.77.1.163:5146
 http://113.94.31.216:4022/udp/239.77.1.166:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://113.94.31.216:4022/udp/239.77.0.78:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://14.145.234.231:8888/udp/239.77.1.163:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
 http://tenfarr.com:4000/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
@@ -909,8 +907,6 @@ http://113.100.72.213:8899/udp/239.77.1.31:5146
 http://113.100.72.213:8899/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://14.145.234.231:8888/udp/239.77.0.87:5146
-#EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
-http://14.145.234.231:8888/udp/239.77.1.31:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://14.145.234.231:8888/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
@@ -1795,8 +1791,6 @@ http://14.117.234.110:9000/udp/239.77.1.27:5146
 http://113.94.31.216:4022/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://113.94.31.216:4022/udp/239.77.1.27:5146
-#EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
-http://14.145.234.231:8888/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
 http://113.74.172.147:4000/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
@@ -2942,8 +2936,6 @@ http://116.23.97.247:50000/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
 http://14.117.234.110:9000/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
-http://14.145.234.231:8888/udp/239.253.43.70:5146
-#EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
 http://113.94.31.216:4022/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛高清" group-title="其他", 广州竞赛高清
 http://tenfarr.com:4000/udp/239.253.43.75:5146
@@ -3275,8 +3267,6 @@ http://msa.mxsa.cc:4000/udp/239.253.43.93:5146
 http://116.23.97.247:50000/udp/239.253.43.93:5146
 #EXTINF:-1,tvg-name="广视课堂 高二" group-title="其他", 广视课堂 高二
 http://14.117.234.110:9000/udp/239.253.43.93:5146
-#EXTINF:-1,tvg-name="广视课堂 高二" group-title="其他", 广视课堂 高二
-http://14.145.234.231:8888/udp/239.253.43.93:5146
 #EXTINF:-1,tvg-name="广视课堂 高二" group-title="其他", 广视课堂 高二
 http://113.94.31.216:4022/udp/239.253.43.93:5146
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
@@ -3762,8 +3752,6 @@ http://125.89.163.44:8888/udp/239.77.1.8:5146
 #EXTINF:-1,tvg-name="深圳体育健康" group-title="其他", 深圳体育健康
 http://113.100.72.213:8899/udp/239.77.1.8:5146
 #EXTINF:-1,tvg-name="深圳体育健康" group-title="其他", 深圳体育健康
-http://14.145.234.231:8888/udp/239.77.1.8:5146
-#EXTINF:-1,tvg-name="深圳体育健康" group-title="其他", 深圳体育健康
 http://116.5.239.0:8000/udp/239.77.1.8:5146
 #EXTINF:-1,tvg-name="深圳体育健康" group-title="其他", 深圳体育健康
 http://113.93.54.144:5555/udp/239.77.1.8:5146
@@ -3977,8 +3965,6 @@ http://116.23.97.247:50000/udp/239.77.1.126:5146
 http://14.117.234.110:9000/udp/239.77.1.178:5146
 #EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
 http://14.117.234.110:9000/udp/239.77.1.126:5146
-#EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
-http://14.145.234.231:8888/udp/239.77.1.126:5146
 #EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
 http://113.94.31.216:4022/udp/239.77.1.178:5146
 #EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
@@ -4632,8 +4618,6 @@ http://msa.mxsa.cc:4000/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://116.23.97.247:50000/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
-http://14.145.234.231:8888/udp/239.77.1.189:5146
-#EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://14.117.234.110:9000/udp/239.77.1.189:5146
 #EXTINF:-1,tvg-name="汕尾新闻综合" group-title="其他", 汕尾新闻综合
 http://113.94.31.216:4022/udp/239.77.1.189:5146
@@ -4895,8 +4879,6 @@ http://msa.mxsa.cc:4000/udp/239.77.0.203:5146
 http://116.23.97.247:50000/udp/239.77.0.203:5146
 #EXTINF:-1,tvg-name="江门教育高清" group-title="其他", 江门教育高清
 http://14.117.234.110:9000/udp/239.77.0.203:5146
-#EXTINF:-1,tvg-name="江门教育高清" group-title="其他", 江门教育高清
-http://14.145.234.231:8888/udp/239.77.0.203:5146
 #EXTINF:-1,tvg-name="江门教育高清" group-title="其他", 江门教育高清
 http://113.94.31.216:4022/udp/239.77.0.203:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
@@ -5824,8 +5806,6 @@ http://125.89.163.44:8888/udp/239.253.43.30:5146
 #EXTINF:-1,tvg-name="汕头综合" group-title="其他", 汕头综合
 http://113.100.72.213:8899/udp/239.253.43.30:5146
 #EXTINF:-1,tvg-name="汕头综合" group-title="其他", 汕头综合
-http://14.145.234.231:8888/udp/239.253.43.30:5146
-#EXTINF:-1,tvg-name="汕头综合" group-title="其他", 汕头综合
 http://116.5.239.0:8000/udp/239.253.43.30:5146
 #EXTINF:-1,tvg-name="汕头综合" group-title="其他", 汕头综合
 http://113.93.54.144:5555/udp/239.253.43.30:5146
@@ -5907,8 +5887,6 @@ http://119.129.239.238:10000/udp/239.253.43.43:5146
 http://125.89.163.44:8888/udp/239.253.43.43:5146
 #EXTINF:-1,tvg-name="汕头经济生活" group-title="其他", 汕头经济生活
 http://113.100.72.213:8899/udp/239.253.43.43:5146
-#EXTINF:-1,tvg-name="汕头经济生活" group-title="其他", 汕头经济生活
-http://14.145.234.231:8888/udp/239.253.43.43:5146
 #EXTINF:-1,tvg-name="汕头经济生活" group-title="其他", 汕头经济生活
 http://116.5.239.0:8000/udp/239.253.43.43:5146
 #EXTINF:-1,tvg-name="汕头经济生活" group-title="其他", 汕头经济生活
@@ -6412,8 +6390,6 @@ http://116.23.97.247:50000/udp/239.253.43.102:5146
 #EXTINF:-1,tvg-name="东莞新闻综合" group-title="其他", 东莞新闻综合
 http://14.117.234.110:9000/udp/239.253.43.102:5146
 #EXTINF:-1,tvg-name="东莞新闻综合" group-title="其他", 东莞新闻综合
-http://14.145.234.231:8888/udp/239.253.43.102:5146
-#EXTINF:-1,tvg-name="东莞新闻综合" group-title="其他", 东莞新闻综合
 http://113.94.31.216:4022/udp/239.253.43.102:5146
 #EXTINF:-1,tvg-name="东莞新闻综合高清" group-title="其他", 东莞新闻综合高清
 http://tenfarr.com:4000/udp/239.253.43.104:5146
@@ -6441,8 +6417,6 @@ http://msa.mxsa.cc:4000/udp/239.253.43.104:5146
 http://116.23.97.247:50000/udp/239.253.43.104:5146
 #EXTINF:-1,tvg-name="东莞新闻综合高清" group-title="其他", 东莞新闻综合高清
 http://14.117.234.110:9000/udp/239.253.43.104:5146
-#EXTINF:-1,tvg-name="东莞新闻综合高清" group-title="其他", 东莞新闻综合高清
-http://14.145.234.231:8888/udp/239.253.43.104:5146
 #EXTINF:-1,tvg-name="东莞新闻综合高清" group-title="其他", 东莞新闻综合高清
 http://113.94.31.216:4022/udp/239.253.43.104:5146
 #EXTINF:-1,tvg-name="东莞生活资讯" group-title="其他", 东莞生活资讯
@@ -6647,8 +6621,6 @@ http://116.23.97.247:50000/udp/239.253.43.61:5146
 http://14.117.234.110:9000/udp/239.253.43.61:5146
 #EXTINF:-1,tvg-name="中山教育" group-title="其他", 中山教育
 http://113.94.31.216:4022/udp/239.253.43.61:5146
-#EXTINF:-1,tvg-name="中山教育" group-title="其他", 中山教育
-http://14.145.234.231:8888/udp/239.253.43.61:5146
 #EXTINF:-1,tvg-name="中山教育高清" group-title="其他", 中山教育高清
 http://tenfarr.com:4000/udp/239.253.43.64:5146
 #EXTINF:-1,tvg-name="中山教育高清" group-title="其他", 中山教育高清
@@ -7678,8 +7650,6 @@ http://113.94.31.216:4022/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://14.145.234.231:8888/udp/239.77.1.4:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
-http://14.145.234.231:8888/udp/239.77.1.151:5146
-#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://14.145.234.231:8888/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://tenfarr.com:4000/udp/239.77.0.52:5146
@@ -7737,8 +7707,6 @@ http://14.145.234.231:8888/udp/239.77.0.52:5146
 http://113.94.31.216:4022/udp/239.77.0.52:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://113.94.31.216:4022/udp/239.77.1.37:5146
-#EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
-http://14.145.234.231:8888/udp/239.77.1.37:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://tenfarr.com:4000/udp/239.77.1.141:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
@@ -7784,8 +7752,6 @@ http://113.100.72.213:8899/udp/239.77.1.182:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://113.100.72.213:8899/udp/239.77.0.97:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
-http://14.145.234.231:8888/udp/239.77.1.182:5146
-#EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://116.5.239.0:8000/udp/239.77.1.141:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://116.5.239.0:8000/udp/239.77.1.182:5146
@@ -7823,8 +7789,6 @@ http://113.94.31.216:4022/udp/239.77.1.141:5146
 http://113.94.31.216:4022/udp/239.77.1.182:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://113.94.31.216:4022/udp/239.77.0.97:5146
-#EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
-http://14.145.234.231:8888/udp/239.77.1.141:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://14.145.234.231:8888/udp/239.77.0.97:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
@@ -7991,10 +7955,6 @@ http://113.94.31.216:4022/udp/239.77.1.142:5146
 http://113.94.31.216:4022/udp/239.77.1.153:5146
 #EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
 http://113.94.31.216:4022/udp/239.77.0.94:5146
-#EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
-http://14.145.234.231:8888/udp/239.77.1.153:5146
-#EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
-http://14.145.234.231:8888/udp/239.77.0.94:5146
 #EXTINF:-1,tvg-name="山东卫视超清" group-title="卫视", 山东卫视超清
 http://tenfarr.com:4000/udp/239.77.0.132:5146
 #EXTINF:-1,tvg-name="山东卫视超清" group-title="卫视", 山东卫视超清
@@ -8285,8 +8245,6 @@ http://113.94.31.216:4022/udp/239.77.0.95:5146
 http://14.145.234.231:8888/udp/239.77.1.174:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
 http://14.145.234.231:8888/udp/239.77.0.95:5146
-#EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
-http://14.145.234.231:8888/udp/239.77.1.93:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
 http://tenfarr.com:4000/udp/239.77.0.128:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
@@ -8904,8 +8862,6 @@ http://tenfarr.com:4000/udp/239.77.1.58:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://113.65.7.242:8888/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
-http://113.65.7.242:8888/udp/239.77.1.58:5146
-#EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.58:5146
@@ -8951,8 +8907,6 @@ http://14.117.234.110:9000/udp/239.77.1.58:5146
 http://113.94.31.216:4022/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://113.94.31.216:4022/udp/239.77.1.58:5146
-#EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
-http://14.145.234.231:8888/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视高清" group-title="卫视", 河南卫视高清
 http://tenfarr.com:4000/udp/239.77.1.229:5146
 #EXTINF:-1,tvg-name="河南卫视高清" group-title="卫视", 河南卫视高清
@@ -9329,8 +9283,6 @@ http://14.145.234.231:8888/udp/239.77.1.60:5146
 http://116.23.97.247:50000/udp/239.77.0.64:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
 http://116.23.97.247:50000/udp/239.77.1.60:5146
-#EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
-http://14.145.234.231:8888/udp/239.77.0.64:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
 http://14.117.234.110:9000/udp/239.77.0.64:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
