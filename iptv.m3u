@@ -647,6 +647,8 @@ http://113.94.31.216:4022/udp/239.77.1.158:5146
 http://113.94.31.216:4022/udp/239.253.43.17:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
 http://14.117.234.110:9000/udp/239.77.1.158:5146
+#EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
+http://14.117.234.110:9000/udp/239.253.43.17:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://tenfarr.com:4000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
@@ -4453,6 +4455,8 @@ http://116.23.97.247:50000/udp/239.77.0.121:5146
 http://14.145.234.231:8888/udp/239.77.0.121:5146
 #EXTINF:-1,tvg-name="湛江公共" group-title="其他", 湛江公共
 http://113.94.31.216:4022/udp/239.77.0.121:5146
+#EXTINF:-1,tvg-name="湛江公共" group-title="其他", 湛江公共
+http://14.117.234.110:9000/udp/239.77.0.121:5146
 #EXTINF:-1,tvg-name="湛江公共高清" group-title="其他", 湛江公共高清
 http://tenfarr.com:4000/udp/239.77.0.140:5146
 #EXTINF:-1,tvg-name="湛江公共高清" group-title="其他", 湛江公共高清
@@ -5069,8 +5073,6 @@ http://116.23.97.247:50000/udp/239.77.1.233:5146
 http://14.117.234.110:9000/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://113.94.31.216:4022/udp/239.77.1.233:5146
-#EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
-http://14.145.234.231:8888/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="珠海-1" group-title="其他", 珠海-1
 http://113.74.172.147:4000/udp/239.77.1.230:5146
 #EXTINF:-1,tvg-name="珠海-1" group-title="其他", 珠海-1
@@ -8403,8 +8405,6 @@ http://14.145.234.231:8888/udp/239.77.1.103:5146
 http://113.94.31.216:4022/udp/239.77.1.103:5146
 #EXTINF:-1,tvg-name="辽宁卫视 高清" group-title="卫视", 辽宁卫视 高清
 http://tenfarr.com:4000/udp/239.77.0.123:5146
-#EXTINF:-1,tvg-name="辽宁卫视 高清" group-title="卫视", 辽宁卫视 高清
-http://113.65.7.242:8888/udp/239.77.0.123:5146
 #EXTINF:-1,tvg-name="辽宁卫视 高清" group-title="卫视", 辽宁卫视 高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.123:5146
 #EXTINF:-1,tvg-name="辽宁卫视 高清" group-title="卫视", 辽宁卫视 高清
