@@ -1188,8 +1188,6 @@ http://tenfarr.com:4000/udp/239.77.1.160:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://14.145.234.231:8888/udp/239.77.1.168:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
-http://14.145.234.231:8888/udp/239.77.1.160:5146
-#EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://113.110.200.194:8888/udp/239.77.1.160:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://113.110.200.194:8888/udp/239.77.1.168:5146
@@ -5180,8 +5178,6 @@ http://14.145.234.231:8888/udp/239.77.0.154:5146
 #EXTINF:-1,tvg-name="珠海-2高清" group-title="其他", 珠海-2高清
 http://116.23.97.247:50000/udp/239.77.0.154:5146
 #EXTINF:-1,tvg-name="珠海-2高清" group-title="其他", 珠海-2高清
-http://14.117.234.110:9000/udp/239.77.0.154:5146
-#EXTINF:-1,tvg-name="珠海-2高清" group-title="其他", 珠海-2高清
 http://113.110.200.194:8888/udp/239.77.0.154:5146
 #EXTINF:-1,tvg-name="珠海-2高清" group-title="其他", 珠海-2高清
 http://116.18.39.115:4000/udp/239.77.0.154:5146
@@ -7671,8 +7667,6 @@ http://116.18.39.115:4000/udp/239.77.1.4:5146
 http://116.18.39.115:4000/udp/239.77.1.151:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://116.18.39.115:4000/udp/239.77.0.91:5146
-#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
-http://14.145.234.231:8888/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://tenfarr.com:4000/udp/239.77.0.52:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
@@ -8302,8 +8296,6 @@ http://msa.mxsa.cc:4000/udp/239.77.0.128:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
 http://116.23.97.247:50000/udp/239.77.0.128:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
-http://14.117.234.110:9000/udp/239.77.0.128:5146
-#EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
 http://14.145.234.231:8888/udp/239.77.0.128:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
 http://113.110.200.194:8888/udp/239.77.0.128:5146
@@ -8629,8 +8621,6 @@ http://14.117.234.110:9000/udp/239.77.0.124:5146
 http://113.110.200.194:8888/udp/239.77.0.124:5146
 #EXTINF:-1,tvg-name="黑龙江卫视超清" group-title="卫视", 黑龙江卫视超清
 http://116.18.39.115:4000/udp/239.77.0.124:5146
-#EXTINF:-1,tvg-name="黑龙江卫视超清" group-title="卫视", 黑龙江卫视超清
-http://14.145.234.231:8888/udp/239.77.0.124:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
 http://tenfarr.com:4000/udp/239.77.0.59:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
