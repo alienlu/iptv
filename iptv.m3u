@@ -1414,9 +1414,9 @@ http://116.5.239.233:8000/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
 http://113.87.227.237:5000/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
-http://121.13.85.136:8000/udp/239.253.43.70:5146
-#EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
 http://183.7.125.89:8088/udp/239.253.43.70:5146
+#EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
+http://121.13.85.136:8000/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛高清" group-title="其他", 广州竞赛高清
 http://tenfarr.com:4000/udp/239.253.43.75:5146
 #EXTINF:-1,tvg-name="广州竞赛高清" group-title="其他", 广州竞赛高清
@@ -2092,9 +2092,9 @@ http://116.5.239.233:8000/udp/239.77.0.120:5146
 #EXTINF:-1,tvg-name="湛江新闻综合" group-title="其他", 湛江新闻综合
 http://113.87.227.237:5000/udp/239.77.0.120:5146
 #EXTINF:-1,tvg-name="湛江新闻综合" group-title="其他", 湛江新闻综合
-http://121.13.85.136:8000/udp/239.77.0.120:5146
-#EXTINF:-1,tvg-name="湛江新闻综合" group-title="其他", 湛江新闻综合
 http://183.7.125.89:8088/udp/239.77.0.120:5146
+#EXTINF:-1,tvg-name="湛江新闻综合" group-title="其他", 湛江新闻综合
+http://121.13.85.136:8000/udp/239.77.0.120:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
 http://tenfarr.com:4000/udp/239.77.0.141:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
@@ -4489,8 +4489,6 @@ http://116.5.239.233:8000/udp/239.77.1.72:5146
 http://113.87.227.237:5000/udp/239.77.0.62:5146
 #EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
 http://113.87.227.237:5000/udp/239.77.1.72:5146
-#EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
-http://121.13.85.136:8000/udp/239.77.0.62:5146
 #EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
 http://121.13.85.136:8000/udp/239.77.1.72:5146
 #EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
