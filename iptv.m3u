@@ -3524,8 +3524,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.0.95:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
 http://116.23.97.247:50000/udp/239.77.1.93:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
-http://116.23.97.247:50000/udp/239.77.1.174:5146
-#EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
 http://116.23.97.247:50000/udp/239.77.0.95:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
 http://116.5.239.233:8000/udp/239.77.1.93:5146
@@ -3559,8 +3557,6 @@ http://119.129.237.12:10000/udp/239.77.0.95:5146
 http://121.13.85.136:8000/udp/239.77.0.95:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.128:5146
-#EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
-http://116.23.97.247:50000/udp/239.77.0.128:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
 http://116.5.239.233:8000/udp/239.77.0.128:5146
 #EXTINF:-1,tvg-name="湖北卫视超清" group-title="卫视", 湖北卫视超清
@@ -3757,8 +3753,6 @@ http://119.129.237.12:10000/udp/239.77.1.61:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.221:5146
 #EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.230:5146
-#EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
-http://116.23.97.247:50000/udp/239.77.1.221:5146
 #EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
 http://116.23.97.247:50000/udp/239.77.0.230:5146
 #EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
