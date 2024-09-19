@@ -601,6 +601,8 @@ http://119.129.237.12:10000/udp/239.77.0.136:5146
 http://116.23.97.247:50000/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://59.34.212.28:4022/udp/239.77.0.136:5146
+#EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
+http://113.87.163.38:4022/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-13高清" group-title="央视", CCTV-13高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.188:5146
 #EXTINF:-1,tvg-name="CCTV-13高清" group-title="央视", CCTV-13高清
@@ -2184,8 +2186,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.253.43.215:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://116.23.97.247:50000/udp/239.253.43.215:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
-http://116.5.239.233:8000/udp/239.253.43.215:5146
-#EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://113.67.181.144:10000/udp/239.253.43.215:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://119.129.237.12:10000/udp/239.253.43.215:5146
@@ -2195,8 +2195,6 @@ http://59.34.212.28:4022/udp/239.253.43.215:5146
 http://l2tp.yeedah.xyz:8000/udp/239.253.43.213:5146
 #EXTINF:-1,tvg-name="河源综合高清" group-title="其他", 河源综合高清
 http://116.23.97.247:50000/udp/239.253.43.213:5146
-#EXTINF:-1,tvg-name="河源综合高清" group-title="其他", 河源综合高清
-http://116.5.239.233:8000/udp/239.253.43.213:5146
 #EXTINF:-1,tvg-name="河源综合高清" group-title="其他", 河源综合高清
 http://113.67.181.144:10000/udp/239.253.43.213:5146
 #EXTINF:-1,tvg-name="河源综合高清" group-title="其他", 河源综合高清
