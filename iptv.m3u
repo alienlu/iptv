@@ -85,6 +85,8 @@ http://119.129.237.12:10000/udp/239.77.0.114:5146
 http://116.23.97.247:50000/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
 http://59.34.212.28:4022/udp/239.77.0.114:5146
+#EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
+http://113.83.248.53:4200/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
