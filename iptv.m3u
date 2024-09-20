@@ -41,6 +41,12 @@ http://113.100.72.213:8899/udp/239.77.0.84:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.84:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://183.29.197.229:8686/udp/239.77.1.19:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://183.29.197.229:8686/udp/239.77.1.152:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://183.29.197.229:8686/udp/239.77.0.84:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://113.67.181.144:10000/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
@@ -1009,6 +1015,8 @@ http://116.23.97.247:50000/udp/239.253.43.67:5146
 http://59.38.62.96:2052/udp/239.253.43.67:5146
 #EXTINF:-1,tvg-name="广州新闻" group-title="其他", 广州新闻
 http://113.100.72.213:8899/udp/239.253.43.67:5146
+#EXTINF:-1,tvg-name="广州新闻" group-title="其他", 广州新闻
+http://183.29.197.229:8686/udp/239.253.43.67:5146
 #EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
 http://l2tp.yeedah.xyz:8000/udp/239.253.43.72:5146
 #EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
@@ -2701,6 +2709,10 @@ http://113.100.72.213:8899/udp/239.77.0.52:5146
 http://113.100.72.213:8899/udp/239.77.1.37:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.52:5146
+#EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://183.17.238.99:8888/udp/239.77.0.52:5146
+#EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://183.17.238.99:8888/udp/239.77.1.37:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.182:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
@@ -2764,8 +2776,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.0.53:5146
 #EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.142:5146
 #EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
-http://l2tp.yeedah.xyz:8000/udp/239.77.1.153:5146
-#EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
 http://116.23.97.247:50000/udp/239.77.1.142:5146
 #EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
 http://116.23.97.247:50000/udp/239.77.1.153:5146
@@ -2791,6 +2801,8 @@ http://113.100.72.213:8899/udp/239.77.1.153:5146
 http://113.100.72.213:8899/udp/239.77.0.94:5146
 #EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.94:5146
+#EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.153:5146
 #EXTINF:-1,tvg-name="山东卫视超清" group-title="卫视", 山东卫视超清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.132:5146
 #EXTINF:-1,tvg-name="山东卫视超清" group-title="卫视", 山东卫视超清
@@ -2842,8 +2854,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.219:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.56:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
-http://l2tp.yeedah.xyz:8000/udp/239.77.1.44:5146
-#EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://116.23.97.247:50000/udp/239.77.1.44:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://113.67.181.144:10000/udp/239.77.0.56:5146
@@ -2859,6 +2869,8 @@ http://59.38.62.96:2052/udp/239.77.1.44:5146
 http://113.100.72.213:8899/udp/239.77.0.56:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://113.100.72.213:8899/udp/239.77.1.44:5146
+#EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.44:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.93:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
