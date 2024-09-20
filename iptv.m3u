@@ -2436,8 +2436,6 @@ http://113.100.72.213:8899/udp/239.77.1.32:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.89:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
-http://116.23.97.247:50000/udp/239.77.1.33:5146
-#EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://116.23.97.247:50000/udp/239.77.1.150:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://116.23.97.247:50000/udp/239.77.0.89:5146
@@ -2807,8 +2805,6 @@ http://113.100.72.213:8899/udp/239.77.0.132:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.73:5146
-#EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
-http://116.23.97.247:50000/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://116.23.97.247:50000/udp/239.77.1.73:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
