@@ -182,8 +182,6 @@ http://113.100.72.213:8899/udp/239.77.0.217:5146
 #EXTINF:-1,tvg-name="广东影视高清" group-title="广东", 广东影视高清
 http://116.5.169.226:8884/udp/239.77.0.217:5146
 #EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
-http://113.67.181.144:10000/udp/239.253.43.99:5146
-#EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
 http://116.23.97.247:50000/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
 http://59.38.62.96:2052/udp/239.253.43.99:5146
@@ -534,8 +532,6 @@ http://116.5.169.226:8884/udp/239.77.1.160:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://116.5.169.226:8884/udp/239.77.1.168:5146
 #EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
-http://113.67.181.144:10000/udp/239.77.0.135:5146
-#EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
 http://116.23.97.247:50000/udp/239.77.0.135:5146
 #EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
 http://59.38.62.96:2052/udp/239.77.0.135:5146
@@ -617,8 +613,6 @@ http://116.5.169.226:8884/udp/239.77.1.170:5146
 http://116.23.97.247:50000/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.136:5146
-#EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
-http://113.67.181.144:10000/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://116.23.97.247:50000/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
@@ -2945,8 +2939,6 @@ http://116.23.97.247:50000/udp/239.77.1.32:5146
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.89:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://116.23.97.247:50000/udp/239.77.1.150:5146
-#EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
-http://116.23.97.247:50000/udp/239.77.0.89:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://113.67.181.144:10000/udp/239.77.1.33:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
