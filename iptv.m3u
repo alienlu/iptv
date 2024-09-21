@@ -1038,8 +1038,6 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://113.67.181.144:10000/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
-http://113.67.181.144:10000/udp/239.77.0.22:5146
-#EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://116.23.97.247:50000/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://116.23.97.247:50000/udp/239.77.0.22:5146
