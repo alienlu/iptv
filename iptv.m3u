@@ -1860,8 +1860,6 @@ http://116.5.169.226:8884/udp/239.253.43.54:5146
 #EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
 http://l2tp.yeedah.xyz:8000/udp/239.253.43.50:5146
 #EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
-http://59.38.62.96:2052/udp/239.253.43.50:5146
-#EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
 http://113.100.72.213:8899/udp/239.253.43.50:5146
 #EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
 http://116.5.169.226:8884/udp/239.253.43.50:5146
