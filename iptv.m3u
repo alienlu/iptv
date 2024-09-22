@@ -218,6 +218,8 @@ http://113.100.72.213:8899/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.87:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
+http://125.122.194.136:4000/udp/233.50.200.109:5140
+#EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://59.38.62.96:2052/udp/239.77.0.171:5146
