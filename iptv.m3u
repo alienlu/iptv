@@ -28,15 +28,7 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.84:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://183.17.238.99:8888/udp/239.77.1.19:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://183.17.238.99:8888/udp/239.77.1.152:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://183.17.238.99:8888/udp/239.77.0.84:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://113.83.242.247:4022/udp/239.77.1.19:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://113.83.242.247:4022/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://183.31.9.200:9001/udp/239.77.1.19:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
@@ -63,6 +55,8 @@ http://113.100.174.195:8888/udp/239.77.1.19:5146
 http://113.100.174.195:8888/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://113.100.174.195:8888/udp/239.77.0.84:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://113.83.242.247:4022/udp/239.77.0.84:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://59.38.62.96:2052/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
@@ -79,6 +73,8 @@ http://183.17.237.102:8888/udp/239.77.0.166:5146
 http://113.67.165.237:8888/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://113.100.174.195:8888/udp/239.77.0.166:5146
+#EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
+http://113.83.242.247:4022/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东珠江高清" group-title="广东", 广东珠江高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.1:5146
 #EXTINF:-1,tvg-name="广东珠江高清" group-title="广东", 广东珠江高清
@@ -209,8 +205,6 @@ http://116.23.139.108:4000/udp/239.77.0.215:5146
 http://113.67.165.237:8888/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
 http://113.100.174.195:8888/udp/239.77.0.215:5146
-#EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
-http://183.17.238.99:8888/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="广东影视高清" group-title="广东", 广东影视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.217:5146
 #EXTINF:-1,tvg-name="广东影视高清" group-title="广东", 广东影视高清
@@ -239,8 +233,6 @@ http://116.23.139.108:4000/udp/239.253.43.99:5146
 http://113.67.165.237:8888/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
 http://113.100.174.195:8888/udp/239.253.43.99:5146
-#EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
-http://183.17.238.99:8888/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
 http://59.38.62.96:2052/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
@@ -255,8 +247,6 @@ http://116.23.139.108:4000/udp/239.77.0.250:5146
 http://113.67.165.237:8888/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
 http://113.100.174.195:8888/udp/239.77.0.250:5146
-#EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
-http://183.17.238.99:8888/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
@@ -904,8 +894,6 @@ http://183.31.9.200:9001/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
 http://116.23.139.108:4000/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
-http://183.17.237.102:8888/udp/239.77.1.121:5146
-#EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
 http://113.67.165.237:8888/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
 http://113.100.174.195:8888/udp/239.77.1.121:5146
@@ -989,8 +977,6 @@ http://113.100.72.213:8899/udp/239.77.0.221:5146
 http://183.31.9.200:9001/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://116.23.139.108:4000/udp/239.77.0.221:5146
-#EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
-http://183.17.237.102:8888/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://113.67.165.237:8888/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
@@ -1316,8 +1302,6 @@ http://116.23.139.108:4000/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
 http://113.67.165.237:8888/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
-http://113.83.242.247:4022/udp/239.77.0.16:5146
-#EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
 http://113.100.174.195:8888/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
 http://59.38.62.96:2052/udp/239.77.0.14:5146
@@ -1333,8 +1317,6 @@ http://116.23.139.108:4000/udp/239.77.0.14:5146
 http://113.67.165.237:8888/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
 http://113.100.174.195:8888/udp/239.77.0.14:5146
-#EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
-http://113.83.242.247:4022/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="现代教育" group-title="其他", 现代教育
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.18:5146
 #EXTINF:-1,tvg-name="现代教育" group-title="其他", 现代教育
@@ -1389,8 +1371,6 @@ http://113.100.72.213:8899/udp/239.77.1.237:5146
 http://183.31.9.200:9001/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
 http://116.23.139.108:4000/udp/239.77.1.237:5146
-#EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
-http://183.17.237.102:8888/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
 http://113.67.165.237:8888/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
@@ -1455,10 +1435,6 @@ http://113.100.174.195:8888/udp/239.77.0.246:5146
 http://113.100.174.195:8888/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
 http://113.100.174.195:8888/udp/239.77.0.252:5146
-#EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
-http://113.83.242.247:4022/udp/239.77.0.246:5146
-#EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
-http://113.83.242.247:4022/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
 http://116.23.97.247:50000/udp/239.253.43.66:5146
 #EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
@@ -2107,8 +2083,6 @@ http://183.31.9.200:9001/udp/239.77.1.126:5146
 http://116.23.139.108:4000/udp/239.77.1.178:5146
 #EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
 http://116.23.139.108:4000/udp/239.77.1.126:5146
-#EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
-http://183.17.237.102:8888/udp/239.77.1.126:5146
 #EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
 http://113.67.165.237:8888/udp/239.77.1.178:5146
 #EXTINF:-1,tvg-name="深圳公共频道高清" group-title="其他", 深圳公共频道高清
