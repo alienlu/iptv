@@ -93,6 +93,8 @@ http://121.13.84.65:8000/udp/239.77.1.19:5146
 http://121.13.84.65:8000/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://121.13.84.65:8000/udp/239.77.0.84:5146
+#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
+http://183.17.238.99:8888/udp/239.77.1.19:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://59.38.62.96:2052/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
@@ -1909,6 +1911,8 @@ http://116.4.96.235:4080/udp/239.253.43.200:5146
 http://113.93.54.251:5555/udp/239.253.43.200:5146
 #EXTINF:-1,tvg-name="CGTN阿拉伯语高清" group-title="其他", CGTN阿拉伯语高清
 http://121.13.84.65:8000/udp/239.253.43.200:5146
+#EXTINF:-1,tvg-name="CGTN阿拉伯语高清" group-title="其他", CGTN阿拉伯语高清
+http://14.117.236.30:9000/udp/239.253.43.200:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://l2tp.yeedah.xyz:8000/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
@@ -1991,6 +1995,8 @@ http://113.93.54.251:5555/udp/239.77.1.2:5146
 http://121.13.84.65:8000/udp/239.77.0.2:5146
 #EXTINF:-1,tvg-name="广东卫视" group-title="广东", 广东卫视
 http://121.13.84.65:8000/udp/239.77.1.2:5146
+#EXTINF:-1,tvg-name="广东卫视" group-title="广东", 广东卫视
+http://14.117.236.30:9000/udp/239.77.1.2:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.3:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
