@@ -2153,8 +2153,6 @@ http://113.116.43.148:5000/udp/239.77.0.12:5146
 http://116.18.37.60:4000/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
 http://116.4.96.235:4080/udp/239.77.0.12:5146
-#EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
-http://14.153.161.94:8888/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
@@ -2283,8 +2281,6 @@ http://113.116.43.148:5000/udp/239.77.0.16:5146
 http://116.18.37.60:4000/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
 http://116.4.96.235:4080/udp/239.77.0.16:5146
-#EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
-http://14.153.161.94:8888/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
 http://59.38.62.96:2052/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
@@ -2309,8 +2305,6 @@ http://113.116.43.148:5000/udp/239.77.0.14:5146
 http://116.18.37.60:4000/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
 http://116.4.96.235:4080/udp/239.77.0.14:5146
-#EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
-http://14.153.161.94:8888/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="现代教育" group-title="其他", 现代教育
 http://l2tp.yeedah.xyz:8000/udp/239.77.0.18:5146
 #EXTINF:-1,tvg-name="现代教育" group-title="其他", 现代教育
@@ -2939,8 +2933,6 @@ http://113.116.43.148:5000/udp/239.253.43.89:5146
 http://116.18.37.60:4000/udp/239.253.43.89:5146
 #EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
 http://116.4.96.235:4080/udp/239.253.43.89:5146
-#EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
-http://14.153.161.94:8888/udp/239.253.43.89:5146
 #EXTINF:-1,tvg-name="广视课堂 初二" group-title="其他", 广视课堂 初二
 http://l2tp.yeedah.xyz:8000/udp/239.253.43.90:5146
 #EXTINF:-1,tvg-name="广视课堂 初二" group-title="其他", 广视课堂 初二
@@ -3093,8 +3085,6 @@ http://116.4.96.235:4080/udp/239.77.0.55:5146
 http://116.4.96.235:4080/udp/239.77.1.21:5146
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
 http://14.153.161.94:8888/udp/239.77.0.55:5146
-#EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
-http://14.153.161.94:8888/udp/239.77.1.21:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.3:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
@@ -3195,8 +3185,6 @@ http://113.116.43.148:5000/udp/239.77.0.130:5146
 http://116.18.37.60:4000/udp/239.77.0.130:5146
 #EXTINF:-1,tvg-name="深圳卫视超清" group-title="卫视", 深圳卫视超清
 http://116.4.96.235:4080/udp/239.77.0.130:5146
-#EXTINF:-1,tvg-name="深圳卫视超清" group-title="卫视", 深圳卫视超清
-http://14.153.161.94:8888/udp/239.77.0.130:5146
 #EXTINF:-1,tvg-name="深圳都市频道" group-title="其他", 深圳都市频道
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.34:5146
 #EXTINF:-1,tvg-name="深圳都市频道" group-title="其他", 深圳都市频道
@@ -3221,8 +3209,6 @@ http://113.116.43.148:5000/udp/239.77.1.34:5146
 http://116.18.37.60:4000/udp/239.77.1.34:5146
 #EXTINF:-1,tvg-name="深圳都市频道" group-title="其他", 深圳都市频道
 http://116.4.96.235:4080/udp/239.77.1.34:5146
-#EXTINF:-1,tvg-name="深圳都市频道" group-title="其他", 深圳都市频道
-http://14.153.161.94:8888/udp/239.77.1.34:5146
 #EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.124:5146
 #EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
@@ -3403,8 +3389,6 @@ http://113.116.43.148:5000/udp/239.77.1.242:5146
 http://116.18.37.60:4000/udp/239.77.1.242:5146
 #EXTINF:-1,tvg-name="深圳财经生活高清" group-title="其他", 深圳财经生活高清
 http://116.4.96.235:4080/udp/239.77.1.242:5146
-#EXTINF:-1,tvg-name="深圳财经生活高清" group-title="其他", 深圳财经生活高清
-http://14.153.161.94:8888/udp/239.77.1.242:5146
 #EXTINF:-1,tvg-name="深圳娱乐频道" group-title="其他", 深圳娱乐频道
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.36:5146
 #EXTINF:-1,tvg-name="深圳娱乐频道" group-title="其他", 深圳娱乐频道
@@ -3585,8 +3569,6 @@ http://113.116.43.148:5000/udp/239.77.1.244:5146
 http://116.18.37.60:4000/udp/239.77.1.244:5146
 #EXTINF:-1,tvg-name="深圳少儿频道高清" group-title="其他", 深圳少儿频道高清
 http://116.4.96.235:4080/udp/239.77.1.244:5146
-#EXTINF:-1,tvg-name="深圳少儿频道高清" group-title="其他", 深圳少儿频道高清
-http://14.153.161.94:8888/udp/239.77.1.244:5146
 #EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.9:5146
 #EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
@@ -3829,8 +3811,6 @@ http://113.116.43.148:5000/udp/239.77.1.175:5146
 http://116.18.37.60:4000/udp/239.77.1.175:5146
 #EXTINF:-1,tvg-name="深圳移动电视" group-title="其他", 深圳移动电视
 http://116.4.96.235:4080/udp/239.77.1.175:5146
-#EXTINF:-1,tvg-name="深圳移动电视" group-title="其他", 深圳移动电视
-http://14.153.161.94:8888/udp/239.77.1.175:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
@@ -6865,8 +6845,6 @@ http://113.116.43.148:5000/udp/239.77.0.131:5146
 http://116.18.37.60:4000/udp/239.77.0.131:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
 http://116.4.96.235:4080/udp/239.77.0.131:5146
-#EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
-http://14.153.161.94:8888/udp/239.77.0.131:5146
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.66:5146
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
