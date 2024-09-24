@@ -276,8 +276,6 @@ http://116.5.168.204:8884/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
 http://113.100.72.213:8899/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
-http://116.23.139.108:4000/udp/239.77.0.250:5146
-#EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
 http://113.67.165.237:8888/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-name="广东少儿高清" group-title="广东", 广东少儿高清
 http://116.5.239.225:8000/udp/239.77.0.250:5146
@@ -451,10 +449,6 @@ http://tenfarr.com:4000/udp/239.77.0.175:5146
 http://116.21.126.41:7777/udp/239.77.0.175:5146
 #EXTINF:-1,tvg-name="CCTV-3超清" group-title="央视", CCTV-3超清
 http://116.5.168.204:8884/udp/239.77.0.175:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://l2tp.yeedah.xyz:8000/udp/239.77.1.166:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://l2tp.yeedah.xyz:8000/udp/239.77.0.78:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://113.100.72.213:8899/udp/239.77.1.163:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
@@ -1896,8 +1890,6 @@ http://116.21.126.41:7777/udp/239.253.43.89:5146
 #EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
 http://116.5.168.204:8884/udp/239.253.43.89:5146
 #EXTINF:-1,tvg-name="广视课堂 初二" group-title="其他", 广视课堂 初二
-http://l2tp.yeedah.xyz:8000/udp/239.253.43.90:5146
-#EXTINF:-1,tvg-name="广视课堂 初二" group-title="其他", 广视课堂 初二
 http://113.100.72.213:8899/udp/239.253.43.90:5146
 #EXTINF:-1,tvg-name="广视课堂 初二" group-title="其他", 广视课堂 初二
 http://113.67.165.237:8888/udp/239.253.43.90:5146
@@ -2819,8 +2811,6 @@ http://116.21.126.41:7777/udp/239.77.0.25:5146
 http://116.5.168.204:8884/udp/239.77.0.25:5146
 #EXTINF:-1,tvg-name="汕尾文化生活" group-title="其他", 汕尾文化生活
 http://113.100.72.213:8899/udp/239.77.1.190:5146
-#EXTINF:-1,tvg-name="汕尾文化生活" group-title="其他", 汕尾文化生活
-http://116.23.139.108:4000/udp/239.77.1.190:5146
 #EXTINF:-1,tvg-name="汕尾文化生活" group-title="其他", 汕尾文化生活
 http://113.67.165.237:8888/udp/239.77.1.190:5146
 #EXTINF:-1,tvg-name="汕尾文化生活" group-title="其他", 汕尾文化生活
@@ -4872,8 +4862,6 @@ http://116.5.168.204:8884/udp/239.77.0.52:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://116.5.168.204:8884/udp/239.77.1.37:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
-http://l2tp.yeedah.xyz:8000/udp/239.77.1.182:5146
-#EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://113.100.72.213:8899/udp/239.77.1.141:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://113.100.72.213:8899/udp/239.77.1.182:5146
@@ -4933,8 +4921,6 @@ http://116.5.168.204:8884/udp/239.77.1.182:5146
 http://116.5.168.204:8884/udp/239.77.0.97:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
 http://113.100.72.213:8899/udp/239.77.0.131:5146
-#EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
-http://l2tp.yeedah.xyz:8000/udp/239.77.0.131:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
 http://113.67.165.237:8888/udp/239.77.0.131:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
@@ -5074,13 +5060,9 @@ http://113.66.228.67:8090/udp/239.77.0.132:5146
 #EXTINF:-1,tvg-name="山东卫视超清" group-title="卫视", 山东卫视超清
 http://116.5.168.204:8884/udp/239.77.0.132:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
-http://l2tp.yeedah.xyz:8000/udp/239.77.1.73:5146
-#EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://113.100.72.213:8899/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://113.100.72.213:8899/udp/239.77.1.73:5146
-#EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
-http://116.23.139.108:4000/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://113.67.165.237:8888/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
@@ -5419,8 +5401,6 @@ http://113.100.72.213:8899/udp/239.77.1.179:5146
 http://113.100.72.213:8899/udp/239.77.0.93:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://116.23.139.108:4000/udp/239.77.1.6:5146
-#EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
-http://116.23.139.108:4000/udp/239.77.1.179:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://113.67.165.237:8888/udp/239.77.1.6:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
