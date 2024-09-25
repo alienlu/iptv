@@ -5692,8 +5692,6 @@ http://183.7.117.206:8088/udp/239.77.1.214:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
 http://183.7.117.206:8088/udp/239.77.0.148:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
-http://l2tp.yeedah.xyz:8000/udp/239.77.1.213:5146
-#EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://113.100.72.213:8899/udp/239.77.0.65:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://113.100.72.213:8899/udp/239.77.1.1:5146
