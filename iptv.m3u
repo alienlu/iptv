@@ -87,8 +87,6 @@ http://tenfarr.com:4000/udp/239.77.0.1:5146
 http://116.21.126.41:7777/udp/239.77.0.1:5146
 #EXTINF:-1,tvg-name="广东珠江高清" group-title="广东", 广东珠江高清
 http://121.32.204.88:9999/udp/239.77.0.1:5146
-#EXTINF:-1,tvg-name="广东珠江高清" group-title="广东", 广东珠江高清
-http://jt.zorua.cn:8787/udp/239.77.0.1:5146
 #EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
 http://113.100.72.213:8899/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
@@ -103,8 +101,6 @@ http://tenfarr.com:4000/udp/239.77.0.114:5146
 http://116.21.126.41:7777/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
 http://121.32.204.88:9999/udp/239.77.0.114:5146
-#EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
-http://jt.zorua.cn:8787/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
 http://113.100.72.213:8899/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
@@ -183,8 +179,6 @@ http://tenfarr.com:4000/udp/239.77.0.85:5146
 http://116.21.126.41:7777/udp/239.77.0.85:5146
 #EXTINF:-1,tvg-name="经济科教高清" group-title="其他", 经济科教高清
 http://121.32.204.88:9999/udp/239.77.0.85:5146
-#EXTINF:-1,tvg-name="经济科教高清" group-title="其他", 经济科教高清
-http://jt.zorua.cn:8787/udp/239.77.0.85:5146
 #EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
 http://113.100.72.213:8899/udp/239.77.0.167:5146
 #EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
@@ -215,8 +209,6 @@ http://tenfarr.com:4000/udp/239.77.0.215:5146
 http://116.21.126.41:7777/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
 http://121.32.204.88:9999/udp/239.77.0.215:5146
-#EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
-http://jt.zorua.cn:8787/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="广东影视高清" group-title="广东", 广东影视高清
 http://113.100.72.213:8899/udp/239.77.0.217:5146
 #EXTINF:-1,tvg-name="广东影视高清" group-title="广东", 广东影视高清
@@ -390,8 +382,6 @@ http://tenfarr.com:4000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://116.21.126.41:7777/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
-http://jt.zorua.cn:8787/udp/239.77.0.137:5146
-#EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://121.32.204.88:9999/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://113.100.72.213:8899/udp/239.77.0.169:5146
@@ -469,10 +459,6 @@ http://121.32.204.88:9999/udp/239.77.1.163:5146
 http://121.32.204.88:9999/udp/239.77.1.166:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://121.32.204.88:9999/udp/239.77.0.78:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://jt.zorua.cn:8787/udp/239.77.1.163:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://jt.zorua.cn:8787/udp/239.77.0.78:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
 http://113.100.72.213:8899/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
@@ -503,8 +489,6 @@ http://tenfarr.com:4000/udp/239.77.0.177:5146
 http://116.21.126.41:7777/udp/239.77.0.177:5146
 #EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
 http://121.32.204.88:9999/udp/239.77.0.177:5146
-#EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
-http://jt.zorua.cn:8787/udp/239.77.0.177:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://113.100.72.213:8899/udp/239.77.0.87:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
@@ -567,6 +551,8 @@ http://tenfarr.com:4000/udp/239.77.0.171:5146
 http://116.21.126.41:7777/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://121.32.204.88:9999/udp/239.77.0.171:5146
+#EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
+http://jt.zorua.cn:8787/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://113.100.72.213:8899/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
@@ -580,9 +566,9 @@ http://tenfarr.com:4000/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://116.21.126.41:7777/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
-http://jt.zorua.cn:8787/udp/239.77.0.178:5146
-#EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://121.32.204.88:9999/udp/239.77.0.178:5146
+#EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
+http://jt.zorua.cn:8787/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
 http://113.100.72.213:8899/udp/239.77.1.159:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
@@ -645,8 +631,6 @@ http://tenfarr.com:4000/udp/239.77.0.172:5146
 http://116.21.126.41:7777/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://121.32.204.88:9999/udp/239.77.0.172:5146
-#EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
-http://jt.zorua.cn:8787/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://113.100.72.213:8899/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
@@ -738,8 +722,6 @@ http://121.32.204.88:9999/udp/239.77.1.113:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://121.32.204.88:9999/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
-http://jt.zorua.cn:8787/udp/239.77.1.113:5146
-#EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://jt.zorua.cn:8787/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
 http://113.100.72.213:8899/udp/239.77.0.134:5146
@@ -801,10 +783,6 @@ http://116.21.126.41:7777/udp/239.77.1.170:5146
 http://121.32.204.88:9999/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://121.32.204.88:9999/udp/239.77.1.170:5146
-#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
-http://jt.zorua.cn:8787/udp/239.77.1.170:5146
-#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
-http://jt.zorua.cn:8787/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://113.100.72.213:8899/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
@@ -878,13 +856,9 @@ http://116.21.126.41:7777/udp/239.77.1.161:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://116.21.126.41:7777/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
-http://jt.zorua.cn:8787/udp/239.77.1.161:5146
-#EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://121.32.204.88:9999/udp/239.77.1.161:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://121.32.204.88:9999/udp/239.77.1.171:5146
-#EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
-http://jt.zorua.cn:8787/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://113.100.72.213:8899/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
@@ -963,8 +937,6 @@ http://tenfarr.com:4000/udp/239.77.1.98:5146
 http://116.21.126.41:7777/udp/239.77.1.98:5146
 #EXTINF:-1,tvg-name="CCTV-16 4K" group-title="央视", CCTV-16 4K
 http://121.32.204.88:9999/udp/239.77.1.98:5146
-#EXTINF:-1,tvg-name="CCTV-16 4K" group-title="央视", CCTV-16 4K
-http://jt.zorua.cn:8787/udp/239.77.1.98:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
 http://113.100.72.213:8899/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
@@ -979,8 +951,6 @@ http://tenfarr.com:4000/udp/239.77.1.121:5146
 http://116.21.126.41:7777/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
 http://121.32.204.88:9999/udp/239.77.1.121:5146
-#EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
-http://jt.zorua.cn:8787/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K" group-title="央视", CCTV-4K 4K
 http://113.100.72.213:8899/udp/239.77.0.194:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K" group-title="央视", CCTV-4K 4K
@@ -1041,8 +1011,6 @@ http://116.21.126.41:7777/udp/239.77.1.27:5146
 http://121.32.204.88:9999/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://121.32.204.88:9999/udp/239.77.1.27:5146
-#EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
-http://jt.zorua.cn:8787/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://jt.zorua.cn:8787/udp/239.77.1.27:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
@@ -1246,13 +1214,13 @@ http://116.21.126.41:7777/udp/239.77.0.6:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
 http://116.21.126.41:7777/udp/239.77.1.97:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
-http://jt.zorua.cn:8787/udp/239.77.1.97:5146
-#EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
 http://121.32.204.88:9999/udp/239.77.0.6:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
 http://121.32.204.88:9999/udp/239.77.1.97:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
 http://jt.zorua.cn:8787/udp/239.77.0.6:5146
+#EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
+http://jt.zorua.cn:8787/udp/239.77.1.97:5146
 #EXTINF:-1,tvg-name="广东国际" group-title="广东", 广东国际
 http://113.100.72.213:8899/udp/239.77.0.7:5146
 #EXTINF:-1,tvg-name="广东国际" group-title="广东", 广东国际
@@ -1343,8 +1311,6 @@ http://tenfarr.com:4000/udp/239.77.0.12:5146
 http://116.21.126.41:7777/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
 http://121.32.204.88:9999/udp/239.77.0.12:5146
-#EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
-http://jt.zorua.cn:8787/udp/239.77.0.12:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://113.100.72.213:8899/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
@@ -1407,8 +1373,6 @@ http://jt.zorua.cn:8787/udp/239.77.0.22:5146
 http://121.32.204.88:9999/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://121.32.204.88:9999/udp/239.77.0.22:5146
-#EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
-http://jt.zorua.cn:8787/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
 http://113.100.72.213:8899/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
@@ -1439,8 +1403,6 @@ http://tenfarr.com:4000/udp/239.77.0.14:5146
 http://116.21.126.41:7777/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
 http://121.32.204.88:9999/udp/239.77.0.14:5146
-#EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
-http://jt.zorua.cn:8787/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="现代教育" group-title="其他", 现代教育
 http://113.100.72.213:8899/udp/239.77.0.18:5146
 #EXTINF:-1,tvg-name="现代教育" group-title="其他", 现代教育
@@ -1558,8 +1520,6 @@ http://116.21.126.41:7777/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
 http://116.21.126.41:7777/udp/239.77.0.252:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
-http://jt.zorua.cn:8787/udp/239.77.0.245:5146
-#EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
 http://121.32.204.88:9999/udp/239.77.0.246:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
 http://121.32.204.88:9999/udp/239.77.0.245:5146
@@ -1569,6 +1529,8 @@ http://121.32.204.88:9999/udp/239.77.0.252:5146
 http://jt.zorua.cn:8787/udp/239.77.0.246:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
 http://jt.zorua.cn:8787/udp/239.77.0.252:5146
+#EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
+http://jt.zorua.cn:8787/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
 http://113.100.72.213:8899/udp/239.253.43.66:5146
 #EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
@@ -1583,8 +1545,6 @@ http://tenfarr.com:4000/udp/239.253.43.66:5146
 http://116.21.126.41:7777/udp/239.253.43.66:5146
 #EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
 http://121.32.204.88:9999/udp/239.253.43.66:5146
-#EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
-http://jt.zorua.cn:8787/udp/239.253.43.66:5146
 #EXTINF:-1,tvg-name="广州综合高清" group-title="其他", 广州综合高清
 http://113.100.72.213:8899/udp/239.253.43.71:5146
 #EXTINF:-1,tvg-name="广州综合高清" group-title="其他", 广州综合高清
@@ -1614,9 +1574,9 @@ http://tenfarr.com:4000/udp/239.253.43.67:5146
 #EXTINF:-1,tvg-name="广州新闻" group-title="其他", 广州新闻
 http://116.21.126.41:7777/udp/239.253.43.67:5146
 #EXTINF:-1,tvg-name="广州新闻" group-title="其他", 广州新闻
-http://jt.zorua.cn:8787/udp/239.253.43.67:5146
-#EXTINF:-1,tvg-name="广州新闻" group-title="其他", 广州新闻
 http://121.32.204.88:9999/udp/239.253.43.67:5146
+#EXTINF:-1,tvg-name="广州新闻" group-title="其他", 广州新闻
+http://jt.zorua.cn:8787/udp/239.253.43.67:5146
 #EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
 http://113.100.72.213:8899/udp/239.253.43.72:5146
 #EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
@@ -1630,9 +1590,9 @@ http://tenfarr.com:4000/udp/239.253.43.72:5146
 #EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
 http://116.21.126.41:7777/udp/239.253.43.72:5146
 #EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
-http://jt.zorua.cn:8787/udp/239.253.43.72:5146
-#EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
 http://121.32.204.88:9999/udp/239.253.43.72:5146
+#EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
+http://jt.zorua.cn:8787/udp/239.253.43.72:5146
 #EXTINF:-1,tvg-name="广州影视" group-title="其他", 广州影视
 http://113.100.72.213:8899/udp/239.253.43.68:5146
 #EXTINF:-1,tvg-name="广州影视" group-title="其他", 广州影视
@@ -1806,9 +1766,9 @@ http://tenfarr.com:4000/udp/239.253.43.80:5146
 #EXTINF:-1,tvg-name="广视课堂 小学五" group-title="其他", 广视课堂 小学五
 http://116.21.126.41:7777/udp/239.253.43.80:5146
 #EXTINF:-1,tvg-name="广视课堂 小学五" group-title="其他", 广视课堂 小学五
-http://jt.zorua.cn:8787/udp/239.253.43.80:5146
-#EXTINF:-1,tvg-name="广视课堂 小学五" group-title="其他", 广视课堂 小学五
 http://121.32.204.88:9999/udp/239.253.43.80:5146
+#EXTINF:-1,tvg-name="广视课堂 小学五" group-title="其他", 广视课堂 小学五
+http://jt.zorua.cn:8787/udp/239.253.43.80:5146
 #EXTINF:-1,tvg-name="广视课堂 小学六" group-title="其他", 广视课堂 小学六
 http://113.100.72.213:8899/udp/239.253.43.81:5146
 #EXTINF:-1,tvg-name="广视课堂 小学六" group-title="其他", 广视课堂 小学六
@@ -1980,11 +1940,11 @@ http://121.32.204.88:9999/udp/239.77.1.148:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
 http://121.32.204.88:9999/udp/239.77.0.92:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
+http://jt.zorua.cn:8787/udp/239.77.1.3:5146
+#EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
 http://jt.zorua.cn:8787/udp/239.77.1.148:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
 http://jt.zorua.cn:8787/udp/239.77.0.92:5146
-#EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
-http://jt.zorua.cn:8787/udp/239.77.1.3:5146
 #EXTINF:-1,tvg-name="深圳卫视超清" group-title="卫视", 深圳卫视超清
 http://113.100.72.213:8899/udp/239.77.0.130:5146
 #EXTINF:-1,tvg-name="深圳卫视超清" group-title="卫视", 深圳卫视超清
@@ -2175,6 +2135,8 @@ http://tenfarr.com:4000/udp/239.77.1.8:5146
 http://116.21.126.41:7777/udp/239.77.1.8:5146
 #EXTINF:-1,tvg-name="深圳体育健康" group-title="其他", 深圳体育健康
 http://121.32.204.88:9999/udp/239.77.1.8:5146
+#EXTINF:-1,tvg-name="深圳体育健康" group-title="其他", 深圳体育健康
+http://jt.zorua.cn:8787/udp/239.77.1.8:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
 http://113.100.72.213:8899/udp/239.77.1.128:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
@@ -2428,9 +2390,9 @@ http://tenfarr.com:4000/udp/239.77.1.87:5146
 #EXTINF:-1,tvg-name="深圳宜和购物高清" group-title="其他", 深圳宜和购物高清
 http://116.21.126.41:7777/udp/239.77.1.87:5146
 #EXTINF:-1,tvg-name="深圳宜和购物高清" group-title="其他", 深圳宜和购物高清
-http://jt.zorua.cn:8787/udp/239.77.1.87:5146
-#EXTINF:-1,tvg-name="深圳宜和购物高清" group-title="其他", 深圳宜和购物高清
 http://121.32.204.88:9999/udp/239.77.1.87:5146
+#EXTINF:-1,tvg-name="深圳宜和购物高清" group-title="其他", 深圳宜和购物高清
+http://jt.zorua.cn:8787/udp/239.77.1.87:5146
 #EXTINF:-1,tvg-name="韶关新闻综合" group-title="其他", 韶关新闻综合
 http://113.100.72.213:8899/udp/239.77.0.116:5146
 #EXTINF:-1,tvg-name="韶关新闻综合" group-title="其他", 韶关新闻综合
@@ -2477,8 +2439,6 @@ http://tenfarr.com:4000/udp/239.77.0.118:5146
 http://116.21.126.41:7777/udp/239.77.0.118:5146
 #EXTINF:-1,tvg-name="韶关绿色生活" group-title="其他", 韶关绿色生活
 http://121.32.204.88:9999/udp/239.77.0.118:5146
-#EXTINF:-1,tvg-name="韶关绿色生活" group-title="其他", 韶关绿色生活
-http://jt.zorua.cn:8787/udp/239.77.0.118:5146
 #EXTINF:-1,tvg-name="韶关绿色生活高清" group-title="其他", 韶关绿色生活高清
 http://113.100.72.213:8899/udp/239.77.0.119:5146
 #EXTINF:-1,tvg-name="韶关绿色生活高清" group-title="其他", 韶关绿色生活高清
@@ -2685,8 +2645,6 @@ http://tenfarr.com:4000/udp/239.77.0.187:5146
 http://116.21.126.41:7777/udp/239.77.0.187:5146
 #EXTINF:-1,tvg-name="汕尾文化生活高清" group-title="其他", 汕尾文化生活高清
 http://121.32.204.88:9999/udp/239.77.0.187:5146
-#EXTINF:-1,tvg-name="汕尾文化生活高清" group-title="其他", 汕尾文化生活高清
-http://jt.zorua.cn:8787/udp/239.77.0.187:5146
 #EXTINF:-1,tvg-name="江门综合" group-title="其他", 江门综合
 http://113.100.72.213:8899/udp/239.77.0.195:5146
 #EXTINF:-1,tvg-name="江门综合" group-title="其他", 江门综合
@@ -2749,8 +2707,6 @@ http://tenfarr.com:4000/udp/239.77.0.202:5146
 http://116.21.126.41:7777/udp/239.77.0.202:5146
 #EXTINF:-1,tvg-name="江门侨乡生活高清" group-title="其他", 江门侨乡生活高清
 http://121.32.204.88:9999/udp/239.77.0.202:5146
-#EXTINF:-1,tvg-name="江门侨乡生活高清" group-title="其他", 江门侨乡生活高清
-http://jt.zorua.cn:8787/udp/239.77.0.202:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
 http://113.100.72.213:8899/udp/239.77.0.197:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
@@ -3002,9 +2958,9 @@ http://tenfarr.com:4000/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
 http://116.21.126.41:7777/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
-http://jt.zorua.cn:8787/udp/239.253.43.2:5146
-#EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
 http://121.32.204.88:9999/udp/239.253.43.2:5146
+#EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
+http://jt.zorua.cn:8787/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://113.100.72.213:8899/udp/239.253.43.215:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
@@ -3067,8 +3023,6 @@ http://tenfarr.com:4000/udp/239.253.43.214:5146
 http://116.21.126.41:7777/udp/239.253.43.214:5146
 #EXTINF:-1,tvg-name="河源公共高清" group-title="其他", 河源公共高清
 http://121.32.204.88:9999/udp/239.253.43.214:5146
-#EXTINF:-1,tvg-name="河源公共高清" group-title="其他", 河源公共高清
-http://jt.zorua.cn:8787/udp/239.253.43.214:5146
 #EXTINF:-1,tvg-name="清远新闻综合" group-title="其他", 清远新闻综合
 http://113.100.72.213:8899/udp/239.253.43.31:5146
 #EXTINF:-1,tvg-name="清远新闻综合" group-title="其他", 清远新闻综合
@@ -3176,9 +3130,9 @@ http://tenfarr.com:4000/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
 http://116.21.126.41:7777/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
-http://jt.zorua.cn:8787/udp/239.77.0.253:5146
-#EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
 http://121.32.204.88:9999/udp/239.77.0.253:5146
+#EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
+http://jt.zorua.cn:8787/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
 http://113.100.72.213:8899/udp/239.253.43.194:5146
 #EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
@@ -3433,8 +3387,6 @@ http://tenfarr.com:4000/udp/239.253.43.48:5146
 http://116.21.126.41:7777/udp/239.253.43.48:5146
 #EXTINF:-1,tvg-name="佛山公共" group-title="其他", 佛山公共
 http://121.32.204.88:9999/udp/239.253.43.48:5146
-#EXTINF:-1,tvg-name="佛山公共" group-title="其他", 佛山公共
-http://jt.zorua.cn:8787/udp/239.253.43.48:5146
 #EXTINF:-1,tvg-name="佛山公共高清" group-title="其他", 佛山公共高清
 http://113.100.72.213:8899/udp/239.253.43.53:5146
 #EXTINF:-1,tvg-name="佛山公共高清" group-title="其他", 佛山公共高清
@@ -3480,9 +3432,9 @@ http://121.32.204.88:9999/udp/239.253.43.49:5146
 #EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
 http://121.32.204.88:9999/udp/239.77.0.236:5146
 #EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
-http://jt.zorua.cn:8787/udp/239.253.43.49:5146
-#EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
 http://jt.zorua.cn:8787/udp/239.77.0.236:5146
+#EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
+http://jt.zorua.cn:8787/udp/239.253.43.49:5146
 #EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
 http://113.100.72.213:8899/udp/239.253.43.54:5146
 #EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
@@ -3836,8 +3788,6 @@ http://116.21.126.41:7777/udp/239.77.1.129:5146
 #EXTINF:-1,tvg-name="湖南卫视高清" group-title="卫视", 湖南卫视高清
 http://116.21.126.41:7777/udp/239.77.0.88:5146
 #EXTINF:-1,tvg-name="湖南卫视高清" group-title="卫视", 湖南卫视高清
-http://jt.zorua.cn:8787/udp/239.77.0.88:5146
-#EXTINF:-1,tvg-name="湖南卫视高清" group-title="卫视", 湖南卫视高清
 http://jt.zorua.cn:8787/udp/239.77.1.5:5146
 #EXTINF:-1,tvg-name="湖南卫视高清" group-title="卫视", 湖南卫视高清
 http://121.32.204.88:9999/udp/239.77.1.5:5146
@@ -3847,6 +3797,8 @@ http://121.32.204.88:9999/udp/239.77.1.129:5146
 http://121.32.204.88:9999/udp/239.77.0.88:5146
 #EXTINF:-1,tvg-name="湖南卫视高清" group-title="卫视", 湖南卫视高清
 http://jt.zorua.cn:8787/udp/239.77.1.129:5146
+#EXTINF:-1,tvg-name="湖南卫视高清" group-title="卫视", 湖南卫视高清
+http://jt.zorua.cn:8787/udp/239.77.0.88:5146
 #EXTINF:-1,tvg-name="湖南卫视超清" group-title="卫视", 湖南卫视超清
 http://113.100.72.213:8899/udp/239.77.0.127:5146
 #EXTINF:-1,tvg-name="湖南卫视超清" group-title="卫视", 湖南卫视超清
@@ -3940,9 +3892,9 @@ http://121.32.204.88:9999/udp/239.77.0.89:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://jt.zorua.cn:8787/udp/239.77.1.33:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
-http://jt.zorua.cn:8787/udp/239.77.1.150:5146
-#EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://jt.zorua.cn:8787/udp/239.77.0.89:5146
+#EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
+http://jt.zorua.cn:8787/udp/239.77.1.150:5146
 #EXTINF:-1,tvg-name="浙江卫视超清" group-title="卫视", 浙江卫视超清
 http://113.100.72.213:8899/udp/239.77.0.125:5146
 #EXTINF:-1,tvg-name="浙江卫视超清" group-title="卫视", 浙江卫视超清
@@ -3988,9 +3940,9 @@ http://121.32.204.88:9999/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://121.32.204.88:9999/udp/239.77.1.40:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
-http://jt.zorua.cn:8787/udp/239.77.0.48:5146
-#EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://jt.zorua.cn:8787/udp/239.77.1.40:5146
+#EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://jt.zorua.cn:8787/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
 http://113.100.72.213:8899/udp/239.77.1.18:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
@@ -4161,8 +4113,6 @@ http://jt.zorua.cn:8787/udp/239.77.0.50:5146
 http://121.32.204.88:9999/udp/239.77.0.50:5146
 #EXTINF:-1,tvg-name="安徽卫视" group-title="卫视", 安徽卫视
 http://121.32.204.88:9999/udp/239.77.1.13:5146
-#EXTINF:-1,tvg-name="安徽卫视" group-title="卫视", 安徽卫视
-http://jt.zorua.cn:8787/udp/239.77.1.13:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://113.100.72.213:8899/udp/239.77.1.92:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
@@ -4206,9 +4156,9 @@ http://121.32.204.88:9999/udp/239.77.1.157:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://121.32.204.88:9999/udp/239.77.0.183:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
-http://jt.zorua.cn:8787/udp/239.77.0.183:5146
-#EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://jt.zorua.cn:8787/udp/239.77.1.92:5146
+#EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
+http://jt.zorua.cn:8787/udp/239.77.0.183:5146
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
 http://113.100.72.213:8899/udp/239.77.0.51:5146
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
@@ -4287,6 +4237,8 @@ http://121.32.204.88:9999/udp/239.77.0.91:5146
 http://jt.zorua.cn:8787/udp/239.77.1.151:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://jt.zorua.cn:8787/udp/239.77.0.91:5146
+#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
+http://jt.zorua.cn:8787/udp/239.77.1.4:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://113.100.72.213:8899/udp/239.77.0.52:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
@@ -4362,11 +4314,11 @@ http://121.32.204.88:9999/udp/239.77.1.182:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://121.32.204.88:9999/udp/239.77.0.97:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
-http://jt.zorua.cn:8787/udp/239.77.1.182:5146
+http://jt.zorua.cn:8787/udp/239.77.0.97:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://jt.zorua.cn:8787/udp/239.77.1.141:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
-http://jt.zorua.cn:8787/udp/239.77.0.97:5146
+http://jt.zorua.cn:8787/udp/239.77.1.182:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
 http://113.100.72.213:8899/udp/239.77.0.131:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
@@ -4830,8 +4782,6 @@ http://116.21.126.41:7777/udp/239.77.0.59:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
 http://116.21.126.41:7777/udp/239.77.1.61:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
-http://jt.zorua.cn:8787/udp/239.77.1.61:5146
-#EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
 http://121.32.204.88:9999/udp/239.77.0.59:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
 http://121.32.204.88:9999/udp/239.77.1.61:5146
@@ -4899,8 +4849,6 @@ http://121.32.204.88:9999/udp/239.77.0.60:5146
 http://121.32.204.88:9999/udp/239.77.1.30:5146
 #EXTINF:-1,tvg-name="四川卫视" group-title="卫视", 四川卫视
 http://jt.zorua.cn:8787/udp/239.77.0.60:5146
-#EXTINF:-1,tvg-name="四川卫视" group-title="卫视", 四川卫视
-http://jt.zorua.cn:8787/udp/239.77.1.30:5146
 #EXTINF:-1,tvg-name="四川卫视高清" group-title="卫视", 四川卫视高清
 http://113.100.72.213:8899/udp/239.77.1.215:5146
 #EXTINF:-1,tvg-name="四川卫视高清" group-title="卫视", 四川卫视高清
@@ -4974,11 +4922,11 @@ http://116.21.126.41:7777/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://116.21.126.41:7777/udp/239.77.1.58:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
-http://jt.zorua.cn:8787/udp/239.77.0.61:5146
-#EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://121.32.204.88:9999/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://121.32.204.88:9999/udp/239.77.1.58:5146
+#EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
+http://jt.zorua.cn:8787/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://jt.zorua.cn:8787/udp/239.77.1.58:5146
 #EXTINF:-1,tvg-name="河南卫视高清" group-title="卫视", 河南卫视高清
@@ -5074,9 +5022,9 @@ http://121.32.204.88:9999/udp/239.253.43.37:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
 http://121.32.204.88:9999/udp/239.253.43.100:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
-http://jt.zorua.cn:8787/udp/239.253.43.37:5146
-#EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
 http://jt.zorua.cn:8787/udp/239.253.43.100:5146
+#EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
+http://jt.zorua.cn:8787/udp/239.253.43.37:5146
 #EXTINF:-1,tvg-name="重庆卫视" group-title="卫视", 重庆卫视
 http://113.100.72.213:8899/udp/239.77.0.63:5146
 #EXTINF:-1,tvg-name="重庆卫视" group-title="卫视", 重庆卫视
@@ -5187,8 +5135,6 @@ http://121.32.204.88:9999/udp/239.77.0.64:5146
 http://121.32.204.88:9999/udp/239.77.1.60:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
 http://jt.zorua.cn:8787/udp/239.77.0.64:5146
-#EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
-http://jt.zorua.cn:8787/udp/239.77.1.60:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
 http://113.100.72.213:8899/udp/239.77.1.214:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
@@ -5218,9 +5164,9 @@ http://121.32.204.88:9999/udp/239.77.1.214:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
 http://121.32.204.88:9999/udp/239.77.0.148:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
-http://jt.zorua.cn:8787/udp/239.77.1.214:5146
-#EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
 http://jt.zorua.cn:8787/udp/239.77.0.148:5146
+#EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
+http://jt.zorua.cn:8787/udp/239.77.1.214:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://113.100.72.213:8899/udp/239.77.0.65:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
@@ -5266,9 +5212,9 @@ http://121.32.204.88:9999/udp/239.77.1.213:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://jt.zorua.cn:8787/udp/239.77.1.213:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
-http://jt.zorua.cn:8787/udp/239.77.0.65:5146
-#EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://jt.zorua.cn:8787/udp/239.77.1.1:5146
+#EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://jt.zorua.cn:8787/udp/239.77.0.65:5146
 #EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
 http://113.100.72.213:8899/udp/239.77.1.104:5146
 #EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
