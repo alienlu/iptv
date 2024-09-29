@@ -501,8 +501,6 @@ http://119.129.238.239:10000/udp/239.77.0.181:5146
 http://116.28.99.176:10001/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
 http://113.93.53.76:5555/udp/239.77.0.181:5146
-#EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
-http://116.4.96.235:4080/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://116.4.96.235:4080/udp/239.77.1.160:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
@@ -2252,8 +2250,6 @@ http://116.28.99.176:10001/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
 http://113.93.53.76:5555/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
-http://116.4.96.235:4080/udp/239.253.43.215:5146
-#EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://tenfarr.com:4000/udp/239.253.43.215:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://59.38.62.213:2052/udp/239.253.43.215:5146
@@ -2991,8 +2987,6 @@ http://116.28.99.176:10001/udp/239.77.0.48:5146
 http://116.28.99.176:10001/udp/239.77.1.40:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://113.93.53.76:5555/udp/239.77.0.48:5146
-#EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
-http://116.4.96.235:4080/udp/239.77.1.18:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
 http://116.4.96.235:4080/udp/239.77.1.149:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
