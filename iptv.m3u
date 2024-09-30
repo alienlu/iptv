@@ -1190,8 +1190,6 @@ http://113.67.164.10:8888/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
 http://113.110.201.133:8888/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
-http://116.4.96.235:4080/udp/239.77.1.12:5146
-#EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
 http://tenfarr.com:4000/udp/239.77.0.9:5146
 #EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
 http://tenfarr.com:4000/udp/239.77.1.12:5146
@@ -3940,8 +3938,6 @@ http://116.4.96.235:4080/udp/239.77.1.4:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://116.4.96.235:4080/udp/239.77.1.151:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
-http://116.4.96.235:4080/udp/239.77.0.91:5146
-#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://tenfarr.com:4000/udp/239.77.1.4:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://tenfarr.com:4000/udp/239.77.1.151:5146
@@ -4553,8 +4549,6 @@ http://msa.mxsa.cc:4000/udp/239.77.0.163:5146
 http://113.67.164.10:8888/udp/239.77.0.163:5146
 #EXTINF:-1,tvg-name="四川卫视超清" group-title="卫视", 四川卫视超清
 http://113.110.201.133:8888/udp/239.77.0.163:5146
-#EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
-http://116.4.96.235:4080/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://116.4.96.235:4080/udp/239.77.1.58:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
