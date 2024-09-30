@@ -165,8 +165,6 @@ http://119.129.238.239:10000/udp/239.77.0.167:5146
 http://113.93.53.76:5555/udp/239.77.0.167:5146
 #EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
 http://msa.mxsa.cc:4000/udp/239.77.0.167:5146
-#EXTINF:-1,tvg-name="经济科教超清" group-title="其他", 经济科教超清
-http://113.66.41.135:10000/udp/239.77.0.167:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
 http://116.4.96.235:4080/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
@@ -227,8 +225,6 @@ http://119.129.238.239:10000/udp/239.77.0.179:5146
 http://113.93.53.76:5555/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
 http://msa.mxsa.cc:4000/udp/239.77.0.179:5146
-#EXTINF:-1,tvg-name="嘉佳卡通高清" group-title="其他", 嘉佳卡通高清
-http://113.66.41.135:10000/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://116.4.96.235:4080/udp/239.77.1.17:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
@@ -319,8 +315,6 @@ http://119.129.238.239:10000/udp/239.77.0.137:5146
 http://113.93.53.76:5555/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://msa.mxsa.cc:4000/udp/239.77.0.137:5146
-#EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
-http://113.66.41.135:10000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://116.4.96.235:4080/udp/239.77.0.169:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
@@ -685,8 +679,6 @@ http://113.93.53.76:5555/udp/239.253.43.196:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.188:5146
 #EXTINF:-1,tvg-name="CCTV-13高清" group-title="央视", CCTV-13高清
 http://msa.mxsa.cc:4000/udp/239.253.43.196:5146
-#EXTINF:-1,tvg-name="CCTV-13高清" group-title="央视", CCTV-13高清
-http://113.66.41.135:10000/udp/239.77.0.188:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://116.4.96.235:4080/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
@@ -1017,8 +1009,6 @@ http://119.129.238.239:10000/udp/239.77.0.7:5146
 http://113.93.53.76:5555/udp/239.77.0.7:5146
 #EXTINF:-1,tvg-name="广东国际" group-title="广东", 广东国际
 http://msa.mxsa.cc:4000/udp/239.77.0.7:5146
-#EXTINF:-1,tvg-name="广东国际" group-title="广东", 广东国际
-http://113.66.41.135:10000/udp/239.77.0.7:5146
 #EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
 http://116.4.96.235:4080/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
@@ -1131,8 +1121,6 @@ http://msa.mxsa.cc:4000/udp/239.77.0.19:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.22:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://113.66.41.135:10000/udp/239.77.0.22:5146
-#EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
-http://113.66.41.135:10000/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
 http://116.4.96.235:4080/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
@@ -1183,8 +1171,6 @@ http://113.93.53.76:5555/udp/239.77.0.20:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.20:5146
 #EXTINF:-1,tvg-name="广东移动" group-title="广东", 广东移动
 http://113.66.41.135:10000/udp/239.77.0.20:5146
-#EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
-http://116.4.96.235:4080/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
 http://tenfarr.com:4000/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
@@ -1342,8 +1328,6 @@ http://msa.mxsa.cc:4000/udp/239.253.43.74:5146
 #EXTINF:-1,tvg-name="广州法治高清" group-title="其他", 广州法治高清
 http://113.66.41.135:10000/udp/239.253.43.74:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
-http://116.4.96.235:4080/udp/239.253.43.70:5146
-#EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
 http://tenfarr.com:4000/udp/239.253.43.70:5146
 #EXTINF:-1,tvg-name="广州竞赛" group-title="其他", 广州竞赛
 http://59.38.62.213:2052/udp/239.253.43.70:5146
@@ -1405,8 +1389,6 @@ http://119.129.238.239:10000/udp/239.253.43.78:5146
 http://113.93.53.76:5555/udp/239.253.43.78:5146
 #EXTINF:-1,tvg-name="广视课堂 小学三" group-title="其他", 广视课堂 小学三
 http://msa.mxsa.cc:4000/udp/239.253.43.78:5146
-#EXTINF:-1,tvg-name="广视课堂 小学三" group-title="其他", 广视课堂 小学三
-http://113.66.41.135:10000/udp/239.253.43.78:5146
 #EXTINF:-1,tvg-name="广视课堂 小学四" group-title="其他", 广视课堂 小学四
 http://116.4.96.235:4080/udp/239.253.43.79:5146
 #EXTINF:-1,tvg-name="广视课堂 小学四" group-title="其他", 广视课堂 小学四
@@ -1529,8 +1511,6 @@ http://113.93.53.76:5555/udp/239.77.1.21:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.55:5146
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
 http://msa.mxsa.cc:4000/udp/239.77.1.21:5146
-#EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
-http://113.66.41.135:10000/udp/239.77.0.55:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
 http://116.4.96.235:4080/udp/239.77.1.3:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
@@ -1571,8 +1551,6 @@ http://msa.mxsa.cc:4000/udp/239.77.0.92:5146
 http://113.66.41.135:10000/udp/239.77.1.3:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
 http://113.66.41.135:10000/udp/239.77.1.148:5146
-#EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
-http://113.66.41.135:10000/udp/239.77.0.92:5146
 #EXTINF:-1,tvg-name="深圳卫视超清" group-title="卫视", 深圳卫视超清
 http://116.4.96.235:4080/udp/239.77.0.130:5146
 #EXTINF:-1,tvg-name="深圳卫视超清" group-title="卫视", 深圳卫视超清
@@ -1777,8 +1755,6 @@ http://119.129.238.239:10000/udp/239.77.1.244:5146
 http://113.93.53.76:5555/udp/239.77.1.244:5146
 #EXTINF:-1,tvg-name="深圳少儿频道高清" group-title="其他", 深圳少儿频道高清
 http://msa.mxsa.cc:4000/udp/239.77.1.244:5146
-#EXTINF:-1,tvg-name="深圳少儿频道高清" group-title="其他", 深圳少儿频道高清
-http://113.66.41.135:10000/udp/239.77.1.244:5146
 #EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
 http://116.4.96.235:4080/udp/239.77.1.9:5146
 #EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
@@ -1831,8 +1807,6 @@ http://119.129.238.239:10000/udp/239.77.1.206:5146
 http://113.93.53.76:5555/udp/239.77.1.206:5146
 #EXTINF:-1,tvg-name="深圳宝安频道" group-title="其他", 深圳宝安频道
 http://msa.mxsa.cc:4000/udp/239.77.1.206:5146
-#EXTINF:-1,tvg-name="深圳宝安频道" group-title="其他", 深圳宝安频道
-http://113.66.41.135:10000/udp/239.77.1.206:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
 http://116.4.96.235:4080/udp/239.77.1.67:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
@@ -2335,8 +2309,6 @@ http://119.129.238.239:10000/udp/239.253.43.3:5146
 http://113.93.53.76:5555/udp/239.253.43.3:5146
 #EXTINF:-1,tvg-name="肇庆综合" group-title="其他", 肇庆综合
 http://msa.mxsa.cc:4000/udp/239.253.43.3:5146
-#EXTINF:-1,tvg-name="肇庆综合" group-title="其他", 肇庆综合
-http://113.66.41.135:10000/udp/239.253.43.3:5146
 #EXTINF:-1,tvg-name="肇庆综合高清" group-title="其他", 肇庆综合高清
 http://116.4.96.235:4080/udp/239.253.43.1:5146
 #EXTINF:-1,tvg-name="肇庆综合高清" group-title="其他", 肇庆综合高清
@@ -2513,8 +2485,6 @@ http://119.129.238.239:10000/udp/239.77.0.253:5146
 http://113.93.53.76:5555/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
 http://msa.mxsa.cc:4000/udp/239.77.0.253:5146
-#EXTINF:-1,tvg-name="云浮综合高清" group-title="其他", 云浮综合高清
-http://113.66.41.135:10000/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
 http://116.4.96.235:4080/udp/239.253.43.194:5146
 #EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
@@ -2683,8 +2653,6 @@ http://119.129.238.239:10000/udp/239.253.43.44:5146
 http://113.93.53.76:5555/udp/239.253.43.44:5146
 #EXTINF:-1,tvg-name="汕头文旅体育" group-title="其他", 汕头文旅体育
 http://msa.mxsa.cc:4000/udp/239.253.43.44:5146
-#EXTINF:-1,tvg-name="汕头文旅体育" group-title="其他", 汕头文旅体育
-http://113.66.41.135:10000/udp/239.253.43.44:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
 http://116.4.96.235:4080/udp/239.77.1.132:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
@@ -2761,8 +2729,6 @@ http://msa.mxsa.cc:4000/udp/239.253.43.49:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.236:5146
 #EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
 http://113.66.41.135:10000/udp/239.77.0.236:5146
-#EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
-http://113.66.41.135:10000/udp/239.253.43.49:5146
 #EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
 http://116.4.96.235:4080/udp/239.253.43.54:5146
 #EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
@@ -2775,8 +2741,6 @@ http://119.129.238.239:10000/udp/239.253.43.54:5146
 http://113.93.53.76:5555/udp/239.253.43.54:5146
 #EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
 http://msa.mxsa.cc:4000/udp/239.253.43.54:5146
-#EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
-http://113.66.41.135:10000/udp/239.253.43.54:5146
 #EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
 http://116.4.96.235:4080/udp/239.253.43.50:5146
 #EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
@@ -2789,8 +2753,6 @@ http://119.129.238.239:10000/udp/239.253.43.50:5146
 http://113.93.53.76:5555/udp/239.253.43.50:5146
 #EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
 http://msa.mxsa.cc:4000/udp/239.253.43.50:5146
-#EXTINF:-1,tvg-name="佛山顺德" group-title="其他", 佛山顺德
-http://113.66.41.135:10000/udp/239.253.43.50:5146
 #EXTINF:-1,tvg-name="佛山顺德高清" group-title="其他", 佛山顺德高清
 http://116.4.96.235:4080/udp/239.253.43.55:5146
 #EXTINF:-1,tvg-name="佛山顺德高清" group-title="其他", 佛山顺德高清
@@ -2803,8 +2765,6 @@ http://119.129.238.239:10000/udp/239.253.43.55:5146
 http://113.93.53.76:5555/udp/239.253.43.55:5146
 #EXTINF:-1,tvg-name="佛山顺德高清" group-title="其他", 佛山顺德高清
 http://msa.mxsa.cc:4000/udp/239.253.43.55:5146
-#EXTINF:-1,tvg-name="佛山顺德高清" group-title="其他", 佛山顺德高清
-http://113.66.41.135:10000/udp/239.253.43.55:5146
 #EXTINF:-1,tvg-name="佛山影视" group-title="其他", 佛山影视
 http://116.4.96.235:4080/udp/239.253.43.51:5146
 #EXTINF:-1,tvg-name="佛山影视" group-title="其他", 佛山影视
@@ -3137,8 +3097,6 @@ http://msa.mxsa.cc:4000/udp/239.77.1.33:5146
 http://msa.mxsa.cc:4000/udp/239.77.1.150:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://msa.mxsa.cc:4000/udp/239.77.0.89:5146
-#EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
-http://113.66.41.135:10000/udp/239.77.0.89:5146
 #EXTINF:-1,tvg-name="浙江卫视超清" group-title="卫视", 浙江卫视超清
 http://116.4.96.235:4080/udp/239.77.0.125:5146
 #EXTINF:-1,tvg-name="浙江卫视超清" group-title="卫视", 浙江卫视超清
@@ -3175,8 +3133,6 @@ http://113.93.53.76:5555/udp/239.77.0.48:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://msa.mxsa.cc:4000/udp/239.77.1.40:5146
-#EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
-http://113.66.41.135:10000/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
 http://116.4.96.235:4080/udp/239.77.1.149:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
@@ -3284,8 +3240,6 @@ http://msa.mxsa.cc:4000/udp/239.77.1.156:5146
 #EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
 http://msa.mxsa.cc:4000/udp/239.77.0.98:5146
 #EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
-http://113.66.41.135:10000/udp/239.77.1.156:5146
-#EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
 http://113.66.41.135:10000/udp/239.77.1.218:5146
 #EXTINF:-1,tvg-name="安徽卫视" group-title="卫视", 安徽卫视
 http://116.4.96.235:4080/udp/239.77.0.50:5146
@@ -3349,8 +3303,6 @@ http://msa.mxsa.cc:4000/udp/239.77.1.157:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.183:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://113.66.41.135:10000/udp/239.77.1.92:5146
-#EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
-http://113.66.41.135:10000/udp/239.77.0.183:5146
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
 http://116.4.96.235:4080/udp/239.77.0.51:5146
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
@@ -3414,13 +3366,9 @@ http://msa.mxsa.cc:4000/udp/239.77.1.151:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://msa.mxsa.cc:4000/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
-http://113.66.41.135:10000/udp/239.77.1.151:5146
-#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://113.66.41.135:10000/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://116.4.96.235:4080/udp/239.77.0.52:5146
-#EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
-http://116.4.96.235:4080/udp/239.77.1.37:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://tenfarr.com:4000/udp/239.77.0.52:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
@@ -3591,8 +3539,6 @@ http://113.93.53.76:5555/udp/239.77.1.73:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://msa.mxsa.cc:4000/udp/239.77.1.73:5146
-#EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
-http://113.66.41.135:10000/udp/239.77.1.73:5146
 #EXTINF:-1,tvg-name="江西卫视高清" group-title="卫视", 江西卫视高清
 http://116.4.96.235:4080/udp/239.77.1.219:5146
 #EXTINF:-1,tvg-name="江西卫视高清" group-title="卫视", 江西卫视高清
@@ -3783,8 +3729,6 @@ http://113.93.53.76:5555/udp/239.77.1.71:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.58:5146
 #EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
 http://msa.mxsa.cc:4000/udp/239.77.1.71:5146
-#EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
-http://113.66.41.135:10000/udp/239.77.1.71:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://116.4.96.235:4080/udp/239.77.1.6:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
@@ -4137,10 +4081,6 @@ http://113.93.53.76:5555/udp/239.77.0.64:5146
 http://msa.mxsa.cc:4000/udp/239.77.0.64:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
 http://msa.mxsa.cc:4000/udp/239.77.1.60:5146
-#EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
-http://113.66.41.135:10000/udp/239.77.0.64:5146
-#EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
-http://113.66.41.135:10000/udp/239.77.1.60:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
 http://116.4.96.235:4080/udp/239.77.1.214:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
@@ -4203,8 +4143,6 @@ http://msa.mxsa.cc:4000/udp/239.77.1.1:5146
 http://msa.mxsa.cc:4000/udp/239.77.1.213:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://113.66.41.135:10000/udp/239.77.0.65:5146
-#EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
-http://113.66.41.135:10000/udp/239.77.1.1:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://113.66.41.135:10000/udp/239.77.1.213:5146
 #EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
