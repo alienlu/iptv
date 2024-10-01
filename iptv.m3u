@@ -2283,8 +2283,6 @@ http://119.129.238.239:10000/udp/239.253.43.44:5146
 http://msa.mxsa.cc:4000/udp/239.253.43.44:5146
 #EXTINF:-1,tvg-name="汕头文旅体育" group-title="其他", 汕头文旅体育
 http://113.67.164.10:8888/udp/239.253.43.44:5146
-#EXTINF:-1,tvg-name="汕头文旅体育" group-title="其他", 汕头文旅体育
-http://113.110.201.133:8888/udp/239.253.43.44:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
 http://tenfarr.com:4000/udp/239.77.1.132:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
