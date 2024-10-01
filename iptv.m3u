@@ -781,6 +781,8 @@ http://msa.mxsa.cc:4000/udp/239.77.1.239:5146
 http://113.110.201.133:8888/udp/239.77.1.239:5146
 #EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
 http://113.101.160.29:8888/udp/239.77.1.239:5146
+#EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
+http://113.67.164.10:8888/udp/239.77.1.239:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
 http://116.4.96.235:4080/udp/239.77.0.165:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
@@ -1689,8 +1691,6 @@ http://119.129.238.239:10000/udp/239.77.1.7:5146
 http://msa.mxsa.cc:4000/udp/239.77.1.7:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
 http://113.67.164.10:8888/udp/239.77.1.7:5146
-#EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
-http://113.110.201.133:8888/udp/239.77.1.7:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道高清" group-title="其他", 深圳电视剧频道高清
 http://116.4.96.235:4080/udp/239.77.1.177:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道高清" group-title="其他", 深圳电视剧频道高清
