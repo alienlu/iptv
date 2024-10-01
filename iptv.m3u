@@ -81,6 +81,8 @@ http://113.67.164.10:8888/udp/239.77.0.114:5146
 http://113.110.201.133:8888/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
 http://113.101.160.29:8888/udp/239.77.0.114:5146
+#EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
+http://tenfarr.com:4000/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
 http://tenfarr.com:4000/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
@@ -673,6 +675,8 @@ http://113.67.164.10:8888/udp/239.77.0.133:5146
 http://113.110.201.133:8888/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://113.101.160.29:8888/udp/239.77.0.133:5146
+#EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
+http://tenfarr.com:4000/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
 http://tenfarr.com:4000/udp/239.77.1.239:5146
 #EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
@@ -1257,6 +1261,8 @@ http://msa.mxsa.cc:4000/udp/239.253.43.75:5146
 http://113.67.164.10:8888/udp/239.253.43.75:5146
 #EXTINF:-1,tvg-name="广州竞赛高清" group-title="其他", 广州竞赛高清
 http://113.110.201.133:8888/udp/239.253.43.75:5146
+#EXTINF:-1,tvg-name="广州竞赛高清" group-title="其他", 广州竞赛高清
+http://tenfarr.com:4000/udp/239.253.43.75:5146
 #EXTINF:-1,tvg-name="广视课堂 小学一" group-title="其他", 广视课堂 小学一
 http://tenfarr.com:4000/udp/239.253.43.76:5146
 #EXTINF:-1,tvg-name="广视课堂 小学一" group-title="其他", 广视课堂 小学一
@@ -1453,6 +1459,8 @@ http://113.67.164.10:8888/udp/239.77.1.124:5146
 http://113.110.201.133:8888/udp/239.77.1.176:5146
 #EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
 http://113.110.201.133:8888/udp/239.77.1.124:5146
+#EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
+http://tenfarr.com:4000/udp/239.77.1.124:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
 http://tenfarr.com:4000/udp/239.77.1.7:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
@@ -1779,6 +1787,8 @@ http://msa.mxsa.cc:4000/udp/239.77.0.157:5146
 http://113.67.164.10:8888/udp/239.77.0.157:5146
 #EXTINF:-1,tvg-name="揭阳综合" group-title="其他", 揭阳综合
 http://113.110.201.133:8888/udp/239.77.0.157:5146
+#EXTINF:-1,tvg-name="揭阳综合" group-title="其他", 揭阳综合
+http://tenfarr.com:4000/udp/239.77.0.157:5146
 #EXTINF:-1,tvg-name="揭阳综合高清" group-title="其他", 揭阳综合高清
 http://tenfarr.com:4000/udp/239.77.0.229:5146
 #EXTINF:-1,tvg-name="揭阳综合高清" group-title="其他", 揭阳综合高清
@@ -1965,6 +1975,8 @@ http://msa.mxsa.cc:4000/udp/239.77.1.233:5146
 http://113.67.164.10:8888/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://113.110.201.133:8888/udp/239.77.1.233:5146
+#EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
+http://tenfarr.com:4000/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="珠海-1" group-title="其他", 珠海-1
 http://tenfarr.com:4000/udp/239.77.1.230:5146
 #EXTINF:-1,tvg-name="珠海-1" group-title="其他", 珠海-1
