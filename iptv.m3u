@@ -294,8 +294,6 @@ http://msa.mxsa.cc:4000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://113.67.164.10:8888/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
-http://113.110.201.133:8888/udp/239.77.0.137:5146
-#EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://113.101.160.29:8888/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://tenfarr.com:4000/udp/239.77.0.169:5146
@@ -3395,8 +3393,6 @@ http://113.67.164.10:8888/udp/239.77.1.162:5146
 http://113.67.164.10:8888/udp/239.77.1.210:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
 http://113.67.164.10:8888/udp/239.77.0.182:5146
-#EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
-http://113.110.201.133:8888/udp/239.77.1.162:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
 http://113.110.201.133:8888/udp/239.77.1.210:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
