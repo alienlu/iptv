@@ -641,8 +641,6 @@ http://tenfarr.com:4000/udp/239.77.0.7:5146
 http://119.129.238.239:10000/udp/239.77.0.7:5146
 #EXTINF:-1,tvg-name="广东国际" group-title="广东", 广东国际
 http://113.67.164.10:8888/udp/239.77.0.7:5146
-#EXTINF:-1,tvg-name="广东国际" group-title="广东", 广东国际
-http://113.101.160.29:8888/udp/239.77.0.7:5146
 #EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
 http://tenfarr.com:4000/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
@@ -759,16 +757,12 @@ http://tenfarr.com:4000/udp/239.77.1.237:5146
 http://119.129.238.239:10000/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
 http://113.67.164.10:8888/udp/239.77.1.237:5146
-#EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
-http://113.101.160.29:8888/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-name="广东综艺(4k)" group-title="广东", 广东综艺(4k)
 http://tenfarr.com:4000/udp/239.77.0.244:5146
 #EXTINF:-1,tvg-name="广东综艺(4k)" group-title="广东", 广东综艺(4k)
 http://119.129.238.239:10000/udp/239.77.0.244:5146
 #EXTINF:-1,tvg-name="广东综艺(4k)" group-title="广东", 广东综艺(4k)
 http://113.67.164.10:8888/udp/239.77.0.244:5146
-#EXTINF:-1,tvg-name="广东综艺(4k)" group-title="广东", 广东综艺(4k)
-http://113.101.160.29:8888/udp/239.77.0.244:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
 http://tenfarr.com:4000/udp/239.77.0.246:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
@@ -787,8 +781,6 @@ http://113.67.164.10:8888/udp/239.77.0.246:5146
 http://113.67.164.10:8888/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
 http://113.67.164.10:8888/udp/239.77.0.252:5146
-#EXTINF:-1,tvg-name="广东综艺4k" group-title="广东", 广东综艺4k
-http://113.101.160.29:8888/udp/239.77.0.246:5146
 #EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
 http://tenfarr.com:4000/udp/239.253.43.66:5146
 #EXTINF:-1,tvg-name="广州综合" group-title="其他", 广州综合
