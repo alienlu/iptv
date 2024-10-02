@@ -1647,8 +1647,6 @@ http://tenfarr.com:4000/udp/239.77.0.127:5146
 http://119.129.238.239:10000/udp/239.77.0.127:5146
 #EXTINF:-1,tvg-name="湖南卫视超清" group-title="卫视", 湖南卫视超清
 http://113.67.164.10:8888/udp/239.77.0.127:5146
-#EXTINF:-1,tvg-name="湖南卫视超清" group-title="卫视", 湖南卫视超清
-http://113.101.160.29:8888/udp/239.77.0.127:5146
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
 http://tenfarr.com:4000/udp/239.77.0.47:5146
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
