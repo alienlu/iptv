@@ -741,16 +741,12 @@ http://tenfarr.com:4000/udp/239.77.0.20:5146
 http://119.129.238.239:10000/udp/239.77.0.20:5146
 #EXTINF:-1,tvg-name="广东移动" group-title="广东", 广东移动
 http://113.67.164.10:8888/udp/239.77.0.20:5146
-#EXTINF:-1,tvg-name="广东移动" group-title="广东", 广东移动
-http://113.101.160.29:8888/udp/239.77.0.20:5146
 #EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
 http://tenfarr.com:4000/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
 http://119.129.238.239:10000/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
 http://113.67.164.10:8888/udp/239.77.1.236:5146
-#EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
-http://113.101.160.29:8888/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
 http://tenfarr.com:4000/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
