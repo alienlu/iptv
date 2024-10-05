@@ -841,8 +841,6 @@ http://59.38.62.62:2052/udp/239.77.1.170:5146
 http://14.154.189.185:4022/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://14.154.189.185:4022/udp/239.77.1.170:5146
-#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
-http://113.65.94.94:10000/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://tenfarr.com:4000/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
@@ -2253,8 +2251,6 @@ http://59.38.62.62:2052/udp/239.77.1.140:5146
 http://14.154.189.185:4022/udp/239.77.1.128:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
 http://14.154.189.185:4022/udp/239.77.1.140:5146
-#EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
-http://113.65.94.94:10000/udp/239.77.1.128:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
 http://tenfarr.com:4000/udp/239.77.1.38:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
@@ -2843,8 +2839,6 @@ http://59.38.62.62:2052/udp/239.77.0.202:5146
 http://14.154.189.185:4022/udp/239.77.0.202:5146
 #EXTINF:-1,tvg-name="江门侨乡生活高清" group-title="其他", 江门侨乡生活高清
 http://113.101.160.29:8888/udp/239.77.0.202:5146
-#EXTINF:-1,tvg-name="江门侨乡生活高清" group-title="其他", 江门侨乡生活高清
-http://113.65.94.94:10000/udp/239.77.0.202:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
 http://tenfarr.com:4000/udp/239.77.0.197:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
@@ -3097,8 +3091,6 @@ http://59.38.62.62:2052/udp/239.253.43.1:5146
 http://14.154.189.185:4022/udp/239.253.43.1:5146
 #EXTINF:-1,tvg-name="肇庆综合高清" group-title="其他", 肇庆综合高清
 http://113.101.160.29:8888/udp/239.253.43.1:5146
-#EXTINF:-1,tvg-name="肇庆综合高清" group-title="其他", 肇庆综合高清
-http://113.65.94.94:10000/udp/239.253.43.1:5146
 #EXTINF:-1,tvg-name="肇庆生活服务" group-title="其他", 肇庆生活服务
 http://tenfarr.com:4000/udp/239.253.43.4:5146
 #EXTINF:-1,tvg-name="肇庆生活服务" group-title="其他", 肇庆生活服务
@@ -3133,8 +3125,6 @@ http://www.zz49.top:4022/udp/239.253.43.2:5146
 http://59.38.62.62:2052/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
 http://14.154.189.185:4022/udp/239.253.43.2:5146
-#EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
-http://113.101.160.29:8888/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://tenfarr.com:4000/udp/239.253.43.215:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
@@ -4937,8 +4927,6 @@ http://www.zz49.top:4022/udp/239.77.1.103:5146
 http://59.38.62.62:2052/udp/239.77.1.103:5146
 #EXTINF:-1,tvg-name="辽宁卫视高清" group-title="卫视", 辽宁卫视高清
 http://14.154.189.185:4022/udp/239.77.1.103:5146
-#EXTINF:-1,tvg-name="辽宁卫视高清" group-title="卫视", 辽宁卫视高清
-http://113.65.94.94:10000/udp/239.77.1.103:5146
 #EXTINF:-1,tvg-name="辽宁卫视 高清" group-title="卫视", 辽宁卫视 高清
 http://tenfarr.com:4000/udp/239.77.0.123:5146
 #EXTINF:-1,tvg-name="辽宁卫视 高清" group-title="卫视", 辽宁卫视 高清
