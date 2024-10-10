@@ -3180,8 +3180,6 @@ http://116.28.96.216:10001/udp/239.77.0.254:5146
 #EXTINF:-1,tvg-name="云浮文旅高清" group-title="其他", 云浮文旅高清
 http://61.145.208.119:9090/udp/239.77.0.254:5146
 #EXTINF:-1,tvg-name="云浮文旅高清" group-title="其他", 云浮文旅高清
-http://116.28.125.24:7777/udp/239.77.0.254:5146
-#EXTINF:-1,tvg-name="云浮文旅高清" group-title="其他", 云浮文旅高清
 http://113.110.203.207:8888/udp/239.77.0.254:5146
 #EXTINF:-1,tvg-name="茂名综合" group-title="其他", 茂名综合
 http://tenfarr.com:4000/udp/239.77.0.204:5146
@@ -3741,8 +3739,6 @@ http://116.28.125.24:7777/udp/239.253.43.112:5146
 http://113.110.203.207:8888/udp/239.253.43.112:5146
 #EXTINF:-1,tvg-name="湖南卫视" group-title="卫视", 湖南卫视
 http://tenfarr.com:4000/udp/239.77.1.29:5146
-#EXTINF:-1,tvg-name="湖南卫视" group-title="卫视", 湖南卫视
-http://113.67.164.10:8888/udp/239.77.0.46:5146
 #EXTINF:-1,tvg-name="湖南卫视" group-title="卫视", 湖南卫视
 http://113.67.164.10:8888/udp/239.77.1.29:5146
 #EXTINF:-1,tvg-name="湖南卫视" group-title="卫视", 湖南卫视
