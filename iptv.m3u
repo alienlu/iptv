@@ -1666,8 +1666,6 @@ http://116.28.96.216:10001/udp/239.253.43.69:5146
 #EXTINF:-1,tvg-name="广州法治" group-title="其他", 广州法治
 http://61.145.208.119:9090/udp/239.253.43.69:5146
 #EXTINF:-1,tvg-name="广州法治" group-title="其他", 广州法治
-http://116.28.125.24:7777/udp/239.253.43.69:5146
-#EXTINF:-1,tvg-name="广州法治" group-title="其他", 广州法治
 http://113.110.203.207:8888/udp/239.253.43.69:5146
 #EXTINF:-1,tvg-name="广州法治高清" group-title="其他", 广州法治高清
 http://tenfarr.com:4000/udp/239.253.43.74:5146
@@ -2285,8 +2283,6 @@ http://113.110.203.207:8888/udp/239.77.1.206:5146
 http://tenfarr.com:4000/udp/239.77.1.67:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
 http://113.67.164.10:8888/udp/239.77.1.67:5146
-#EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
-http://www.zz49.top:4022/udp/239.77.1.67:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
 http://183.30.197.224:8888/udp/239.77.1.67:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
