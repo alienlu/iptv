@@ -879,8 +879,6 @@ http://116.28.125.24:7777/udp/239.77.1.161:5146
 http://116.28.125.24:7777/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://113.110.203.207:8888/udp/239.77.1.161:5146
-#EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
-http://113.110.203.207:8888/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://113.67.164.10:8888/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
