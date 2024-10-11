@@ -1740,8 +1740,6 @@ http://113.67.164.10:8888/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://113.67.164.10:8888/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
-http://www.zz49.top:4022/udp/239.77.0.247:5146
-#EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://www.zz49.top:4022/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://116.28.96.216:10001/udp/239.77.0.247:5146
@@ -2418,8 +2416,6 @@ http://116.28.125.24:7777/udp/239.77.0.47:5146
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
 http://116.28.125.24:7777/udp/239.77.1.32:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
-http://tenfarr.com:4000/udp/239.77.0.89:5146
-#EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://113.67.164.10:8888/udp/239.77.1.33:5146
 #EXTINF:-1,tvg-name="浙江卫视高清" group-title="卫视", 浙江卫视高清
 http://113.67.164.10:8888/udp/239.77.1.150:5146
@@ -2935,8 +2931,6 @@ http://116.28.96.216:10001/udp/239.77.0.161:5146
 http://61.145.208.119:9090/udp/239.77.0.161:5146
 #EXTINF:-1,tvg-name="辽宁卫视超清 )" group-title="卫视", 辽宁卫视超清 )
 http://116.28.125.24:7777/udp/239.77.0.161:5146
-#EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
-http://tenfarr.com:4000/udp/239.77.1.71:5146
 #EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
 http://113.67.164.10:8888/udp/239.77.0.58:5146
 #EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
