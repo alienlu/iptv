@@ -968,8 +968,6 @@ http://116.28.125.24:7777/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="经济科教" group-title="其他", 经济科教
 http://113.68.61.135:8090/udp/239.77.0.8:5146
 #EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
-http://tenfarr.com:4000/udp/239.77.1.12:5146
-#EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
 http://113.67.164.10:8888/udp/239.77.0.9:5146
 #EXTINF:-1,tvg-name="大湾区卫视" group-title="卫视", 大湾区卫视
 http://113.67.164.10:8888/udp/239.77.1.12:5146
@@ -3849,8 +3847,6 @@ http://113.67.164.10:8888/udp/239.77.1.210:5146
 http://113.67.164.10:8888/udp/239.77.0.182:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
 http://www.zz49.top:4022/udp/239.77.1.162:5146
-#EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
-http://www.zz49.top:4022/udp/239.77.1.210:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
 http://www.zz49.top:4022/udp/239.77.0.182:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
