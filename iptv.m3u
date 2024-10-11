@@ -1388,8 +1388,6 @@ http://61.145.208.119:9090/udp/239.77.1.244:5146
 #EXTINF:-1,tvg-name="深圳少儿频道高清" group-title="其他", 深圳少儿频道高清
 http://116.28.125.24:7777/udp/239.77.1.244:5146
 #EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
-http://tenfarr.com:4000/udp/239.77.1.9:5146
-#EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
 http://113.67.164.10:8888/udp/239.77.1.9:5146
 #EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
 http://www.zz49.top:4022/udp/239.77.1.9:5146
