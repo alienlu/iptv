@@ -599,6 +599,8 @@ http://113.68.61.135:8090/udp/239.77.1.170:5146
 http://61.145.208.119:9090/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://61.145.208.119:9090/udp/239.77.1.170:5146
+#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
+http://116.28.125.24:7777/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://113.67.164.10:8888/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
@@ -903,6 +905,8 @@ http://116.28.96.216:10001/udp/239.77.0.5:5146
 http://113.68.61.135:8090/udp/239.77.0.5:5146
 #EXTINF:-1,tvg-name="广东民生" group-title="广东", 广东民生
 http://61.145.208.119:9090/udp/239.77.0.5:5146
+#EXTINF:-1,tvg-name="广东民生" group-title="广东", 广东民生
+http://116.28.125.24:7777/udp/239.77.0.5:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
 http://113.67.164.10:8888/udp/239.77.0.6:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
@@ -1515,6 +1519,8 @@ http://113.68.61.135:8090/udp/239.77.1.124:5146
 http://61.145.208.119:9090/udp/239.77.1.176:5146
 #EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
 http://61.145.208.119:9090/udp/239.77.1.124:5146
+#EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
+http://116.28.125.24:7777/udp/239.77.1.176:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
 http://113.67.164.10:8888/udp/239.77.1.7:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
@@ -3405,8 +3411,6 @@ http://113.67.164.10:8888/udp/239.77.1.93:5146
 http://113.67.164.10:8888/udp/239.77.1.174:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
 http://113.67.164.10:8888/udp/239.77.0.95:5146
-#EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
-http://www.zz49.top:4022/udp/239.77.1.93:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
 http://www.zz49.top:4022/udp/239.77.1.174:5146
 #EXTINF:-1,tvg-name="湖北卫视高清" group-title="卫视", 湖北卫视高清
