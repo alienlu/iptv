@@ -1461,6 +1461,8 @@ http://www.zz49.top:4022/udp/239.77.1.224:5146
 http://116.28.96.216:10001/udp/239.77.1.224:5146
 #EXTINF:-1,tvg-name="深圳东部频道高清" group-title="其他", 深圳东部频道高清
 http://116.28.125.24:7777/udp/239.77.1.224:5146
+#EXTINF:-1,tvg-name="深圳东部频道高清" group-title="其他", 深圳东部频道高清
+http://61.145.208.119:9090/udp/239.77.1.224:5146
 #EXTINF:-1,tvg-name="深圳众创TV高清" group-title="其他", 深圳众创TV高清
 http://113.67.164.10:8888/udp/239.77.1.247:5146
 #EXTINF:-1,tvg-name="深圳众创TV高清" group-title="其他", 深圳众创TV高清
@@ -2150,8 +2152,6 @@ http://116.28.125.24:7777/udp/239.253.43.49:5146
 #EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
 http://116.28.125.24:7777/udp/239.77.0.236:5146
 #EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
-http://tenfarr.com:4000/udp/239.253.43.54:5146
-#EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
 http://113.67.164.10:8888/udp/239.253.43.54:5146
 #EXTINF:-1,tvg-name="佛山南海高清" group-title="其他", 佛山南海高清
 http://www.zz49.top:4022/udp/239.253.43.54:5146
@@ -2498,8 +2498,6 @@ http://61.145.208.119:9090/udp/239.77.0.126:5146
 #EXTINF:-1,tvg-name="江苏卫视超清" group-title="卫视", 江苏卫视超清
 http://116.28.125.24:7777/udp/239.77.0.126:5146
 #EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
-http://tenfarr.com:4000/udp/239.77.1.48:5146
-#EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
 http://113.67.164.10:8888/udp/239.77.0.49:5146
 #EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
 http://113.67.164.10:8888/udp/239.77.1.48:5146
@@ -2669,8 +2667,6 @@ http://61.145.208.119:9090/udp/239.77.1.37:5146
 http://116.28.125.24:7777/udp/239.77.0.52:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://116.28.125.24:7777/udp/239.77.1.37:5146
-#EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
-http://tenfarr.com:4000/udp/239.77.1.182:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
 http://113.67.164.10:8888/udp/239.77.1.141:5146
 #EXTINF:-1,tvg-name="天津卫视高清" group-title="卫视", 天津卫视高清
@@ -3021,6 +3017,8 @@ http://61.145.208.119:9090/udp/239.77.0.230:5146
 http://116.28.125.24:7777/udp/239.77.1.221:5146
 #EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
 http://116.28.125.24:7777/udp/239.77.0.230:5146
+#EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
+http://61.145.208.119:9090/udp/239.77.1.221:5146
 #EXTINF:-1,tvg-name="四川卫视" group-title="卫视", 四川卫视
 http://113.67.164.10:8888/udp/239.77.0.60:5146
 #EXTINF:-1,tvg-name="四川卫视" group-title="卫视", 四川卫视
@@ -3059,6 +3057,8 @@ http://61.145.208.119:9090/udp/239.77.1.215:5146
 http://116.28.125.24:7777/udp/239.77.1.215:5146
 #EXTINF:-1,tvg-name="四川卫视高清" group-title="卫视", 四川卫视高清
 http://116.28.125.24:7777/udp/239.77.0.159:5146
+#EXTINF:-1,tvg-name="四川卫视高清" group-title="卫视", 四川卫视高清
+http://61.145.208.119:9090/udp/239.77.0.159:5146
 #EXTINF:-1,tvg-name="四川卫视超清" group-title="卫视", 四川卫视超清
 http://113.67.164.10:8888/udp/239.77.0.163:5146
 #EXTINF:-1,tvg-name="四川卫视超清" group-title="卫视", 四川卫视超清
@@ -3067,6 +3067,8 @@ http://www.zz49.top:4022/udp/239.77.0.163:5146
 http://116.28.96.216:10001/udp/239.77.0.163:5146
 #EXTINF:-1,tvg-name="四川卫视超清" group-title="卫视", 四川卫视超清
 http://116.28.125.24:7777/udp/239.77.0.163:5146
+#EXTINF:-1,tvg-name="四川卫视超清" group-title="卫视", 四川卫视超清
+http://61.145.208.119:9090/udp/239.77.0.163:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://tenfarr.com:4000/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
@@ -3267,8 +3269,6 @@ http://116.28.125.24:7777/udp/239.77.0.65:5146
 http://116.28.125.24:7777/udp/239.77.1.1:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://116.28.125.24:7777/udp/239.77.1.213:5146
-#EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
-http://tenfarr.com:4000/udp/239.77.1.104:5146
 #EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
 http://113.67.164.10:8888/udp/239.77.1.104:5146
 #EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
