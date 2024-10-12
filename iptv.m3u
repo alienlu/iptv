@@ -733,8 +733,6 @@ http://113.117.107.247:8800/udp/239.77.0.3:5146
 http://113.117.107.247:8800/udp/239.77.1.94:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
 http://116.28.125.24:7777/udp/239.77.0.3:5146
-#EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
-http://116.28.125.24:7777/udp/239.77.1.94:5146
 #EXTINF:-1,tvg-name="广东新闻" group-title="广东", 广东新闻
 http://113.67.164.10:8888/udp/239.77.0.4:5146
 #EXTINF:-1,tvg-name="广东新闻" group-title="广东", 广东新闻
@@ -1481,8 +1479,6 @@ http://113.117.107.247:8800/udp/239.77.1.175:5146
 http://116.28.125.24:7777/udp/239.77.1.175:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
 http://113.67.164.10:8888/udp/239.77.1.39:5146
-#EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
-http://www.zz49.top:4022/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
 http://116.28.96.216:10001/udp/239.77.1.39:5146
 #EXTINF:-1,tvg-name="深圳宜和购物" group-title="其他", 深圳宜和购物
@@ -2458,9 +2454,9 @@ http://113.117.107.247:8800/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://113.117.107.247:8800/udp/239.77.1.40:5146
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
-http://116.28.125.24:7777/udp/239.77.0.48:5146
-#EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
 http://116.28.125.24:7777/udp/239.77.1.40:5146
+#EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://116.28.125.24:7777/udp/239.77.0.48:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
 http://113.67.164.10:8888/udp/239.77.1.18:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
@@ -2629,8 +2625,6 @@ http://113.67.164.10:8888/udp/239.77.0.91:5146
 http://www.zz49.top:4022/udp/239.77.1.4:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://www.zz49.top:4022/udp/239.77.1.151:5146
-#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
-http://www.zz49.top:4022/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://116.28.96.216:10001/udp/239.77.1.4:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
