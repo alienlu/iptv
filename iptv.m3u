@@ -471,6 +471,8 @@ http://www.zz49.top:4022/udp/239.77.0.134:5146
 http://116.28.96.216:10001/udp/239.77.0.134:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
 http://113.117.107.247:8800/udp/239.77.0.134:5146
+#EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
+http://116.28.125.24:7777/udp/239.77.0.134:5146
 #EXTINF:-1,tvg-name="CCTV-11高清" group-title="央视", CCTV-11高清
 http://113.67.164.10:8888/udp/239.77.1.238:5146
 #EXTINF:-1,tvg-name="CCTV-11高清" group-title="央视", CCTV-11高清
