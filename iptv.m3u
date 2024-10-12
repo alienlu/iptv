@@ -2610,8 +2610,6 @@ http://113.67.164.10:8888/udp/239.77.1.14:5146
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
 http://www.zz49.top:4022/udp/239.77.0.51:5146
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
-http://www.zz49.top:4022/udp/239.77.1.14:5146
-#EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
 http://116.28.96.216:10001/udp/239.77.0.51:5146
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
 http://116.28.96.216:10001/udp/239.77.1.14:5146
