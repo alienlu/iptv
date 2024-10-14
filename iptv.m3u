@@ -150,8 +150,6 @@ http://113.64.92.163:8884/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://113.67.164.10:8888/udp/239.77.1.17:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
-http://113.67.164.10:8888/udp/239.77.1.144:5146
-#EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://113.67.164.10:8888/udp/239.77.0.86:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://113.117.107.247:8800/udp/239.77.1.17:5146
@@ -291,8 +289,6 @@ http://113.117.107.247:8800/udp/239.77.0.171:5146
 http://121.13.55.51:4022/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://113.64.92.163:8884/udp/239.77.0.171:5146
-#EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
-http://113.67.164.10:8888/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://113.117.107.247:8800/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
@@ -1152,8 +1148,6 @@ http://113.64.92.163:8884/udp/239.77.1.206:5146
 #EXTINF:-1,tvg-name="深圳宝安频道" group-title="其他", 深圳宝安频道
 http://113.117.107.247:8800/udp/239.77.1.206:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
-http://113.67.164.10:8888/udp/239.77.1.67:5146
-#EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
 http://121.13.55.51:4022/udp/239.77.1.67:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
 http://113.64.92.163:8884/udp/239.77.1.67:5146
@@ -1657,8 +1651,6 @@ http://113.117.107.247:8800/udp/239.253.43.45:5146
 http://113.64.92.163:8884/udp/239.77.1.130:5146
 #EXTINF:-1,tvg-name="汕头综合高清" group-title="其他", 汕头综合高清
 http://113.64.92.163:8884/udp/239.253.43.45:5146
-#EXTINF:-1,tvg-name="汕头经济生活" group-title="其他", 汕头经济生活
-http://113.67.164.10:8888/udp/239.253.43.43:5146
 #EXTINF:-1,tvg-name="汕头经济生活" group-title="其他", 汕头经济生活
 http://121.13.55.51:4022/udp/239.253.43.43:5146
 #EXTINF:-1,tvg-name="汕头经济生活" group-title="其他", 汕头经济生活
