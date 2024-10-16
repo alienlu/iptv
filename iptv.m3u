@@ -266,8 +266,6 @@ http://121.13.55.157:4022/udp/239.77.1.31:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://121.13.55.157:4022/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
-http://113.67.164.10:8888/udp/239.77.0.171:5146
-#EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://61.145.208.119:9090/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://116.28.124.202:8520/udp/239.77.0.171:5146
