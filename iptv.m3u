@@ -256,8 +256,6 @@ http://59.38.63.30:2052/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
 http://14.117.233.162:9000/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
-http://tenfarr.com:4000/udp/239.253.43.99:5146
-#EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
 http://61.145.208.119:9090/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-name="南国都市 4K" group-title="其他", 南国都市 4K
 http://59.32.50.42:8888/udp/239.253.43.99:5146
@@ -401,8 +399,6 @@ http://116.28.124.202:8520/udp/239.77.0.137:5146
 http://121.13.55.157:4022/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://59.38.63.30:2052/udp/239.77.0.137:5146
-#EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
-http://tenfarr.com:4000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
 http://14.117.233.162:9000/udp/239.77.0.137:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
@@ -824,8 +820,6 @@ http://14.117.233.162:9000/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://tenfarr.com:4000/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
-http://tenfarr.com:4000/udp/239.77.1.170:5146
-#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://61.145.208.119:9090/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://61.145.208.119:9090/udp/239.77.1.170:5146
@@ -1220,8 +1214,6 @@ http://14.117.233.162:9000/udp/239.77.0.3:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
 http://14.117.233.162:9000/udp/239.77.1.94:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
-http://tenfarr.com:4000/udp/239.77.1.94:5146
-#EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
 http://61.145.208.119:9090/udp/239.77.0.3:5146
 #EXTINF:-1,tvg-name="广东珠江" group-title="广东", 广东珠江
 http://61.145.208.119:9090/udp/239.77.1.94:5146
@@ -1425,10 +1417,6 @@ http://59.38.63.30:2052/udp/239.77.1.15:5146
 http://14.117.233.162:9000/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://14.117.233.162:9000/udp/239.77.1.15:5146
-#EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
-http://tenfarr.com:4000/udp/239.77.0.13:5146
-#EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
-http://tenfarr.com:4000/udp/239.77.1.15:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://61.145.208.119:9090/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
@@ -2165,8 +2153,6 @@ http://121.13.55.157:4022/udp/239.77.1.7:5146
 http://59.38.63.30:2052/udp/239.77.1.7:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
 http://14.117.233.162:9000/udp/239.77.1.7:5146
-#EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
-http://tenfarr.com:4000/udp/239.77.1.7:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
 http://61.145.208.119:9090/udp/239.77.1.7:5146
 #EXTINF:-1,tvg-name="深圳电视剧频道" group-title="其他", 深圳电视剧频道
@@ -3297,8 +3283,6 @@ http://116.28.124.202:8520/udp/239.77.0.241:5146
 http://14.117.233.162:9000/udp/239.253.43.32:5146
 #EXTINF:-1,tvg-name="清远文旅生活" group-title="其他", 清远文旅生活
 http://14.117.233.162:9000/udp/239.77.0.241:5146
-#EXTINF:-1,tvg-name="清远文旅生活" group-title="其他", 清远文旅生活
-http://tenfarr.com:4000/udp/239.77.0.241:5146
 #EXTINF:-1,tvg-name="清远文旅生活" group-title="其他", 清远文旅生活
 http://61.145.208.119:9090/udp/239.253.43.32:5146
 #EXTINF:-1,tvg-name="清远文旅生活" group-title="其他", 清远文旅生活
@@ -5075,8 +5059,6 @@ http://59.38.63.30:2052/udp/239.77.1.71:5146
 http://116.28.124.202:8520/udp/239.77.0.58:5146
 #EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
 http://116.28.124.202:8520/udp/239.77.1.71:5146
-#EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
-http://tenfarr.com:4000/udp/239.77.0.58:5146
 #EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
 http://14.117.233.162:9000/udp/239.77.0.58:5146
 #EXTINF:-1,tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
