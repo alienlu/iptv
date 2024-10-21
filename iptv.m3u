@@ -637,8 +637,6 @@ http://218.15.214.115:10000/udp/239.77.0.174:5146
 http://113.109.250.116:9999/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://183.30.201.198:10002/udp/239.77.0.174:5146
-#EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
-http://116.28.124.202:8520/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://61.143.227.162:10000/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
@@ -1455,8 +1453,6 @@ http://218.15.214.115:10000/udp/239.77.1.67:5146
 http://113.109.250.116:9999/udp/239.77.1.67:5146
 #EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
 http://183.30.201.198:10002/udp/239.77.1.67:5146
-#EXTINF:-1,tvg-name="深圳宝安频道高清" group-title="其他", 深圳宝安频道高清
-http://116.28.124.202:8520/udp/239.77.1.67:5146
 #EXTINF:-1,tvg-name="深圳宝安第一课" group-title="其他", 深圳宝安第一课
 http://61.143.227.162:10000/udp/239.77.1.225:5146
 #EXTINF:-1,tvg-name="深圳宝安第一课" group-title="其他", 深圳宝安第一课
