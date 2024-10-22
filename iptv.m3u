@@ -288,8 +288,6 @@ http://113.109.250.116:9999/udp/239.77.1.166:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://113.109.250.116:9999/udp/239.77.0.78:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://116.28.124.202:8520/udp/239.77.1.163:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://116.28.124.202:8520/udp/239.77.1.166:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://116.28.124.202:8520/udp/239.77.0.78:5146
