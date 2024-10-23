@@ -563,8 +563,6 @@ http://61.143.227.162:10000/udp/239.253.43.201:5146
 http://218.15.214.115:10000/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://113.109.250.116:9999/udp/239.253.43.201:5146
-#EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
-http://116.28.124.202:8520/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="广东卫视" group-title="广东", 广东卫视
 http://61.143.227.162:10000/udp/239.77.0.2:5146
 #EXTINF:-1,tvg-name="广东卫视" group-title="广东", 广东卫视
