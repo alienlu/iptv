@@ -736,8 +736,6 @@ http://218.15.214.115:10000/udp/239.77.1.113:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://218.15.214.115:10000/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
-http://www.zz49.top:4022/udp/239.77.1.113:5146
-#EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://www.zz49.top:4022/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://116.28.124.202:8520/udp/239.77.1.113:5146
@@ -3252,8 +3250,6 @@ http://116.22.255.89:9999/udp/239.77.0.206:5146
 #EXTINF:-1,tvg-name="茂名综合高清" group-title="其他", 茂名综合高清
 http://218.15.214.115:10000/udp/239.77.0.206:5146
 #EXTINF:-1,tvg-name="茂名综合高清" group-title="其他", 茂名综合高清
-http://www.zz49.top:4022/udp/239.77.0.206:5146
-#EXTINF:-1,tvg-name="茂名综合高清" group-title="其他", 茂名综合高清
 http://116.28.124.202:8520/udp/239.77.0.206:5146
 #EXTINF:-1,tvg-name="茂名综合高清" group-title="其他", 茂名综合高清
 http://113.109.250.116:9999/udp/239.77.0.206:5146
@@ -4213,8 +4209,6 @@ http://116.22.255.89:9999/udp/239.77.0.183:5146
 http://218.15.214.115:10000/udp/239.77.1.92:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://218.15.214.115:10000/udp/239.77.1.157:5146
-#EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
-http://218.15.214.115:10000/udp/239.77.0.183:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://www.zz49.top:4022/udp/239.77.1.92:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
