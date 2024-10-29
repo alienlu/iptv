@@ -440,8 +440,6 @@ http://218.15.214.115:10000/udp/239.77.1.166:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://218.15.214.115:10000/udp/239.77.0.78:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://www.zz49.top:4022/udp/239.77.1.163:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://www.zz49.top:4022/udp/239.77.1.166:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://www.zz49.top:4022/udp/239.77.0.78:5146
@@ -1231,8 +1229,6 @@ http://116.22.255.89:9999/udp/239.77.1.97:5146
 http://218.15.214.115:10000/udp/239.77.0.6:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
 http://218.15.214.115:10000/udp/239.77.1.97:5146
-#EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
-http://www.zz49.top:4022/udp/239.77.0.6:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
 http://www.zz49.top:4022/udp/239.77.1.97:5146
 #EXTINF:-1,tvg-name="广东体育" group-title="广东", 广东体育
