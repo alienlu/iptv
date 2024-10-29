@@ -188,8 +188,6 @@ http://116.22.255.89:9999/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
 http://218.15.214.115:10000/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
-http://www.zz49.top:4022/udp/239.77.0.215:5146
-#EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
 http://116.28.124.202:8520/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-name="大湾区卫视高清" group-title="卫视", 大湾区卫视高清
 http://113.109.250.116:9999/udp/239.77.0.215:5146
@@ -2996,8 +2994,6 @@ http://218.15.214.115:10000/udp/239.253.43.47:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
 http://www.zz49.top:4022/udp/239.77.1.132:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
-http://www.zz49.top:4022/udp/239.253.43.47:5146
-#EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
 http://116.28.124.202:8520/udp/239.77.1.132:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
 http://116.28.124.202:8520/udp/239.253.43.47:5146
@@ -4011,8 +4007,6 @@ http://116.22.255.89:9999/udp/239.77.1.44:5146
 http://218.15.214.115:10000/udp/239.77.0.56:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://218.15.214.115:10000/udp/239.77.1.44:5146
-#EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
-http://www.zz49.top:4022/udp/239.77.0.56:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://www.zz49.top:4022/udp/239.77.1.44:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
