@@ -116,8 +116,6 @@ http://218.15.214.115:10000/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
 http://www.zz49.top:4022/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
-http://116.28.124.202:8520/udp/239.77.0.173:5146
-#EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
 http://113.109.250.116:9999/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-name="广东新闻高清" group-title="广东", 广东新闻高清
 http://183.30.199.99:8886/udp/239.77.0.173:5146
@@ -4999,8 +4997,6 @@ http://116.22.255.89:9999/udp/239.77.1.73:5146
 http://218.15.214.115:10000/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://218.15.214.115:10000/udp/239.77.1.73:5146
-#EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
-http://www.zz49.top:4022/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://www.zz49.top:4022/udp/239.77.1.73:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
