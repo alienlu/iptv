@@ -1958,10 +1958,6 @@ http://116.21.87.83:8889/udp/239.77.1.34:5146
 #EXTINF:-1,tvg-name="深圳都市频道" group-title="其他", 深圳都市频道
 http://113.100.72.190:8899/udp/239.77.1.34:5146
 #EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
-http://14.112.86.101:4022/udp/239.77.1.176:5146
-#EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
-http://14.112.86.101:4022/udp/239.77.1.124:5146
-#EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
 http://116.22.255.89:9999/udp/239.77.1.176:5146
 #EXTINF:-1,tvg-name="深圳都市频道高清" group-title="其他", 深圳都市频道高清
 http://116.22.255.89:9999/udp/239.77.1.124:5146
@@ -2765,8 +2761,6 @@ http://113.109.250.116:9999/udp/239.77.1.232:5146
 http://116.21.87.83:8889/udp/239.77.1.232:5146
 #EXTINF:-1,tvg-name="HZTV-1高清" group-title="其他", HZTV-1高清
 http://113.100.72.190:8899/udp/239.77.1.232:5146
-#EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
-http://14.112.86.101:4022/udp/239.77.0.248:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://14.112.86.101:4022/udp/239.77.1.173:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
