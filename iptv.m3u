@@ -594,8 +594,6 @@ http://116.22.255.89:9999/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://218.15.214.115:10000/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
-http://116.28.124.202:8520/udp/239.77.0.172:5146
-#EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://113.109.250.116:9999/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://116.21.87.83:8889/udp/239.77.0.172:5146
@@ -1859,8 +1857,6 @@ http://218.15.214.115:10000/udp/239.77.1.21:5146
 http://www.zz49.top:4022/udp/239.77.0.55:5146
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
 http://www.zz49.top:4022/udp/239.77.1.21:5146
-#EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
-http://116.28.124.202:8520/udp/239.77.0.55:5146
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
 http://116.28.124.202:8520/udp/239.77.1.21:5146
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
@@ -4023,8 +4019,6 @@ http://218.15.214.115:10000/udp/239.77.1.218:5146
 http://218.15.214.115:10000/udp/239.77.1.156:5146
 #EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
 http://218.15.214.115:10000/udp/239.77.0.98:5146
-#EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
-http://www.zz49.top:4022/udp/239.77.1.218:5146
 #EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
 http://www.zz49.top:4022/udp/239.77.1.156:5146
 #EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
