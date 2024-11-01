@@ -3758,8 +3758,6 @@ http://www.zz49.top:4022/udp/239.77.0.53:5146
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://www.zz49.top:4022/udp/239.77.1.66:5146
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
-http://116.28.124.202:8520/udp/239.77.0.53:5146
-#EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://116.28.124.202:8520/udp/239.77.1.66:5146
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://113.109.250.116:9999/udp/239.77.0.53:5146
@@ -4249,8 +4247,6 @@ http://218.15.214.115:10000/udp/239.77.1.58:5146
 http://www.zz49.top:4022/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://www.zz49.top:4022/udp/239.77.1.58:5146
-#EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
-http://116.28.124.202:8520/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://116.28.124.202:8520/udp/239.77.1.58:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
