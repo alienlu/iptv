@@ -274,8 +274,6 @@ http://218.15.214.115:10000/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
 http://113.100.72.190:8899/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
-http://14.112.86.101:4022/udp/239.77.0.221:5146
-#EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://218.15.214.115:10000/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://113.100.72.190:8899/udp/239.77.0.221:5146
