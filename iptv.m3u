@@ -376,8 +376,6 @@ http://14.112.86.101:4022/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="岭南戏曲" group-title="其他", 岭南戏曲
 http://113.100.72.190:8899/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
-http://14.112.86.101:4022/udp/239.77.0.14:5146
-#EXTINF:-1,tvg-name="广东房产" group-title="广东", 广东房产
 http://113.100.72.190:8899/udp/239.77.0.14:5146
 #EXTINF:-1,tvg-name="现代教育" group-title="其他", 现代教育
 http://14.112.86.101:4022/udp/239.77.0.18:5146
@@ -392,15 +390,9 @@ http://218.15.214.115:10000/udp/239.77.0.20:5146
 #EXTINF:-1,tvg-name="广东移动" group-title="广东", 广东移动
 http://113.100.72.190:8899/udp/239.77.0.20:5146
 #EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
-http://14.112.86.101:4022/udp/239.77.1.236:5146
-#EXTINF:-1,tvg-name="广东综艺 4K50p" group-title="广东", 广东综艺 4K50p
 http://113.100.72.190:8899/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
-http://14.112.86.101:4022/udp/239.77.1.237:5146
-#EXTINF:-1,tvg-name="广东综艺 4K" group-title="广东", 广东综艺 4K
 http://113.100.72.190:8899/udp/239.77.1.237:5146
-#EXTINF:-1,tvg-name="广东综艺(4k)" group-title="广东", 广东综艺(4k)
-http://14.112.86.101:4022/udp/239.77.0.244:5146
 #EXTINF:-1,tvg-name="广东综艺(4k)" group-title="广东", 广东综艺(4k)
 http://218.15.214.115:10000/udp/239.77.0.244:5146
 #EXTINF:-1,tvg-name="广东综艺(4k)" group-title="广东", 广东综艺(4k)
