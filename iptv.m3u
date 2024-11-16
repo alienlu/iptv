@@ -100,8 +100,6 @@ http://218.15.214.115:10000/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://113.100.72.190:8899/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
-http://218.15.214.115:10000/udp/239.77.0.45:5146
-#EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://113.100.72.190:8899/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://113.100.72.190:8899/udp/239.77.1.27:5146
@@ -469,8 +467,6 @@ http://218.15.214.115:10000/udp/239.77.1.6:5146
 http://113.100.72.190:8899/udp/239.77.1.6:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://113.100.72.190:8899/udp/239.77.0.93:5146
-#EXTINF:-1,tvg-name="黑龙江卫视超清" group-title="卫视", 黑龙江卫视超清
-http://218.15.214.115:10000/udp/239.77.0.124:5146
 #EXTINF:-1,tvg-name="黑龙江卫视超清" group-title="卫视", 黑龙江卫视超清
 http://113.100.72.190:8899/udp/239.77.0.124:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
