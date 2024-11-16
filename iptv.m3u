@@ -67,8 +67,6 @@ http://113.100.72.190:8899/udp/239.77.1.166:5146
 http://218.15.214.115:10000/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
 http://218.15.214.115:10000/udp/239.77.0.171:5146
-#EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
-http://113.100.72.190:8899/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://218.15.214.115:10000/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
@@ -105,8 +103,6 @@ http://113.100.72.190:8899/udp/239.77.1.238:5146
 http://218.15.214.115:10000/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://218.15.214.115:10000/udp/239.77.0.136:5146
-#EXTINF:-1,tvg-name="CCTV-13高清" group-title="央视", CCTV-13高清
-http://218.15.214.115:10000/udp/239.253.43.196:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://218.15.214.115:10000/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
@@ -239,8 +235,6 @@ http://218.15.214.115:10000/udp/239.77.1.243:5146
 http://113.100.72.190:8899/udp/239.77.1.243:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
 http://218.15.214.115:10000/udp/239.77.1.128:5146
-#EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
-http://218.15.214.115:10000/udp/239.77.1.140:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
 http://218.15.214.115:10000/udp/239.77.1.38:5146
 #EXTINF:-1,tvg-name="深圳少儿频道高清" group-title="其他", 深圳少儿频道高清
@@ -647,8 +641,6 @@ http://113.100.72.190:8899/udp/239.77.0.182:5146
 http://14.112.86.101:4022/udp/239.77.0.64:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
 http://218.15.214.115:10000/udp/239.77.1.60:5146
-#EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
-http://14.112.86.101:4022/udp/239.77.0.65:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://218.15.214.115:10000/udp/239.77.0.65:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
