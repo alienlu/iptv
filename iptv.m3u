@@ -49,8 +49,6 @@ http://113.100.72.190:8899/udp/239.77.0.134:5146
 http://113.100.72.190:8899/udp/239.77.1.238:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://218.15.214.115:10000/udp/239.77.0.136:5146
-#EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
-http://218.15.214.115:10000/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
 http://218.15.214.115:10000/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
@@ -141,8 +139,6 @@ http://218.15.214.115:10000/udp/239.77.0.197:5146
 http://218.15.214.115:10000/udp/239.77.1.173:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://113.100.72.190:8899/udp/239.77.1.173:5146
-#EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
-http://113.100.72.190:8899/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="珠海-1" group-title="其他", 珠海-1
 http://218.15.214.115:10000/udp/239.77.1.230:5146
 #EXTINF:-1,tvg-name="珠海-2" group-title="其他", 珠海-2
