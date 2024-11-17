@@ -13,8 +13,6 @@ http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://113.100.72.190:8899/udp/239.77.1.19:5146
-#EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
-http://113.100.72.190:8899/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东珠江超清" group-title="广东", 广东珠江超清
 http://218.15.214.115:10000/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-name="广东体育高清" group-title="广东", 广东体育高清
@@ -39,8 +37,6 @@ http://218.15.214.115:10000/udp/239.77.1.144:5146
 http://113.100.72.190:8899/udp/239.77.1.144:5146
 #EXTINF:-1,tvg-name="CCTV-1超清" group-title="央视", CCTV-1超清
 http://218.15.214.115:10000/udp/239.77.0.129:5146
-#EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
-http://218.15.214.115:10000/udp/239.77.1.158:5146
 #EXTINF:-1,tvg-name="CCTV-2高清" group-title="央视", CCTV-2高清
 http://218.15.214.115:10000/udp/239.253.43.17:5146
 #EXTINF:-1,tvg-name="CCTV-2高清测试" group-title="央视", CCTV-2高清测试
@@ -227,8 +223,6 @@ http://113.100.72.190:8899/udp/239.77.1.190:5146
 http://113.100.72.190:8899/udp/239.77.0.201:5146
 #EXTINF:-1,tvg-name="江门教育" group-title="其他", 江门教育
 http://218.15.214.115:10000/udp/239.77.0.197:5146
-#EXTINF:-1,tvg-name="江门教育高清" group-title="其他", 江门教育高清
-http://218.15.214.115:10000/udp/239.77.0.203:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://218.15.214.115:10000/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
@@ -245,18 +239,10 @@ http://113.100.72.190:8899/udp/239.77.0.155:5146
 http://218.15.214.115:10000/udp/239.77.1.231:5146
 #EXTINF:-1,tvg-name="珠海-2" group-title="其他", 珠海-2
 http://113.100.72.190:8899/udp/239.77.1.231:5146
-#EXTINF:-1,tvg-name="珠海-2高清" group-title="其他", 珠海-2高清
-http://218.15.214.115:10000/udp/239.77.0.154:5146
-#EXTINF:-1,tvg-name="珠海-2高清" group-title="其他", 珠海-2高清
-http://113.100.72.190:8899/udp/239.77.0.154:5146
 #EXTINF:-1,tvg-name="肇庆综合" group-title="其他", 肇庆综合
 http://113.100.72.190:8899/udp/239.253.43.3:5146
 #EXTINF:-1,tvg-name="肇庆综合高清" group-title="其他", 肇庆综合高清
 http://218.15.214.115:10000/udp/239.253.43.1:5146
-#EXTINF:-1,tvg-name="肇庆综合高清" group-title="其他", 肇庆综合高清
-http://113.100.72.190:8899/udp/239.253.43.1:5146
-#EXTINF:-1,tvg-name="肇庆生活服务高清" group-title="其他", 肇庆生活服务高清
-http://113.100.72.190:8899/udp/239.253.43.2:5146
 #EXTINF:-1,tvg-name="河源综合" group-title="其他", 河源综合
 http://218.15.214.115:10000/udp/239.253.43.215:5146
 #EXTINF:-1,tvg-name="河源综合高清" group-title="其他", 河源综合高清
@@ -415,8 +401,6 @@ http://218.15.214.115:10000/udp/239.77.1.182:5146
 http://113.100.72.190:8899/udp/239.77.1.182:5146
 #EXTINF:-1,tvg-name="天津卫视超清" group-title="卫视", 天津卫视超清
 http://113.100.72.190:8899/udp/239.77.0.131:5146
-#EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
-http://113.100.72.190:8899/udp/239.77.0.53:5146
 #EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
 http://218.15.214.115:10000/udp/239.77.1.153:5146
 #EXTINF:-1,tvg-name="山东卫视高清" group-title="卫视", 山东卫视高清
@@ -459,8 +443,6 @@ http://113.100.72.190:8899/udp/239.77.0.124:5146
 http://218.15.214.115:10000/udp/239.77.0.59:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
 http://113.100.72.190:8899/udp/239.77.1.61:5146
-#EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
-http://218.15.214.115:10000/udp/239.77.1.221:5146
 #EXTINF:-1,tvg-name="贵州卫视高清" group-title="卫视", 贵州卫视高清
 http://218.15.214.115:10000/udp/239.77.0.230:5146
 #EXTINF:-1,tvg-name="四川卫视" group-title="卫视", 四川卫视
