@@ -11,8 +11,6 @@ http://119.129.173.161:8081/hls/18/index.m3u8
 http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1,tvg-name="江苏卫视" group-title="卫视", 江苏卫视高清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://113.100.72.190:8899/udp/239.77.1.19:5146
 #EXTINF:-1,tvg-name="广东体育高清" group-title="广东", 广东体育高清
 http://113.100.72.190:8899/udp/239.77.0.112:5146
 #EXTINF:-1,tvg-name="经济科教高清" group-title="其他", 经济科教高清
