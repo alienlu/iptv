@@ -612,8 +612,6 @@ http://113.65.7.94:8888/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://113.111.19.78:8889/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
-http://113.111.19.78:8888/udp/239.77.0.172:5146
-#EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://113.94.58.16:10010/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://125.90.252.199:4050/udp/239.77.0.172:5146
@@ -979,8 +977,6 @@ http://125.90.252.199:4050/udp/239.77.0.174:5146
 http://113.93.29.125:8088/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://14.154.168.79:4022/udp/239.77.0.45:5146
-#EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
-http://14.154.168.79:4022/udp/239.77.1.27:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://14.19.151.0:9900/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
@@ -2299,8 +2295,6 @@ http://113.111.19.78:8888/udp/239.77.1.247:5146
 http://113.94.58.16:10010/udp/239.77.1.247:5146
 #EXTINF:-1,tvg-name="深圳众创TV高清" group-title="其他", 深圳众创TV高清
 http://125.90.252.199:4050/udp/239.77.1.247:5146
-#EXTINF:-1,tvg-name="深圳众创TV高清" group-title="其他", 深圳众创TV高清
-http://113.93.29.125:8088/udp/239.77.1.247:5146
 #EXTINF:-1,tvg-name="深圳移动电视" group-title="其他", 深圳移动电视
 http://14.154.168.79:4022/udp/239.77.1.175:5146
 #EXTINF:-1,tvg-name="深圳移动电视" group-title="其他", 深圳移动电视
@@ -2705,8 +2699,6 @@ http://14.19.151.0:9900/udp/239.77.1.154:5146
 http://113.65.7.94:8888/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://113.65.7.94:8888/udp/239.77.1.154:5146
-#EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
-http://113.111.19.78:8889/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://113.111.19.78:8889/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
@@ -4112,8 +4104,6 @@ http://113.65.7.94:8888/udp/239.77.1.151:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://113.65.7.94:8888/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
-http://113.111.19.78:8889/udp/239.77.1.151:5146
-#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://113.111.19.78:8889/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://113.111.19.78:8888/udp/239.77.1.4:5146
@@ -4592,8 +4582,6 @@ http://14.19.151.0:9900/udp/239.77.0.93:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://113.65.7.94:8888/udp/239.77.1.6:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
-http://113.65.7.94:8888/udp/239.77.1.179:5146
-#EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://113.65.7.94:8888/udp/239.77.0.93:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://113.111.19.78:8889/udp/239.77.1.6:5146
@@ -4889,8 +4877,6 @@ http://113.94.58.16:10010/udp/239.253.43.37:5146
 http://113.94.58.16:10010/udp/239.253.43.100:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
 http://125.90.252.199:4050/udp/239.253.43.37:5146
-#EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
-http://125.90.252.199:4050/udp/239.253.43.100:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
 http://113.93.29.125:8088/udp/239.253.43.37:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
