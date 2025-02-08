@@ -854,8 +854,6 @@ http://113.111.19.78:8888/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
 http://113.94.58.16:10010/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
-http://125.90.252.199:4050/udp/239.77.0.199:5146
-#EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
 http://113.93.29.125:8088/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://14.19.151.0:9900/udp/239.77.0.221:5146
@@ -2087,8 +2085,6 @@ http://113.111.19.78:8888/udp/239.77.0.229:5146
 http://113.94.58.16:10010/udp/239.77.0.229:5146
 #EXTINF:-1,tvg-name="揭阳综合高清" group-title="其他", 揭阳综合高清
 http://113.93.29.125:8088/udp/239.77.0.229:5146
-#EXTINF:-1,tvg-name="揭阳生活" group-title="其他", 揭阳生活
-http://14.19.151.0:9900/udp/239.77.0.158:5146
 #EXTINF:-1,tvg-name="揭阳生活" group-title="其他", 揭阳生活
 http://113.65.7.94:8888/udp/239.77.0.158:5146
 #EXTINF:-1,tvg-name="揭阳生活" group-title="其他", 揭阳生活
@@ -3621,8 +3617,6 @@ http://14.19.151.0:9900/udp/239.77.1.73:5146
 http://113.65.7.94:8888/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://113.111.19.78:8889/udp/239.77.0.54:5146
-#EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
-http://113.111.19.78:8889/udp/239.77.1.73:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
 http://113.111.19.78:8888/udp/239.77.0.54:5146
 #EXTINF:-1,tvg-name="江西卫视" group-title="卫视", 江西卫视
