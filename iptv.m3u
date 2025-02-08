@@ -322,8 +322,6 @@ http://14.19.151.0:9900/udp/239.77.0.169:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://113.65.7.94:8888/udp/239.77.0.169:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
-http://113.111.19.78:8889/udp/239.77.0.169:5146
-#EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://113.111.19.78:8888/udp/239.77.0.169:5146
 #EXTINF:-1,tvg-name="CCTV-3高清" group-title="央视", CCTV-3高清
 http://125.90.252.199:4050/udp/239.77.0.169:5146
@@ -849,8 +847,6 @@ http://125.90.252.199:4050/udp/239.77.0.45:5146
 http://125.90.252.199:4050/udp/239.77.1.27:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://113.93.29.125:8088/udp/239.77.0.45:5146
-#EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
-http://113.93.29.125:8088/udp/239.77.1.27:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
 http://14.19.151.0:9900/udp/239.77.0.199:5146
 #EXTINF:-1,tvg-name="CGTN英语高清" group-title="其他", CGTN英语高清
@@ -911,8 +907,6 @@ http://113.111.19.78:8889/udp/239.253.43.201:5146
 http://113.111.19.78:8888/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://113.94.58.16:10010/udp/239.253.43.201:5146
-#EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
-http://125.90.252.199:4050/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://113.93.29.125:8088/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="广东卫视" group-title="广东", 广东卫视
@@ -1093,8 +1087,6 @@ http://113.93.29.125:8088/udp/239.77.0.12:5146
 http://14.19.151.0:9900/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://14.19.151.0:9900/udp/239.77.1.15:5146
-#EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
-http://113.65.7.94:8888/udp/239.77.0.13:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
 http://113.65.7.94:8888/udp/239.77.1.15:5146
 #EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
@@ -1932,8 +1924,6 @@ http://125.90.252.199:4050/udp/239.77.1.224:5146
 #EXTINF:-1,tvg-name="深圳东部频道高清" group-title="其他", 深圳东部频道高清
 http://113.93.29.125:8088/udp/239.77.1.224:5146
 #EXTINF:-1,tvg-name="深圳众创TV高清" group-title="其他", 深圳众创TV高清
-http://14.19.151.0:9900/udp/239.77.1.247:5146
-#EXTINF:-1,tvg-name="深圳众创TV高清" group-title="其他", 深圳众创TV高清
 http://113.65.7.94:8888/udp/239.77.1.247:5146
 #EXTINF:-1,tvg-name="深圳众创TV高清" group-title="其他", 深圳众创TV高清
 http://113.111.19.78:8889/udp/239.77.1.247:5146
@@ -2047,8 +2037,6 @@ http://14.19.151.0:9900/udp/239.77.0.141:5146
 http://113.65.7.94:8888/udp/239.77.0.141:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
 http://113.111.19.78:8889/udp/239.77.0.141:5146
-#EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
-http://113.111.19.78:8888/udp/239.77.0.141:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
 http://113.94.58.16:10010/udp/239.77.0.141:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
@@ -3307,8 +3295,6 @@ http://113.93.29.125:8088/udp/239.77.0.126:5146
 http://14.19.151.0:9900/udp/239.77.0.49:5146
 #EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
 http://14.19.151.0:9900/udp/239.77.1.48:5146
-#EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
-http://113.65.7.94:8888/udp/239.77.0.49:5146
 #EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
 http://113.65.7.94:8888/udp/239.77.1.48:5146
 #EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
