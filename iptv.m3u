@@ -366,8 +366,6 @@ http://113.65.7.94:8888/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://113.111.19.78:8889/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
-http://113.111.19.78:8888/udp/239.77.0.178:5146
-#EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://113.93.29.125:8088/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
 http://14.19.151.0:9900/udp/239.77.1.159:5146
@@ -403,8 +401,6 @@ http://113.111.19.78:8888/udp/239.77.0.138:5146
 http://113.94.58.16:10010/udp/239.77.0.138:5146
 #EXTINF:-1,tvg-name="CCTV-7高清测试" group-title="央视", CCTV-7高清测试
 http://113.93.29.125:8088/udp/239.77.0.138:5146
-#EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
-http://14.19.151.0:9900/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://113.65.7.94:8888/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
@@ -1152,8 +1148,6 @@ http://113.93.29.125:8088/udp/239.253.43.81:5146
 #EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
 http://14.19.151.0:9900/udp/239.253.43.89:5146
 #EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
-http://113.65.7.94:8888/udp/239.253.43.89:5146
-#EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
 http://113.111.19.78:8888/udp/239.253.43.89:5146
 #EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
 http://113.94.58.16:10010/udp/239.253.43.89:5146
@@ -1177,8 +1171,6 @@ http://14.19.151.0:9900/udp/239.253.43.91:5146
 http://113.65.7.94:8888/udp/239.253.43.91:5146
 #EXTINF:-1,tvg-name="广视课堂 初三" group-title="其他", 广视课堂 初三
 http://113.111.19.78:8889/udp/239.253.43.91:5146
-#EXTINF:-1,tvg-name="广视课堂 初三" group-title="其他", 广视课堂 初三
-http://113.94.58.16:10010/udp/239.253.43.91:5146
 #EXTINF:-1,tvg-name="广视课堂 初三" group-title="其他", 广视课堂 初三
 http://113.93.29.125:8088/udp/239.253.43.91:5146
 #EXTINF:-1,tvg-name="广视课堂 高一" group-title="其他", 广视课堂 高一
@@ -2857,8 +2849,6 @@ http://113.111.19.78:8889/udp/239.77.0.56:5146
 http://113.111.19.78:8889/udp/239.77.1.44:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://113.111.19.78:8888/udp/239.77.0.56:5146
-#EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
-http://113.111.19.78:8888/udp/239.77.1.44:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://113.94.58.16:10010/udp/239.77.0.56:5146
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
