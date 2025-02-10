@@ -272,8 +272,6 @@ http://113.93.29.125:8088/udp/239.77.0.175:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://14.19.151.0:9900/udp/239.77.1.163:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
-http://14.19.151.0:9900/udp/239.77.1.166:5146
-#EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://14.19.151.0:9900/udp/239.77.0.78:5146
 #EXTINF:-1,tvg-name="CCTV-4高清" group-title="央视", CCTV-4高清
 http://113.65.7.94:8888/udp/239.77.1.163:5146
@@ -1723,8 +1721,6 @@ http://113.111.19.78:8888/udp/239.77.0.203:5146
 http://113.94.58.16:10010/udp/239.77.0.203:5146
 #EXTINF:-1,tvg-name="江门教育高清" group-title="其他", 江门教育高清
 http://113.93.29.125:8088/udp/239.77.0.203:5146
-#EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
-http://14.19.151.0:9900/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://113.65.7.94:8888/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
