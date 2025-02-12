@@ -288,8 +288,6 @@ http://113.65.7.94:8888/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://113.93.29.125:8088/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
-http://14.19.151.0:9900/udp/239.77.0.45:5146
-#EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://113.65.7.94:8888/udp/239.77.0.45:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
 http://113.65.7.94:8888/udp/239.77.1.27:5146
@@ -445,8 +443,6 @@ http://14.19.151.0:9900/udp/239.253.43.72:5146
 http://14.19.151.0:9900/udp/239.253.43.68:5146
 #EXTINF:-1,tvg-name="广州影视" group-title="其他", 广州影视
 http://113.65.7.94:8888/udp/239.253.43.68:5146
-#EXTINF:-1,tvg-name="广州影视" group-title="其他", 广州影视
-http://113.93.29.125:8088/udp/239.253.43.68:5146
 #EXTINF:-1,tvg-name="广州影视高清" group-title="其他", 广州影视高清
 http://14.19.151.0:9900/udp/239.253.43.73:5146
 #EXTINF:-1,tvg-name="广州影视高清" group-title="其他", 广州影视高清
@@ -1069,8 +1065,6 @@ http://113.93.29.125:8088/udp/239.77.0.48:5146
 http://14.19.151.0:9900/udp/239.77.1.18:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
 http://14.19.151.0:9900/udp/239.77.1.149:5146
-#EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
-http://14.19.151.0:9900/udp/239.77.0.90:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
 http://113.65.7.94:8888/udp/239.77.1.18:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
