@@ -285,8 +285,6 @@ http://113.65.7.94:8888/udp/239.77.0.165:5146
 http://113.65.7.94:8888/udp/239.77.1.76:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
 http://113.93.29.125:8088/udp/239.77.0.165:5146
-#EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
-http://113.93.29.125:8088/udp/239.77.1.76:5146
 #EXTINF:-1,tvg-name="CCTV-16 4K" group-title="央视", CCTV-16 4K
 http://14.19.151.0:9900/udp/239.77.1.98:5146
 #EXTINF:-1,tvg-name="CCTV-16 4K" group-title="央视", CCTV-16 4K
@@ -1133,8 +1131,6 @@ http://14.19.151.0:9900/udp/239.77.0.183:5146
 http://113.65.7.94:8888/udp/239.77.1.92:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://113.65.7.94:8888/udp/239.77.1.157:5146
-#EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
-http://113.65.7.94:8888/udp/239.77.0.183:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://113.93.29.125:8088/udp/239.77.1.92:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
