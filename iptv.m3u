@@ -84,8 +84,6 @@ http://14.19.151.0:9900/udp/239.77.1.17:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://113.65.7.94:8888/udp/239.77.1.17:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
-http://113.65.7.94:8888/udp/239.77.0.86:5146
-#EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://113.93.29.125:8088/udp/239.77.1.144:5146
 #EXTINF:-1,tvg-name="CCTV-1高清" group-title="央视", CCTV-1高清
 http://113.93.29.125:8088/udp/239.77.0.86:5146
@@ -1049,8 +1047,6 @@ http://14.19.151.0:9900/udp/239.77.0.126:5146
 http://113.93.29.125:8088/udp/239.77.0.126:5146
 #EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
 http://14.19.151.0:9900/udp/239.77.0.49:5146
-#EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
-http://113.65.7.94:8888/udp/239.77.1.48:5146
 #EXTINF:-1,tvg-name="东方卫视" group-title="卫视", 东方卫视
 http://113.93.29.125:8088/udp/239.77.1.48:5146
 #EXTINF:-1,tvg-name="东方卫视高清" group-title="卫视", 东方卫视高清
