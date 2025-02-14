@@ -159,8 +159,6 @@ http://113.93.29.125:8088/udp/239.77.1.159:5146
 http://14.19.151.0:9900/udp/239.77.0.138:5146
 #EXTINF:-1,tvg-name="CCTV-7高清测试" group-title="央视", CCTV-7高清测试
 http://113.65.7.94:8888/udp/239.77.0.138:5146
-#EXTINF:-1,tvg-name="CCTV-7高清测试" group-title="央视", CCTV-7高清测试
-http://113.93.29.125:8088/udp/239.77.0.138:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://113.93.29.125:8088/udp/239.77.0.172:5146
 #EXTINF:-1,tvg-name="CCTV-8超清" group-title="央视", CCTV-8超清
@@ -231,8 +229,6 @@ http://14.19.151.0:9900/udp/239.77.1.171:5146
 http://113.65.7.94:8888/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://113.93.29.125:8088/udp/239.77.1.161:5146
-#EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
-http://113.93.29.125:8088/udp/239.77.1.171:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://14.19.151.0:9900/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
@@ -345,8 +341,6 @@ http://113.93.29.125:8088/udp/239.77.1.15:5146
 http://14.19.151.0:9900/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://14.19.151.0:9900/udp/239.77.0.22:5146
-#EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
-http://113.65.7.94:8888/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://113.65.7.94:8888/udp/239.77.0.22:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
