@@ -117,8 +117,6 @@ http://14.19.151.0:9900/udp/239.77.0.170:5146
 http://113.65.7.94:8888/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
 http://14.19.151.0:9900/udp/239.77.0.177:5146
-#EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
-http://113.65.7.94:8888/udp/239.77.0.177:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://14.19.151.0:9900/udp/239.77.0.87:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
@@ -1088,8 +1086,6 @@ http://113.93.29.125:8088/udp/239.77.1.62:5146
 #EXTINF:-1,tvg-name="辽宁卫视高清" group-title="卫视", 辽宁卫视高清
 http://14.19.151.0:9900/udp/239.77.1.103:5146
 #EXTINF:-1,tvg-name="辽宁卫视高清" group-title="卫视", 辽宁卫视高清
-http://113.65.7.94:8888/udp/239.77.1.103:5146
-#EXTINF:-1,tvg-name="辽宁卫视高清" group-title="卫视", 辽宁卫视高清
 http://113.93.29.125:8088/udp/239.77.1.103:5146
 #EXTINF:-1,tvg-name="辽宁卫视 高清" group-title="卫视", 辽宁卫视 高清
 http://14.19.151.0:9900/udp/239.77.0.123:5146
@@ -1179,8 +1175,6 @@ http://113.93.29.125:8088/udp/239.77.0.17:5146
 http://14.19.151.0:9900/udp/239.77.0.62:5146
 #EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
 http://113.93.29.125:8088/udp/239.77.1.72:5146
-#EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
-http://14.19.151.0:9900/udp/239.253.43.37:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
 http://14.19.151.0:9900/udp/239.253.43.100:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
