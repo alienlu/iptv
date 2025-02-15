@@ -107,8 +107,6 @@ http://113.93.29.125:8088/udp/239.77.1.166:5146
 http://113.93.29.125:8088/udp/239.77.0.78:5146
 #EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
 http://14.19.151.0:9900/udp/239.77.0.170:5146
-#EXTINF:-1,tvg-name="CCTV-5高清" group-title="央视", CCTV-5高清
-http://113.65.7.94:8888/udp/239.77.0.170:5146
 #EXTINF:-1,tvg-name="CCTV-5超清" group-title="央视", CCTV-5超清
 http://14.19.151.0:9900/udp/239.77.0.177:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
@@ -1118,8 +1116,6 @@ http://113.65.7.94:8888/udp/239.253.43.100:5146
 #EXTINF:-1,tvg-name="云南卫视高清" group-title="卫视", 云南卫视高清
 http://113.93.29.125:8088/udp/239.253.43.100:5146
 #EXTINF:-1,tvg-name="重庆卫视" group-title="卫视", 重庆卫视
-http://14.19.151.0:9900/udp/239.77.1.16:5146
-#EXTINF:-1,tvg-name="重庆卫视" group-title="卫视", 重庆卫视
 http://113.93.29.125:8088/udp/239.77.1.16:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
 http://14.19.151.0:9900/udp/239.77.1.162:5146
@@ -1143,8 +1139,6 @@ http://113.93.29.125:8088/udp/239.77.0.64:5146
 http://14.19.151.0:9900/udp/239.77.0.148:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
 http://113.65.7.94:8888/udp/239.77.0.148:5146
-#EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
-http://113.93.29.125:8088/udp/239.77.1.214:5146
 #EXTINF:-1,tvg-name="河北卫视高清" group-title="卫视", 河北卫视高清
 http://113.93.29.125:8088/udp/239.77.0.148:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
