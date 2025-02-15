@@ -190,8 +190,6 @@ http://113.65.7.94:8888/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://113.93.29.125:8088/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
-http://14.19.151.0:9900/udp/239.77.0.136:5146
-#EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://113.65.7.94:8888/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://113.93.29.125:8088/udp/239.77.0.136:5146
@@ -893,8 +891,6 @@ http://14.19.151.0:9900/udp/239.77.1.149:5146
 http://113.65.7.94:8888/udp/239.77.1.18:5146
 #EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
 http://113.93.29.125:8088/udp/239.77.1.18:5146
-#EXTINF:-1,tvg-name="江苏卫视高清" group-title="卫视", 江苏卫视高清
-http://113.93.29.125:8088/udp/239.77.1.149:5146
 #EXTINF:-1,tvg-name="江苏卫视超清" group-title="卫视", 江苏卫视超清
 http://14.19.151.0:9900/udp/239.77.0.126:5146
 #EXTINF:-1,tvg-name="江苏卫视超清" group-title="卫视", 江苏卫视超清
