@@ -570,8 +570,6 @@ http://113.65.7.94:8888/udp/239.77.0.248:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://113.93.29.125:8088/udp/239.77.1.173:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
-http://14.19.151.0:9900/udp/239.77.1.233:5146
-#EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://113.65.7.94:8888/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://113.93.29.125:8088/udp/239.77.1.233:5146
