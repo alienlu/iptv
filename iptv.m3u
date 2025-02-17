@@ -156,8 +156,6 @@ http://14.19.151.0:9900/udp/239.77.1.113:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://14.19.151.0:9900/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
-http://113.93.29.125:8088/udp/239.77.1.113:5146
-#EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://113.93.29.125:8088/udp/239.77.1.169:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
 http://14.19.151.0:9900/udp/239.77.0.134:5146
