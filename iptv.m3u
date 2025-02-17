@@ -213,8 +213,6 @@ http://113.93.29.125:8088/udp/239.77.0.165:5146
 http://14.19.151.0:9900/udp/239.77.1.98:5146
 #EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
 http://14.19.151.0:9900/udp/239.77.1.121:5146
-#EXTINF:-1,tvg-name="CCTV-17高清" group-title="央视", CCTV-17高清
-http://113.93.29.125:8088/udp/239.77.1.121:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://113.65.7.94:8888/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
@@ -852,8 +850,6 @@ http://14.19.151.0:9900/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://113.65.7.94:8888/udp/239.77.0.91:5146
 #EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
-http://113.93.29.125:8088/udp/239.77.1.4:5146
-#EXTINF:-1,tvg-name="北京卫视高清" group-title="卫视", 北京卫视高清
 http://113.93.29.125:8088/udp/239.77.1.151:5146
 #EXTINF:-1,tvg-name="天津卫视" group-title="卫视", 天津卫视
 http://14.19.151.0:9900/udp/239.77.0.52:5146
@@ -957,8 +953,6 @@ http://14.19.151.0:9900/udp/239.77.1.6:5146
 http://14.19.151.0:9900/udp/239.77.1.179:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://113.65.7.94:8888/udp/239.77.1.6:5146
-#EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
-http://113.93.29.125:8088/udp/239.77.1.179:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
 http://14.19.151.0:9900/udp/239.77.1.61:5146
 #EXTINF:-1,tvg-name="贵州卫视" group-title="卫视", 贵州卫视
@@ -1047,8 +1041,6 @@ http://14.19.151.0:9900/udp/239.77.1.1:5146
 http://113.93.29.125:8088/udp/239.77.0.65:5146
 #EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
 http://113.93.29.125:8088/udp/239.77.1.1:5146
-#EXTINF:-1,tvg-name="东南卫视" group-title="卫视", 东南卫视
-http://113.93.29.125:8088/udp/239.77.1.213:5146
 #EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
 http://14.19.151.0:9900/udp/239.77.1.104:5146
 #EXTINF:-1,tvg-name="东南卫视高清" group-title="卫视", 东南卫视高清
