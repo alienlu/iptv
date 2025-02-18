@@ -50,8 +50,6 @@ http://125.90.252.58:4040/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://125.90.252.58:4030/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
-http://14.212.176.100:8022/udp/239.77.0.166:5146
-#EXTINF:-1,tvg-name="广东卫视超清" group-title="广东", 广东卫视超清
 http://113.94.58.16:10010/udp/239.77.0.166:5146
 #EXTINF:-1,tvg-name="广东珠江高清" group-title="广东", 广东珠江高清
 http://113.65.7.94:8888/udp/239.77.0.1:5146
@@ -628,8 +626,6 @@ http://14.19.151.0:9900/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://58.62.234.69:10000/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
-http://125.90.252.58:4040/udp/239.77.0.133:5146
-#EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://125.90.252.58:4030/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://113.94.58.16:10010/udp/239.77.0.133:5146
@@ -643,8 +639,6 @@ http://113.65.7.94:8888/udp/239.77.1.239:5146
 http://58.62.234.69:10000/udp/239.77.1.239:5146
 #EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
 http://125.90.252.58:4040/udp/239.77.1.239:5146
-#EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
-http://125.90.252.58:4030/udp/239.77.1.239:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
 http://14.19.151.0:9900/udp/239.77.0.165:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
@@ -801,8 +795,6 @@ http://113.94.58.16:10010/udp/239.253.43.200:5146
 http://218.16.50.113:9090/udp/239.253.43.200:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://14.19.151.0:9900/udp/239.253.43.201:5146
-#EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
-http://113.65.7.94:8888/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
 http://58.62.234.69:10000/udp/239.253.43.201:5146
 #EXTINF:-1,tvg-name="CGTN俄语高清" group-title="其他", CGTN俄语高清
@@ -1648,8 +1640,6 @@ http://218.16.50.113:9090/udp/239.77.1.128:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
 http://218.16.50.113:9090/udp/239.77.1.140:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
-http://14.19.151.0:9900/udp/239.77.1.38:5146
-#EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
 http://113.65.7.94:8888/udp/239.77.1.38:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
 http://58.62.234.69:10000/udp/239.77.1.38:5146
@@ -1891,8 +1881,6 @@ http://125.90.252.58:4030/udp/239.77.0.120:5146
 http://113.94.58.16:10010/udp/239.77.0.120:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
 http://14.19.151.0:9900/udp/239.77.0.141:5146
-#EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
-http://113.65.7.94:8888/udp/239.77.0.141:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
 http://58.62.234.69:10000/udp/239.77.0.141:5146
 #EXTINF:-1,tvg-name="湛江新闻综合高清" group-title="其他", 湛江新闻综合高清
@@ -2951,8 +2939,6 @@ http://58.62.234.69:10000/udp/239.77.0.127:5146
 http://125.90.252.58:4040/udp/239.77.0.127:5146
 #EXTINF:-1,tvg-name="湖南卫视超清" group-title="卫视", 湖南卫视超清
 http://125.90.252.58:4030/udp/239.77.0.127:5146
-#EXTINF:-1,tvg-name="湖南卫视超清" group-title="卫视", 湖南卫视超清
-http://218.16.50.113:9090/udp/239.77.0.127:5146
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
 http://14.19.151.0:9900/udp/239.77.0.47:5146
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
