@@ -609,8 +609,6 @@ http://113.65.7.94:8888/udp/239.77.0.221:5146
 http://58.62.234.69:10000/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://125.90.252.58:4040/udp/239.77.0.221:5146
-#EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
-http://125.90.252.58:4030/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
 http://14.19.151.0:9900/udp/239.77.0.228:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
@@ -951,8 +949,6 @@ http://58.62.234.69:10000/udp/239.253.43.72:5146
 http://125.90.252.58:4040/udp/239.253.43.72:5146
 #EXTINF:-1,tvg-name="广州新闻高清" group-title="其他", 广州新闻高清
 http://125.90.252.58:4030/udp/239.253.43.72:5146
-#EXTINF:-1,tvg-name="广州影视" group-title="其他", 广州影视
-http://113.65.7.94:8888/udp/239.253.43.68:5146
 #EXTINF:-1,tvg-name="广州影视" group-title="其他", 广州影视
 http://14.19.151.0:9900/udp/239.253.43.68:5146
 #EXTINF:-1,tvg-name="广州影视" group-title="其他", 广州影视
@@ -1307,8 +1303,6 @@ http://58.62.234.69:10000/udp/239.77.1.128:5146
 http://58.62.234.69:10000/udp/239.77.1.140:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
 http://125.90.252.58:4040/udp/239.77.1.140:5146
-#EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
-http://125.90.252.58:4030/udp/239.77.1.128:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
 http://125.90.252.58:4030/udp/239.77.1.140:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
@@ -1695,8 +1689,6 @@ http://113.65.7.94:8888/udp/239.77.1.154:5146
 http://14.19.151.0:9900/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://14.19.151.0:9900/udp/239.77.1.154:5146
-#EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
-http://113.65.7.94:8888/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://58.62.234.69:10000/udp/239.77.0.247:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
@@ -2613,8 +2605,6 @@ http://14.19.151.0:9900/udp/239.77.1.92:5146
 http://14.19.151.0:9900/udp/239.77.1.157:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://113.65.7.94:8888/udp/239.77.1.157:5146
-#EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
-http://113.65.7.94:8888/udp/239.77.0.183:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
 http://58.62.234.69:10000/udp/239.77.1.92:5146
 #EXTINF:-1,tvg-name="安徽卫视高清" group-title="卫视", 安徽卫视高清
