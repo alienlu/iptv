@@ -592,8 +592,6 @@ http://58.62.234.69:10000/udp/239.77.1.232:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://113.65.7.94:8888/udp/239.77.0.248:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
-http://113.65.7.94:8888/udp/239.77.1.173:5146
-#EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://58.62.234.69:10000/udp/239.77.1.173:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://58.62.234.69:10000/udp/239.77.1.233:5146
@@ -647,8 +645,6 @@ http://113.65.7.94:8888/udp/239.253.43.32:5146
 http://113.65.7.94:8888/udp/239.77.0.241:5146
 #EXTINF:-1,tvg-name="清远文旅生活" group-title="其他", 清远文旅生活
 http://58.62.234.69:10000/udp/239.253.43.32:5146
-#EXTINF:-1,tvg-name="清远文旅生活" group-title="其他", 清远文旅生活
-http://58.62.234.69:10000/udp/239.77.0.241:5146
 #EXTINF:-1,tvg-name="清远文旅生活高清" group-title="其他", 清远文旅生活高清
 http://113.65.7.94:8888/udp/239.253.43.34:5146
 #EXTINF:-1,tvg-name="云浮综合" group-title="其他", 云浮综合
