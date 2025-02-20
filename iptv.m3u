@@ -515,8 +515,6 @@ http://58.62.234.69:10000/udp/239.77.1.128:5146
 http://58.62.234.69:10000/udp/239.77.1.140:5146
 #EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
 http://218.16.50.113:9090/udp/239.77.1.128:5146
-#EXTINF:-1,tvg-name="深圳体育健康高清" group-title="其他", 深圳体育健康高清
-http://218.16.50.113:9090/udp/239.77.1.140:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
 http://113.65.7.94:8888/udp/239.77.1.38:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
@@ -687,8 +685,6 @@ http://113.65.7.94:8888/udp/239.77.0.203:5146
 http://113.65.7.94:8888/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://58.62.234.69:10000/udp/239.77.0.247:5146
-#EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
-http://58.62.234.69:10000/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://218.16.50.113:9090/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-1高清" group-title="其他", HZTV-1高清
@@ -1301,8 +1297,6 @@ http://58.62.234.69:10000/udp/239.77.0.159:5146
 http://218.16.50.113:9090/udp/239.77.1.215:5146
 #EXTINF:-1,tvg-name="四川卫视超清" group-title="卫视", 四川卫视超清
 http://113.65.7.94:8888/udp/239.77.0.163:5146
-#EXTINF:-1,tvg-name="四川卫视超清" group-title="卫视", 四川卫视超清
-http://218.16.50.113:9090/udp/239.77.0.163:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
 http://113.65.7.94:8888/udp/239.77.0.61:5146
 #EXTINF:-1,tvg-name="河南卫视" group-title="卫视", 河南卫视
