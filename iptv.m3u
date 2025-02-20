@@ -207,8 +207,6 @@ http://58.62.234.69:10000/udp/239.77.1.161:5146
 http://58.62.234.69:10000/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
 http://113.65.7.94:8888/udp/239.77.1.239:5146
-#EXTINF:-1,tvg-name="CCTV-15高清" group-title="央视", CCTV-15高清
-http://58.62.234.69:10000/udp/239.77.1.239:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
 http://113.65.7.94:8888/udp/239.77.1.76:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
@@ -223,8 +221,6 @@ http://58.62.234.69:10000/udp/239.77.1.98:5146
 http://113.65.7.94:8888/udp/239.77.0.194:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K" group-title="央视", CCTV-4K 4K
 http://58.62.234.69:10000/udp/239.77.0.194:5146
-#EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
-http://113.65.7.94:8888/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K50p" group-title="央视", CCTV-4K 4K50p
 http://58.62.234.69:10000/udp/239.77.0.174:5146
 #EXTINF:-1,tvg-name="CGTN" group-title="其他", CGTN
