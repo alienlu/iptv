@@ -192,8 +192,6 @@ http://113.65.7.94:8888/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN西班牙语高清" group-title="其他", CGTN西班牙语高清
 http://58.62.234.69:10000/udp/239.77.0.221:5146
 #EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
-http://113.65.7.94:8888/udp/239.77.0.228:5146
-#EXTINF:-1,tvg-name="CGTN法语高清" group-title="其他", CGTN法语高清
 http://58.62.234.69:10000/udp/239.77.0.228:5146
 #EXTINF:-1,tvg-name="CGTN阿拉伯语高清" group-title="其他", CGTN阿拉伯语高清
 http://113.65.7.94:8888/udp/239.253.43.200:5146
@@ -595,8 +593,6 @@ http://113.65.7.94:8888/udp/239.253.43.44:5146
 http://58.62.234.69:10000/udp/239.253.43.44:5146
 #EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
 http://113.65.7.94:8888/udp/239.77.1.132:5146
-#EXTINF:-1,tvg-name="佛山公共" group-title="其他", 佛山公共
-http://58.62.234.69:10000/udp/239.253.43.48:5146
 #EXTINF:-1,tvg-name="佛山公共高清" group-title="其他", 佛山公共高清
 http://58.62.234.69:10000/udp/239.253.43.53:5146
 #EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
