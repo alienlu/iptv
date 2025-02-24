@@ -463,16 +463,12 @@ http://113.65.7.94:8888/udp/239.77.0.196:5146
 http://58.62.234.69:10000/udp/239.77.0.196:5146
 #EXTINF:-1,tvg-name="江门侨乡生活高清" group-title="其他", 江门侨乡生活高清
 http://113.65.7.94:8888/udp/239.77.0.202:5146
-#EXTINF:-1,tvg-name="江门侨乡生活高清" group-title="其他", 江门侨乡生活高清
-http://58.62.234.69:10000/udp/239.77.0.202:5146
 #EXTINF:-1,tvg-name="江门教育高清" group-title="其他", 江门教育高清
 http://113.65.7.94:8888/udp/239.77.0.203:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://113.65.7.94:8888/udp/239.77.1.154:5146
 #EXTINF:-1,tvg-name="HZTV-1" group-title="其他", HZTV-1
 http://58.62.234.69:10000/udp/239.77.0.247:5146
-#EXTINF:-1,tvg-name="HZTV-1高清" group-title="其他", HZTV-1高清
-http://113.65.7.94:8888/udp/239.77.1.232:5146
 #EXTINF:-1,tvg-name="HZTV-1高清" group-title="其他", HZTV-1高清
 http://58.62.234.69:10000/udp/239.77.1.232:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
