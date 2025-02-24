@@ -132,8 +132,6 @@ http://58.62.234.69:10000/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-12高清测试" group-title="央视", CCTV-12高清测试
 http://113.65.7.94:8888/udp/239.77.0.136:5146
 #EXTINF:-1,tvg-name="CCTV-13高清" group-title="央视", CCTV-13高清
-http://113.65.7.94:8888/udp/239.253.43.196:5146
-#EXTINF:-1,tvg-name="CCTV-13高清" group-title="央视", CCTV-13高清
 http://58.62.234.69:10000/udp/239.253.43.196:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://113.65.7.94:8888/udp/239.77.1.171:5146
