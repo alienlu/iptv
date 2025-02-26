@@ -130,8 +130,6 @@ http://58.62.234.69:10000/udp/239.77.0.133:5146
 #EXTINF:-1,tvg-name="CCTV-16高清" group-title="央视", CCTV-16高清
 http://58.62.234.69:10000/udp/239.77.1.76:5146
 #EXTINF:-1,tvg-name="CCTV-16 4K" group-title="央视", CCTV-16 4K
-http://113.65.7.94:8888/udp/239.77.1.98:5146
-#EXTINF:-1,tvg-name="CCTV-16 4K" group-title="央视", CCTV-16 4K
 http://58.62.234.69:10000/udp/239.77.1.98:5146
 #EXTINF:-1,tvg-name="CCTV-4K 4K" group-title="央视", CCTV-4K 4K
 http://113.65.7.94:8888/udp/239.77.0.194:5146
@@ -367,8 +365,6 @@ http://113.65.7.94:8888/udp/239.77.0.158:5146
 http://113.65.7.94:8888/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-name="揭阳生活高清" group-title="其他", 揭阳生活高清
 http://58.62.234.69:10000/udp/239.77.0.251:5146
-#EXTINF:-1,tvg-name="汕尾新闻综合高清" group-title="其他", 汕尾新闻综合高清
-http://58.62.234.69:10000/udp/239.77.0.25:5146
 #EXTINF:-1,tvg-name="汕尾文化生活" group-title="其他", 汕尾文化生活
 http://113.65.7.94:8888/udp/239.77.1.190:5146
 #EXTINF:-1,tvg-name="汕尾文化生活" group-title="其他", 汕尾文化生活
