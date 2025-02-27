@@ -83,8 +83,6 @@ http://113.65.7.94:8888/udp/239.77.1.31:5146
 http://58.62.234.69:10000/udp/239.77.1.31:5146
 #EXTINF:-1,tvg-name="CCTV-5+高清" group-title="央视", CCTV-5+高清
 http://58.62.234.69:10000/udp/239.77.1.147:5146
-#EXTINF:-1,tvg-name="CCTV-6高清" group-title="央视", CCTV-6高清
-http://58.62.234.69:10000/udp/239.77.0.171:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://58.62.234.69:10000/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
@@ -451,8 +449,6 @@ http://58.62.234.69:10000/udp/239.253.43.46:5146
 http://113.65.7.94:8888/udp/239.253.43.44:5146
 #EXTINF:-1,tvg-name="汕头文旅体育" group-title="其他", 汕头文旅体育
 http://58.62.234.69:10000/udp/239.253.43.44:5146
-#EXTINF:-1,tvg-name="汕头文旅体育高清" group-title="其他", 汕头文旅体育高清
-http://113.65.7.94:8888/udp/239.77.1.132:5146
 #EXTINF:-1,tvg-name="佛山公共高清" group-title="其他", 佛山公共高清
 http://58.62.234.69:10000/udp/239.253.43.53:5146
 #EXTINF:-1,tvg-name="佛山南海" group-title="其他", 佛山南海
