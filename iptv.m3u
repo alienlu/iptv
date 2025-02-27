@@ -12,8 +12,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://113.65.7.94:8888/udp/239.77.1.19:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
-http://113.65.7.94:8888/udp/239.77.0.84:5146
-#EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://58.62.234.69:10000/udp/239.77.1.152:5146
 #EXTINF:-1,tvg-name="广东卫视高清" group-title="广东", 广东卫视高清
 http://58.62.234.69:10000/udp/239.77.0.84:5146
@@ -217,8 +215,6 @@ http://113.65.7.94:8888/udp/239.77.1.21:5146
 http://58.62.234.69:10000/udp/239.77.1.21:5146
 #EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
 http://113.65.7.94:8888/udp/239.77.1.148:5146
-#EXTINF:-1,tvg-name="深圳卫视高清" group-title="卫视", 深圳卫视高清
-http://113.65.7.94:8888/udp/239.77.1.3:5146
 #EXTINF:-1,tvg-name="深圳卫视超清" group-title="卫视", 深圳卫视超清
 http://113.65.7.94:8888/udp/239.77.0.130:5146
 #EXTINF:-1,tvg-name="深圳都市频道" group-title="其他", 深圳都市频道
@@ -333,8 +329,6 @@ http://58.62.234.69:10000/udp/239.77.0.247:5146
 http://58.62.234.69:10000/udp/239.77.1.232:5146
 #EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
 http://113.65.7.94:8888/udp/239.77.0.248:5146
-#EXTINF:-1,tvg-name="HZTV-2" group-title="其他", HZTV-2
-http://58.62.234.69:10000/udp/239.77.1.173:5146
 #EXTINF:-1,tvg-name="HZTV-2高清" group-title="其他", HZTV-2高清
 http://58.62.234.69:10000/udp/239.77.1.233:5146
 #EXTINF:-1,tvg-name="珠海-1" group-title="其他", 珠海-1
@@ -570,8 +564,6 @@ http://113.65.7.94:8888/udp/239.77.1.6:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://113.65.7.94:8888/udp/239.77.1.179:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
-http://113.65.7.94:8888/udp/239.77.0.93:5146
-#EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://58.62.234.69:10000/udp/239.77.1.6:5146
 #EXTINF:-1,tvg-name="黑龙江卫视高清" group-title="卫视", 黑龙江卫视高清
 http://58.62.234.69:10000/udp/239.77.1.179:5146
@@ -633,8 +625,6 @@ http://113.65.7.94:8888/udp/239.77.1.162:5146
 http://113.65.7.94:8888/udp/239.77.0.182:5146
 #EXTINF:-1,tvg-name="重庆卫视高清" group-title="卫视", 重庆卫视高清
 http://58.62.234.69:10000/udp/239.77.0.182:5146
-#EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
-http://113.65.7.94:8888/udp/239.77.1.60:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
 http://113.65.7.94:8888/udp/239.77.0.64:5146
 #EXTINF:-1,tvg-name="河北卫视" group-title="卫视", 河北卫视
