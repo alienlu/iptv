@@ -82,8 +82,6 @@ http://58.62.234.69:10000/udp/239.77.1.147:5146
 #EXTINF:-1,tvg-name="CCTV-6超清" group-title="央视", CCTV-6超清
 http://58.62.234.69:10000/udp/239.77.0.178:5146
 #EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
-http://113.65.7.94:8888/udp/239.77.1.167:5146
-#EXTINF:-1,tvg-name="CCTV-7高清" group-title="央视", CCTV-7高清
 http://58.62.234.69:10000/udp/239.77.1.159:5146
 #EXTINF:-1,tvg-name="CCTV-8高清" group-title="央视", CCTV-8高清
 http://113.65.7.94:8888/udp/239.77.0.172:5146
@@ -103,8 +101,6 @@ http://58.62.234.69:10000/udp/239.77.0.134:5146
 http://58.62.234.69:10000/udp/239.77.1.238:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://113.65.7.94:8888/udp/239.77.1.170:5146
-#EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
-http://58.62.234.69:10000/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://58.62.234.69:10000/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
@@ -215,8 +211,6 @@ http://58.62.234.69:10000/udp/239.253.43.78:5146
 http://58.62.234.69:10000/udp/239.253.43.79:5146
 #EXTINF:-1,tvg-name="广视课堂 初一" group-title="其他", 广视课堂 初一
 http://58.62.234.69:10000/udp/239.253.43.89:5146
-#EXTINF:-1,tvg-name="广视课堂 初三" group-title="其他", 广视课堂 初三
-http://58.62.234.69:10000/udp/239.253.43.91:5146
 #EXTINF:-1,tvg-name="广视课堂 高一" group-title="其他", 广视课堂 高一
 http://58.62.234.69:10000/udp/239.253.43.92:5146
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
@@ -257,8 +251,6 @@ http://58.62.234.69:10000/udp/239.77.1.243:5146
 http://58.62.234.69:10000/udp/239.77.1.140:5146
 #EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
 http://113.65.7.94:8888/udp/239.77.1.38:5146
-#EXTINF:-1,tvg-name="深圳少儿频道" group-title="其他", 深圳少儿频道
-http://58.62.234.69:10000/udp/239.77.1.38:5146
 #EXTINF:-1,tvg-name="深圳少儿频道高清" group-title="其他", 深圳少儿频道高清
 http://58.62.234.69:10000/udp/239.77.1.244:5146
 #EXTINF:-1,tvg-name="深圳公共频道" group-title="其他", 深圳公共频道
