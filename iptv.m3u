@@ -93,8 +93,6 @@ http://113.65.7.94:8888/udp/239.77.0.181:5146
 http://58.62.234.69:10000/udp/239.77.0.181:5146
 #EXTINF:-1,tvg-name="CCTV-9高清" group-title="央视", CCTV-9高清
 http://113.65.7.94:8888/udp/239.77.1.160:5146
-#EXTINF:-1,tvg-name="CCTV-9高清测试" group-title="央视", CCTV-9高清测试
-http://113.65.7.94:8888/udp/239.77.0.135:5146
 #EXTINF:-1,tvg-name="CCTV-10高清" group-title="央视", CCTV-10高清
 http://58.62.234.69:10000/udp/239.77.1.113:5146
 #EXTINF:-1,tvg-name="CCTV-10高清测试" group-title="央视", CCTV-10高清测试
