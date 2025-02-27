@@ -110,8 +110,6 @@ http://58.62.234.69:10000/udp/239.77.1.109:5146
 #EXTINF:-1,tvg-name="CCTV-12高清" group-title="央视", CCTV-12高清
 http://58.62.234.69:10000/udp/239.77.1.170:5146
 #EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
-http://113.65.7.94:8888/udp/239.77.1.161:5146
-#EXTINF:-1,tvg-name="CCTV-14高清" group-title="央视", CCTV-14高清
 http://58.62.234.69:10000/udp/239.77.1.161:5146
 #EXTINF:-1,tvg-name="CCTV-14高清测试" group-title="央视", CCTV-14高清测试
 http://58.62.234.69:10000/udp/239.77.0.133:5146
@@ -159,10 +157,6 @@ http://58.62.234.69:10000/udp/239.77.0.8:5146
 http://58.62.234.69:10000/udp/239.77.0.11:5146
 #EXTINF:-1,tvg-name="广东少儿" group-title="广东", 广东少儿
 http://58.62.234.69:10000/udp/239.77.0.12:5146
-#EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
-http://113.65.7.94:8888/udp/239.77.0.13:5146
-#EXTINF:-1,tvg-name="嘉佳卡通" group-title="其他", 嘉佳卡通
-http://58.62.234.69:10000/udp/239.77.1.15:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
 http://113.65.7.94:8888/udp/239.77.0.19:5146
 #EXTINF:-1,tvg-name="南方购物" group-title="其他", 南方购物
@@ -393,8 +387,6 @@ http://113.65.7.94:8888/udp/239.253.43.195:5146
 http://58.62.234.69:10000/udp/239.77.0.253:5146
 #EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
 http://113.65.7.94:8888/udp/239.253.43.194:5146
-#EXTINF:-1,tvg-name="云浮文旅" group-title="其他", 云浮文旅
-http://58.62.234.69:10000/udp/239.253.43.194:5146
 #EXTINF:-1,tvg-name="云浮文旅高清" group-title="其他", 云浮文旅高清
 http://113.65.7.94:8888/udp/239.77.0.254:5146
 #EXTINF:-1,tvg-name="云浮文旅高清" group-title="其他", 云浮文旅高清
