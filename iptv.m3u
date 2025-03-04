@@ -18477,6 +18477,8 @@ http://64.110.104.110:50001/TVOD/5000000010000030951/bestzb/index.m3u8
 http://64.110.104.110:50001/TVOD/2000000002000000001/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="上海ICS外语" group-title="其他", 上海ICS外语
 http://166.0.199.145:50001/TVOD/5000000010000030951/bestzb/index.m3u8
+#EXTINF:-1,tvg-name="上海ICS外语" group-title="其他", 上海ICS外语
+http://156.226.171.245:50001/TVOD/5000000010000030951/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV七彩戏剧" group-title="其他", SiTV七彩戏剧
 http://209.17.118.147:50001/TVOD/5000000011000031116/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV七彩戏剧" group-title="其他", SiTV七彩戏剧
