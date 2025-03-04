@@ -12330,8 +12330,6 @@ http://209.17.118.147:50001/TVOD/2000000003000000031/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电影" group-title="其他", NewTV超级电影
 http://209.17.118.147:50001/TVOD/1000000001000012884/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电影" group-title="其他", NewTV超级电影
-http://209.17.118.147:50001/TVOD/1000000004000002120/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="NewTV超级电影" group-title="其他", NewTV超级电影
 http://47.79.91.114:50001/TVOD/1000000003000012426/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电影" group-title="其他", NewTV超级电影
 http://47.79.91.114:50001/TVOD/2000000003000000031/hnbblive/index.m3u8
@@ -12467,6 +12465,8 @@ http://64.110.104.110:50001/TVOD/2000000003000000031/hnbblive/index.m3u8
 http://64.110.104.110:50001/TVOD/1000000001000012884/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电影" group-title="其他", NewTV超级电影
 http://64.110.104.110:50001/TVOD/1000000004000002120/ystenlive/index.m3u8
+#EXTINF:-1,tvg-name="NewTV超级电影" group-title="其他", NewTV超级电影
+http://209.17.118.147:50001/TVOD/1000000004000002120/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级体育" group-title="其他", NewTV超级体育
 http://209.17.118.147:50001/TVOD/1000000001000009601/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级体育" group-title="其他", NewTV超级体育
@@ -18423,8 +18423,6 @@ http://152.67.213.131:50001/TVOD/2000000002000000001/hnbblive/index.m3u8
 http://189.1.246.1:50001/TVOD/5000000010000030951/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="上海ICS外语" group-title="其他", 上海ICS外语
 http://189.1.246.1:50001/TVOD/2000000002000000001/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="上海ICS外语" group-title="其他", 上海ICS外语
-http://166.0.199.145:50001/TVOD/5000000010000030951/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="上海ICS外语" group-title="其他", 上海ICS外语
 http://166.0.199.145:50001/TVOD/2000000002000000001/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="上海ICS外语" group-title="其他", 上海ICS外语
