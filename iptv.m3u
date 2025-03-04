@@ -4902,8 +4902,6 @@ http://189.1.246.1:50001/TVOD/1000000001000024341/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV7 国防军事" group-title="央视", CCTV7 国防军事
 http://189.1.246.1:50001/TVOD/5000000011000031104/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="CCTV7 国防军事" group-title="央视", CCTV7 国防军事
-http://189.1.246.1:50001/TVOD/1000000005000265007/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="CCTV7 国防军事" group-title="央视", CCTV7 国防军事
 http://189.1.246.1:50001/TVOD/1000000001000017218/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV7 国防军事" group-title="央视", CCTV7 国防军事
 http://189.1.246.1:50001/TVOD/5000000005000026715/bestzb/index.m3u8
