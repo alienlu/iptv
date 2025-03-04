@@ -18585,6 +18585,8 @@ http://156.226.171.245:50001/TVOD/6000000006000080630/wasusyt/index.m3u8
 http://152.69.198.57:50001/TVOD/6000000006000080630/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="爱都市" group-title="其他", 爱都市
 http://111.119.250.248:50001/TVOD/6000000006000080630/wasusyt/index.m3u8
+#EXTINF:-1,tvg-name="爱都市" group-title="其他", 爱都市
+http://64.110.104.110:50001/TVOD/6000000006000080630/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="爱怀旧" group-title="其他", 爱怀旧
 http://209.17.118.147:50001/TVOD/6000000006000260630/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="爱怀旧" group-title="其他", 爱怀旧
