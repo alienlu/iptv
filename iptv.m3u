@@ -9644,8 +9644,6 @@ http://146.56.162.116:50001/TVOD/1000000001000010606/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="上海纪实人文" group-title="其他", 上海纪实人文
 http://156.226.171.245:50001/TVOD/1000000001000016545/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="上海纪实人文" group-title="其他", 上海纪实人文
-http://156.226.171.245:50001/TVOD/5000000004000010282/bestzb/index.m3u8
-#EXTINF:-1,tvg-name="上海纪实人文" group-title="其他", 上海纪实人文
 http://156.226.171.245:50001/TVOD/1000000005000265021/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="上海纪实人文" group-title="其他", 上海纪实人文
 http://156.226.171.245:50001/TVOD/5000000001000021713/bestzb/index.m3u8
@@ -14437,8 +14435,6 @@ http://45.125.18.142:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
 http://47.76.150.170:50001/TVOD/5000000010000026105/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV金色学堂" group-title="其他", SiTV金色学堂
 http://47.76.150.170:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="SiTV金色学堂" group-title="其他", SiTV金色学堂
-http://111.119.250.248:50001/TVOD/5000000010000026105/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV金色学堂" group-title="其他", SiTV金色学堂
 http://111.119.250.248:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="SiTV金色学堂" group-title="其他", SiTV金色学堂
