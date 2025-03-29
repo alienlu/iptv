@@ -654,8 +654,6 @@ http://185.186.25.161:50001/TVOD/1000000001000011645/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
 http://209.141.35.65:50001/TVOD/5000000004000007410/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
-http://209.141.35.65:50001/TVOD/6000000001000002116/wasusyt/index.m3u8
-#EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
 http://209.141.35.65:50001/TVOD/1000000001000009227/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="深圳卫视" group-title="卫视", 深圳卫视
 http://209.141.35.65:50001/TVOD/1000000005000265028/ystenlive/index.m3u8
@@ -1360,8 +1358,6 @@ http://146.70.41.170:50001/TVOD/1000000005000265031/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
 http://146.70.41.170:50001/TVOD/5000000010000017320/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
-http://146.70.41.170:50001/TVOD/1000000001000009806/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
 http://142.171.146.94:50001/TVOD/5000000004000007275/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="浙江卫视" group-title="卫视", 浙江卫视
 http://142.171.146.94:50001/TVOD/6000000001000032070/wasusyt/index.m3u8
@@ -2013,8 +2009,6 @@ http://129.154.219.0:50001/TVOD/1000000005000265027/ystenlive/index.m3u8
 http://129.154.219.0:50001/TVOD/5000000010000011502/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
 http://129.154.219.0:50001/TVOD/1000000001000017156/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
-http://38.147.190.7:50001/TVOD/6000000001000020451/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
 http://38.147.190.7:50001/TVOD/1000000001000021288/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="北京卫视" group-title="卫视", 北京卫视
@@ -3236,8 +3230,6 @@ http://91.208.73.125:50001/TVOD/1000000001000010355/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://205.185.116.178:50001/TVOD/6000000001000015436/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
-http://205.185.116.178:50001/TVOD/1000000001000024621/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://205.185.116.178:50001/TVOD/5000000004000014954/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="湖北卫视" group-title="卫视", 湖北卫视
 http://205.185.116.178:50001/TVOD/1000000005000265023/ystenlive/index.m3u8
@@ -3633,8 +3625,6 @@ http://38.207.133.60:50001/TVOD/5000000004000011671/bestzb/index.m3u8
 http://38.207.133.60:50001/TVOD/1000000001000001945/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
 http://38.207.133.60:50001/TVOD/1000000005000265022/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
-http://38.207.133.60:50001/TVOD/5000000001000008940/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
 http://38.207.133.60:50001/TVOD/1000000002000024033/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
@@ -5068,8 +5058,6 @@ http://185.186.25.161:50001/TVOD/6000000003000004748/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="华数4K" group-title="其他", 华数4K
 http://185.186.25.161:50001/TVOD/2000000004000000014/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="华数4K" group-title="其他", 华数4K
-http://209.141.35.65:50001/TVOD/6000000003000004748/wasusyt/index.m3u8
-#EXTINF:-1,tvg-name="华数4K" group-title="其他", 华数4K
 http://209.141.35.65:50001/TVOD/2000000004000000014/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="华数4K" group-title="其他", 华数4K
 http://103.110.80.208:50001/TVOD/6000000003000004748/wasusyt/index.m3u8
@@ -5123,8 +5111,6 @@ http://107.189.14.182:50001/TVOD/5000000010000030810/bestzb/index.m3u8
 http://107.189.14.182:50001/TVOD/1000000001000021973/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV1 综合" group-title="央视", CCTV1 综合
 http://107.189.5.63:50001/TVOD/1000000001000018602/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="CCTV1 综合" group-title="央视", CCTV1 综合
-http://107.189.5.63:50001/TVOD/5000000004000002226/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="CCTV1 综合" group-title="央视", CCTV1 综合
 http://107.189.5.63:50001/TVOD/1000000005000265001/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV1 综合" group-title="央视", CCTV1 综合
@@ -5425,8 +5411,6 @@ http://107.189.14.176:50001/TVOD/5000000011000031101/bestzb/index.m3u8
 http://107.189.14.176:50001/TVOD/1000000005000265002/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV2 财经" group-title="央视", CCTV2 财经
 http://107.189.14.176:50001/TVOD/1000000001000012442/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="CCTV2 财经" group-title="央视", CCTV2 财经
-http://91.208.73.125:50001/TVOD/6000000001000014161/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="CCTV2 财经" group-title="央视", CCTV2 财经
 http://91.208.73.125:50001/TVOD/1000000001000023315/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV2 财经" group-title="央视", CCTV2 财经
@@ -10314,8 +10298,6 @@ http://168.138.172.53:50001/TVOD/5000000001000005829/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="福建东南卫视" group-title="卫视", 福建东南卫视
 http://168.138.172.53:50001/TVOD/1000000002000009263/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="福建东南卫视" group-title="卫视", 福建东南卫视
-http://209.141.48.121:50001/TVOD/5000000004000010584/bestzb/index.m3u8
-#EXTINF:-1,tvg-name="福建东南卫视" group-title="卫视", 福建东南卫视
 http://209.141.48.121:50001/TVOD/1000000005000265033/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="福建东南卫视" group-title="卫视", 福建东南卫视
 http://209.141.48.121:50001/TVOD/5000000001000005829/bestzb/index.m3u8
@@ -11755,8 +11737,6 @@ http://199.245.100.58:50001/TVOD/2000000003000000049/hnbblive/index.m3u8
 http://199.245.100.58:50001/TVOD/1000000005000266008/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="吉林延边卫视" group-title="卫视", 吉林延边卫视
 http://156.238.251.44:50001/TVOD/2000000003000000049/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="吉林延边卫视" group-title="卫视", 吉林延边卫视
-http://156.238.251.44:50001/TVOD/1000000005000266008/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="吉林延边卫视" group-title="卫视", 吉林延边卫视
 http://154.12.37.228:50001/TVOD/2000000003000000049/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="吉林延边卫视" group-title="卫视", 吉林延边卫视
@@ -15548,8 +15528,6 @@ http://209.141.51.229:50001/TVOD/2000000004000000003/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="少儿动漫" group-title="其他", 少儿动漫
 http://209.141.51.229:50001/TVOD/8145334647720731271/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="少儿动漫" group-title="其他", 少儿动漫
-http://154.12.36.226:50001/TVOD/2000000004000000003/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="少儿动漫" group-title="其他", 少儿动漫
 http://154.12.36.226:50001/TVOD/8145334647720731271/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="少儿动漫" group-title="其他", 少儿动漫
 http://185.186.25.161:50001/TVOD/2000000004000000003/hnbblive/index.m3u8
@@ -16612,8 +16590,6 @@ http://103.110.80.208:50001/TVOD/2000000004000000025/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="华数服务" group-title="其他", 华数服务
 http://38.207.133.60:50001/TVOD/2000000004000000025/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="华数服务" group-title="其他", 华数服务
-http://199.245.100.58:50001/TVOD/2000000004000000025/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="华数服务" group-title="其他", 华数服务
 http://156.238.251.44:50001/TVOD/2000000004000000025/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="华数服务" group-title="其他", 华数服务
 http://154.12.37.228:50001/TVOD/2000000004000000025/hnbblive/index.m3u8
@@ -17598,8 +17574,6 @@ http://192.145.45.241:50001/TVOD/1000000004000024993/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
 http://205.185.120.194:50001/TVOD/1000000006000268003/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
-http://205.185.120.194:50001/TVOD/2000000003000000032/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
 http://205.185.120.194:50001/TVOD/1000000001000008139/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
 http://205.185.120.194:50001/TVOD/1000000004000024993/ystenlive/index.m3u8
@@ -18416,8 +18390,6 @@ http://209.141.51.229:50001/TVOD/1000000005000266013/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV东北剧场" group-title="其他", NewTV东北剧场
 http://154.12.36.226:50001/TVOD/1000000005000266013/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV东北剧场" group-title="其他", NewTV东北剧场
-http://185.186.25.161:50001/TVOD/1000000005000266013/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="NewTV东北剧场" group-title="其他", NewTV东北剧场
 http://209.141.35.65:50001/TVOD/1000000005000266013/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV东北剧场" group-title="其他", NewTV东北剧场
 http://103.110.80.208:50001/TVOD/1000000005000266013/ystenlive/index.m3u8
@@ -18669,8 +18641,6 @@ http://38.147.190.7:50001/TVOD/2000000003000000050/hnbblive/index.m3u8
 http://38.147.190.7:50001/TVOD/1000000005000266012/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV欢乐剧场" group-title="其他", NewTV欢乐剧场
 http://107.189.14.176:50001/TVOD/2000000003000000050/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="NewTV欢乐剧场" group-title="其他", NewTV欢乐剧场
-http://107.189.14.176:50001/TVOD/1000000005000266012/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV欢乐剧场" group-title="其他", NewTV欢乐剧场
 http://91.208.73.125:50001/TVOD/1000000005000266012/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV欢乐剧场" group-title="其他", NewTV欢乐剧场
@@ -20068,8 +20038,6 @@ http://154.12.37.228:50001/TVOD/2000000003000000044/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV炫舞未来" group-title="其他", NewTV炫舞未来
 http://154.12.37.228:50001/TVOD/1000000001000000515/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV炫舞未来" group-title="其他", NewTV炫舞未来
-http://156.226.171.32:50001/TVOD/2000000003000000044/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="NewTV炫舞未来" group-title="其他", NewTV炫舞未来
 http://156.226.171.32:50001/TVOD/1000000001000000515/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV炫舞未来" group-title="其他", NewTV炫舞未来
 http://146.70.41.170:50001/TVOD/2000000003000000044/hnbblive/index.m3u8
@@ -20892,8 +20860,6 @@ http://129.154.219.0:50001/TVOD/2000000002000000059/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="SiTV乐游" group-title="其他", SiTV乐游
 http://38.147.190.7:50001/TVOD/5000000011000031112/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV乐游" group-title="其他", SiTV乐游
-http://38.147.190.7:50001/TVOD/2000000002000000092/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="SiTV乐游" group-title="其他", SiTV乐游
 http://38.147.190.7:50001/TVOD/5000000006000040025/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV乐游" group-title="其他", SiTV乐游
 http://38.147.190.7:50001/TVOD/2000000002000000059/hnbblive/index.m3u8
@@ -21347,8 +21313,6 @@ http://205.185.120.194:50001/TVOD/5000000002000027005/bestzb/index.m3u8
 http://205.185.120.194:50001/TVOD/2000000002000000011/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="SiTV游戏风云" group-title="其他", SiTV游戏风云
 http://209.141.51.229:50001/TVOD/5000000011000031114/bestzb/index.m3u8
-#EXTINF:-1,tvg-name="SiTV游戏风云" group-title="其他", SiTV游戏风云
-http://209.141.51.229:50001/TVOD/5000000002000027005/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV游戏风云" group-title="其他", SiTV游戏风云
 http://209.141.51.229:50001/TVOD/2000000002000000011/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="SiTV游戏风云" group-title="其他", SiTV游戏风云
@@ -23114,8 +23078,6 @@ http://38.147.190.7:50001/TVOD/5000000001000023256/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
 http://38.147.190.7:50001/TVOD/5000000001000026930/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
-http://38.147.190.7:50001/TVOD/2000000002000000050/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
 http://38.147.190.7:50001/TVOD/2000000002000000052/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
 http://38.147.190.7:50001/TVOD/2000000002000000024/hnbblive/index.m3u8
@@ -23547,8 +23509,6 @@ http://185.186.25.161:50001/TVOD/2000000002000000030/hnbblive/index.m3u8
 http://185.186.25.161:50001/TVOD/2000000002000000049/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
 http://185.186.25.161:50001/TVOD/2000000002000000051/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
-http://209.141.35.65:50001/TVOD/5000000001000002898/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
 http://209.141.35.65:50001/TVOD/5000000001000004876/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="百视通" group-title="其他", 百视通
@@ -24543,8 +24503,6 @@ http://91.208.73.125:50001/TVOD/1000000006000270002/ystenlive/index.m3u8
 http://91.208.73.125:50001/TVOD/1000000006000270003/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="咪咕视频" group-title="其他", 咪咕视频
 http://91.208.73.125:50001/TVOD/1000000006000270004/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="咪咕视频" group-title="其他", 咪咕视频
-http://91.208.73.125:50001/TVOD/1000000006000270005/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="咪咕视频" group-title="其他", 咪咕视频
 http://91.208.73.125:50001/TVOD/1000000006000270006/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="咪咕视频" group-title="其他", 咪咕视频
@@ -26779,8 +26737,6 @@ http://38.207.133.60:50001/TVOD/6000000006000060630/wasusyt/index.m3u8
 http://199.245.100.58:50001/TVOD/6000000006000060630/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="爱经典" group-title="其他", 爱经典
 http://156.238.251.44:50001/TVOD/6000000006000060630/wasusyt/index.m3u8
-#EXTINF:-1,tvg-name="爱经典" group-title="其他", 爱经典
-http://154.12.37.228:50001/TVOD/6000000006000060630/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="爱经典" group-title="其他", 爱经典
 http://156.226.171.32:50001/TVOD/6000000006000060630/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="爱经典" group-title="其他", 爱经典
