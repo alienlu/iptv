@@ -2886,8 +2886,6 @@ http://205.185.120.194:50001/TVOD/1000000001000012807/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://209.141.51.229:50001/TVOD/6000000001000004134/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
-http://209.141.51.229:50001/TVOD/1000000001000016568/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://209.141.51.229:50001/TVOD/1000000005000265019/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://209.141.51.229:50001/TVOD/5000000010000027763/bestzb/index.m3u8
@@ -2901,8 +2899,6 @@ http://154.12.36.226:50001/TVOD/1000000001000016568/ystenlive/index.m3u8
 http://154.12.36.226:50001/TVOD/5000000004000020424/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://154.12.36.226:50001/TVOD/1000000005000265019/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
-http://154.12.36.226:50001/TVOD/5000000010000027763/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
 http://154.12.36.226:50001/TVOD/1000000001000012807/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="山东卫视" group-title="卫视", 山东卫视
@@ -4691,8 +4687,6 @@ http://107.189.14.182:50001/TVOD/1000000002000024694/ystenlive/index.m3u8
 http://107.189.14.182:50001/TVOD/5000000006000040019/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
 http://107.189.5.63:50001/TVOD/5000000011000031120/bestzb/index.m3u8
-#EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
-http://107.189.5.63:50001/TVOD/1000000002000024694/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
 http://107.189.5.63:50001/TVOD/5000000006000040019/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="云南卫视" group-title="卫视", 云南卫视
@@ -8612,8 +8606,6 @@ http://107.189.14.176:50001/TVOD/1000000001000023734/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV10 科教" group-title="央视", CCTV10 科教
 http://107.189.14.176:50001/TVOD/1000000005000265010/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="CCTV10 科教" group-title="央视", CCTV10 科教
-http://107.189.14.176:50001/TVOD/5000000010000016738/bestzb/index.m3u8
-#EXTINF:-1,tvg-name="CCTV10 科教" group-title="央视", CCTV10 科教
 http://91.208.73.125:50001/TVOD/5000000004000012827/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="CCTV10 科教" group-title="央视", CCTV10 科教
 http://91.208.73.125:50001/TVOD/6000000001000031506/wasusyt/index.m3u8
@@ -11982,8 +11974,6 @@ http://38.207.133.60:50001/TVOD/5000000011000031209/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="湖南茶频道" group-title="其他", 湖南茶频道
 http://38.207.133.60:50001/TVOD/2000000002000000070/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="湖南茶频道" group-title="其他", 湖南茶频道
-http://199.245.100.58:50001/TVOD/2000000002000000070/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="湖南茶频道" group-title="其他", 湖南茶频道
 http://156.238.251.44:50001/TVOD/2000000002000000070/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="湖南茶频道" group-title="其他", 湖南茶频道
 http://154.12.37.228:50001/TVOD/5000000011000031209/bestzb/index.m3u8
@@ -15095,8 +15085,6 @@ http://154.12.37.228:50001/TVOD/5000000010000017540/bestzb/index.m3u8
 http://154.12.37.228:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="上海五星体育" group-title="其他", 上海五星体育
 http://156.226.171.32:50001/TVOD/5000000010000017540/bestzb/index.m3u8
-#EXTINF:-1,tvg-name="上海五星体育" group-title="其他", 上海五星体育
-http://156.226.171.32:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="上海五星体育" group-title="其他", 上海五星体育
 http://146.70.41.170:50001/TVOD/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="上海五星体育" group-title="其他", 上海五星体育
@@ -19040,8 +19028,6 @@ http://146.70.41.170:50001/TVOD/2000000003000000032/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
 http://146.70.41.170:50001/TVOD/1000000001000008139/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
-http://146.70.41.170:50001/TVOD/1000000004000024993/ystenlive/index.m3u8
-#EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
 http://142.171.146.94:50001/TVOD/1000000006000268003/ystenlive/index.m3u8
 #EXTINF:-1,tvg-name="NewTV超级电视剧" group-title="其他", NewTV超级电视剧
 http://142.171.146.94:50001/TVOD/2000000003000000032/hnbblive/index.m3u8
@@ -22794,8 +22780,6 @@ http://103.110.80.208:50001/TVOD/5000000011000031207/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV魅力足球" group-title="其他", SiTV魅力足球
 http://38.207.133.60:50001/TVOD/5000000011000031207/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV魅力足球" group-title="其他", SiTV魅力足球
-http://38.207.133.60:50001/TVOD/2000000002000000068/hnbblive/index.m3u8
-#EXTINF:-1,tvg-name="SiTV魅力足球" group-title="其他", SiTV魅力足球
 http://199.245.100.58:50001/TVOD/5000000011000031207/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV魅力足球" group-title="其他", SiTV魅力足球
 http://199.245.100.58:50001/TVOD/2000000002000000068/hnbblive/index.m3u8
@@ -22917,8 +22901,6 @@ http://199.245.100.58:50001/TVOD/5000000002000019634/bestzb/index.m3u8
 http://199.245.100.58:50001/TVOD/2000000002000000006/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="SiTV生活时尚" group-title="其他", SiTV生活时尚
 http://156.238.251.44:50001/TVOD/5000000002000019634/bestzb/index.m3u8
-#EXTINF:-1,tvg-name="SiTV生活时尚" group-title="其他", SiTV生活时尚
-http://156.238.251.44:50001/TVOD/2000000002000000006/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="SiTV生活时尚" group-title="其他", SiTV生活时尚
 http://154.12.37.228:50001/TVOD/5000000002000019634/bestzb/index.m3u8
 #EXTINF:-1,tvg-name="SiTV生活时尚" group-title="其他", SiTV生活时尚
@@ -23787,8 +23769,6 @@ http://192.145.45.241:50001/TVOD/6000000006000250630/wasusyt/index.m3u8
 http://192.145.45.241:50001/TVOD/2000000004000000056/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="爱旅行" group-title="其他", 爱旅行
 http://205.185.120.194:50001/TVOD/6000000006000250630/wasusyt/index.m3u8
-#EXTINF:-1,tvg-name="爱旅行" group-title="其他", 爱旅行
-http://205.185.120.194:50001/TVOD/2000000004000000056/hnbblive/index.m3u8
 #EXTINF:-1,tvg-name="爱旅行" group-title="其他", 爱旅行
 http://209.141.51.229:50001/TVOD/6000000006000250630/wasusyt/index.m3u8
 #EXTINF:-1,tvg-name="爱旅行" group-title="其他", 爱旅行
